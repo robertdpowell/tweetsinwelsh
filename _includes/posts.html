@@ -1,0 +1,29 @@
+<section id="posts">
+   <div class="container">
+      {% for post in site.posts %}
+    <div class="row post-entry">
+      <div class="col-sm-2">
+
+        <p class="post-date">
+          <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
+          <br class="post-divider">
+          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
+        </p>
+
+      </div>
+      <div class="col-sm-10 post-entry-details">
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p>
+            {% if post.summary %}
+              {{ post.summary }}
+              {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+            </p>
+      </div>
+    <div class="col-sm-12 post-divider">
+    </div>
+  </div>
+{% endfor %}
+      </div>
+</section>
