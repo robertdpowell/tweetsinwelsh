@@ -3,6 +3,7 @@ title:
 email:
 author:
 description:
+baseurl: "/"
 url:
 
 # Build settings
