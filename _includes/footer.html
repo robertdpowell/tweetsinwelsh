@@ -3,9 +3,13 @@
   <div class="container text-center text-info">
     <div class="row">
       <div class="col">
-        {% if site.show_social_icons %}
-          {% include social_links.html %}
-        {% endif %}
+          {% if site.linkedin_username %}
+    <li>
+      <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+        <i class="fa fa-linkedin"></i> LinkedIn
+      </a>
+    </li>
+  {% endif %}
       </div>
     </div>
     <div class="row">
