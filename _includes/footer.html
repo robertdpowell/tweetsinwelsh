@@ -3,18 +3,16 @@
   <div class="container text-center text-info">
     <div class="row">
       <div class="col">
-          {% if site.linkedin_username %}
-    <li class ="unstyled">
-      <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-  {% endif %}
+          <div class="social-links">
+              {% for link in site.data.settings.social %}
+              <a href="{{ link.link }}" class="icon-{{ link.icon }}"></a>
+              {% endfor %}
+            </div>
       </div>
     </div>
     <div class="row">
       <div class="col">
-        © {{ site.data.settings.title }} {{ site.time | date: '%Y' }}.
+        © {{ site.data.settings.title }} {{ site.time | date: '%Y' }}
       </div>
     </div>
       </div>
