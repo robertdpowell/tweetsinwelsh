@@ -10,4 +10,8 @@ permalink: :title/
 sass:
   sass_dir: css
 
- 
+# Social icons
+show_social_icons: true
+github_username: robertdpowell
+linkedin_username: robertdpowell
+twitter_username: rdp81
