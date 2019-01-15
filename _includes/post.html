@@ -1,10 +1,10 @@
 <div id="post" class="container pt-3">
   <div class="row">
     <div class="col">
+      <h2 class="fullpost-title">{{ page.title }}</h2>
       <p class="lead text-info">
         {{ page.date | date: "%b %-d, %Y" }}
       </p>
-      <h2 class="fullpost-title">{{ page.title }}</h2>
       <article>
         {{ content }}
       </article>
