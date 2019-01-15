@@ -24,8 +24,10 @@ This blog is...
 I'm working through a couple of other online web development courses at the moment so the journey of learning continues. This blog gives me a platform to experiment with what I learn.
 
 
+
 ##### A new job
 I've recently started an exciting role as DevOps Adoption Manager and want to share my experiences and learnings in this new position.
+
 
 
 ##### I love writing
