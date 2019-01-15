@@ -21,6 +21,8 @@ This blog is...
 
 * Hosted for free on Github Pages
 
+![A test image](https://robertdpowell.github.io/rp_blog//img/head.png)
+
 I'm working through a couple of other online web development courses at the moment so the journey of learning continues. This blog gives me a platform to experiment with what I learn.
 
 
