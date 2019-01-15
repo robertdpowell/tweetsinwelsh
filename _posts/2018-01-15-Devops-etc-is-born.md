@@ -1,10 +1,8 @@
 ---
 layout: post
 title: DevOps etc is born
-summary: I've been threatening to create a blog for a while now and during a quiet moment  over the Christmas period, finally got round to getting things up and running.  I've just started a new role as Devops Adoption Manager and my blog will be focussed on all things technology and software delivery.
+summary: I've been threatening to create a blog for a while now and during a quiet moment  over the Christmas period, finally got round to getting things up and running.  I've just started a new role as Devops Adoption Manager and my blog will be focussed on all things technology and software delivery. In this first post, I want to outline my reasons for creating this blog.
 ---
----
-In this first post, I want to outline my reasons for creating this blog.
 
 
 ##### Brushing up my dev skills
