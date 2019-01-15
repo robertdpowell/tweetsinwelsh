@@ -4,7 +4,7 @@ title: DevOps etc is born
 summary: I've been threatening to create a blog for a while now and during a quiet moment  over the Christmas period, finally got round to getting things up and running.  I've just started a new role as Devops Adoption Manager and my blog will be focussed on all things technology and software delivery.
 ---
 ---
-##### Why create a blog?
+In this first post, I want to outline my reasons for creating this blog.
 
 
 ##### Brushing up my dev skills
@@ -23,8 +23,10 @@ This blog is...
 
 I'm working through a couple of other online web development courses at the moment so the journey of learning continues. This blog gives me a platform to experiment with what I learn.
 
+
 ##### A new job
 I've recently started an exciting role as DevOps Adoption Manager and want to share my experiences and learnings in this new position.
+
 
 ##### I love writing
 I love to write. I'm forever jotting ideas down though it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
