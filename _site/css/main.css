@@ -6584,3 +6584,8 @@ a.text-dark:hover, a.text-dark:focus {
   margin: 2rem 0;
   border: 0;
   border-bottom: 3px dotted #d6d6d6; }
+
+.blog-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
