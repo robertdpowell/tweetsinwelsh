@@ -38,6 +38,10 @@ I've recently started an exciting role as DevOps Adoption Manager and wanted a w
 ##### Writing
 I love to write. I'm forever jotting ideas down and thought it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
 
+<hr class="separator" >
+
+
+
 
 
 [^1]: Thanks to Jonatton Yeah? at Sugar Ape magazine for providing the inspiration behind the name
