@@ -6528,7 +6528,6 @@ a.text-dark:hover, a.text-dark:focus {
     color: #FFF8F0; } }
 .home-subtitle {
   font-size: 1.6rem;
-  text-transform: uppercase;
   text-align: center;
   color: #FFF8F0;
   padding: 40px; }
@@ -6571,3 +6570,17 @@ a.text-dark:hover, a.text-dark:focus {
   text-decoration: none; }
   #posts a:hover {
     color: #343434; }
+
+.fullpost-title {
+  color: #AD0000;
+  text-transform: uppercase;
+  font-weight: bold; }
+
+.fullpost-date {
+  padding-bottom: 25px;
+  color: #999; }
+
+.separator {
+  margin: 2rem 0;
+  border: 0;
+  border-bottom: 3px dotted #d6d6d6; }
