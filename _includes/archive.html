@@ -6,8 +6,8 @@
         <ul class="postlist">
           {% for post in site.posts %}
             <li>
-              <span>{{ post.date | date: "%b %d, %Y" }}</span> -
-              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> -
+               <span>{{ post.date | date: "%b %d, %Y" }}</span>
             </li>
           {% endfor %}
         </ul>
