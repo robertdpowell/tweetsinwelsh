@@ -6572,7 +6572,7 @@ a.text-dark:hover, a.text-dark:focus {
     color: #343434; }
 
 .fullpost-title {
-  color: #AD0000;
+  color: #AD0000 !important;
   text-transform: uppercase;
   font-weight: bold; }
 
