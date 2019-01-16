@@ -6,7 +6,7 @@ summary: I've been threatening to create a blog for a while now and during a qui
 
 <hr class="separator" >
 
-Simon Sinek encourages us to ['Start with why''](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) and so here are the reasons why I started this blog.
+Simon Sinek encourages us to ['Start with why'](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) and so here are the reasons *why* I started this blog.
 
 
 ##### Brushing up my dev skills
@@ -21,7 +21,8 @@ This blog is...
 
 * Uses [Bootstrap](https://getbootstrap.com/) - a responsive front-end framework - with some of my own custom SASS
 
-* Hosted for free on Github Pages
+* Hosted on [Github Pages](https://pages.github.com/)
+
 
 My web development journey continues....I'm working through a course more focussed on backend development (node.js, APIs) at the moment.   Who knows..this blog might be the first of many interesting side projects!
 
@@ -34,6 +35,3 @@ I've recently started an exciting role as DevOps Adoption Manager and wanted a w
 
 ##### I love writing
 I love to write. I'm forever jotting ideas down and thought it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
-
-
-So there we have it
