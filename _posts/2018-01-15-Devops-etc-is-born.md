@@ -6,6 +6,8 @@ summary: I've been threatening to create a blog for a while now and during a qui
 
 <hr class="separator" >
 
+Simon Sinek encourages us to ['Start with why''](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) and so here are the reasons why I started this blog.
+
 
 ##### Brushing up my dev skills
 I work in software delivery. When you are surrounded by technology and technologists every day, it's important to have a solid understanding and appreciation of the development process, the tools involved and the languages and frameworks used. With that said, It's been a while since I last coded anything useful myself - a hotel booking app built in java for my MSc Computer Science project 8 years ago.  I've spent the intervening period working as a BA/Scrum Master/Product Owner/PM/Manager- always working closely with developers but not developing myself.
@@ -21,16 +23,17 @@ This blog is...
 
 * Hosted for free on Github Pages
 
+My web development journey continues....I'm working through a course more focussed on backend development (node.js, APIs) at the moment.   Who knows..this blog might be the first of many interesting side projects!
 
-
-I'm working through a couple of other online web development courses at the moment so the journey of learning continues. This blog gives me a platform to experiment with what I learn.
-
-
+<hr class="separator" >
 
 ##### A new job
-I've recently started an exciting role as DevOps Adoption Manager and want to share my experiences and learnings in this new position.
+I've recently started an exciting role as DevOps Adoption Manager and wanted a way to share my experiences and learnings in this new position. DevOps is a broad topic and I'm sure there will be no shortage of topics to write about!
 
-
+<hr class="separator" >
 
 ##### I love writing
-I love to write. I'm forever jotting ideas down though it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
+I love to write. I'm forever jotting ideas down and thought it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
+
+
+So there we have it

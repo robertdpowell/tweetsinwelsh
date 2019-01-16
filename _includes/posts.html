@@ -12,7 +12,7 @@
 
       </div>
       <div class="col-sm-10 post-entry-details">
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h2 class ="fullpost-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
           <p>
             {% if post.summary %}
               {{ post.summary }}
