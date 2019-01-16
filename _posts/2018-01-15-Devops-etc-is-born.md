@@ -6,7 +6,7 @@ summary: I've been threatening to create a blog for a while now and during a qui
 
 <hr class="separator" >
 
-Following the advice of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) in his book 'Start With Why', in this first blog post I'll outline the reasons *why* I have started DevOps etc[^1] blog.
+Following the advice of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) in his book 'Start With Why', in this first blog post I'll outline the reasons *why* I have started DevOps etc[^1] .
 
 <img src="https://robertdpowell.github.io/rp_blog/img/why.png" alt="Why" class="blog-image" />
 
