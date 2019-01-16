@@ -6,7 +6,7 @@ summary: I've been threatening to create a blog for a while now and during a qui
 
 <hr class="separator" >
 
-Following the advice of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) in his book 'Start With Why', in this first blog post I'll outline the reasons *why* I have started DevOps etc[^1] .
+Following the advice of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) in his book 'Start With Why', in this first blog post I'll outline the reasons *why* I have started DevOps Etc.
 
 <img src="https://robertdpowell.github.io/rp_blog/img/why.png" alt="Why" class="blog-image" />
 
@@ -37,11 +37,3 @@ I've recently started an exciting role as DevOps Adoption Manager and wanted a w
 
 ##### Writing
 I love to write. I'm forever jotting ideas down and thought it was about time my scribbles saw the light of day rather than being stuck in my Gmail drafts folder. I'm hoping that the practice of composing posts and putting them online will help to structure my ideas and refine my writing style.
-
-<hr class="separator" >
-
-
-
-
-
-[^1]: Thanks to Jonatton Yeah? at Sugar Ape magazine for providing the inspiration behind the name
