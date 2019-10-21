@@ -11,7 +11,7 @@ Following the advice of [Simon Sinek](https://www.ted.com/talks/simon_sinek_how_
 <img src="https://robertdpowell.github.io/rp_blog/img/why.png" alt="Why" class="blog-image" />
 
 
-##### Brushing up my dev skills 4343
+##### Brushing up my dev skills 434345435
 I work in software delivery. When you are surrounded by technology and technologists every day, it's important to have a solid understanding and appreciation of the development process, the tools involved and the languages and frameworks used. With that said, It's been a while since I last coded anything useful myself - a hotel booking app built in java for my MSc Computer Science project 8 years ago.  I've spent the intervening period working as a BA/Scrum Master/Product Owner/PM/Manager- always working closely with developers but not developing myself.
 
 
