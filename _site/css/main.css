@@ -2733,7 +2733,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 @media (max-width: 767px) { .home-title { font-size: 2.0em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
 
-.home-subtitle { font-size: 1.6rem; text-transform: uppercase; text-align: center; color: #FFF8F0; padding: 40px; }
+.home-subtitle { font-size: 1.4rem; text-align: center; color: #FFF8F0; padding: 40px; }
 
 .ml3 { font-weight: 900; font-size: 2.0em; }
 
