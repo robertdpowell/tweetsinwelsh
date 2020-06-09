@@ -6,7 +6,7 @@
         <ul class="postlist">
           {% for post in site.posts %}
             <li>
-              <a class="uppercase" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title | upcase }}</a> -
+              <a class="uppercase" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a> -
                <span>{{ post.date | date: "%b %d, %Y" }}</span>
             </li>
           {% endfor %}
