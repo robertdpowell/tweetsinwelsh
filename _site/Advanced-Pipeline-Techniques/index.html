@@ -105,7 +105,7 @@ There was a lot of content to go through during the sessions and I’m still rea
 
 <p>I really liked Dave’s description of the pipeline as an <strong>‘evaluation machine’</strong>, which we use to test whether or not our release candidates are production ready.</p>
 
-<p><img src="https://robertdpowell.github.io/rp_blog/img/evaluationmachine.png" /></p>
+<p><img class="blog-image" src="https://robertdpowell.github.io/rp_blog/img/evaluationmachine.png" /></p>
 
 <p>We pump our release candidates into one end of this evaluation machine, and it quickly tells us whether or not we have a viable unit of change that can continue on the path to production.</p>
 
@@ -118,7 +118,7 @@ The value of getting to a releasable outcome multiple times a day is so high tha
 
 <p>What is the unit of work that we should push through the pipeline? A feature? All output from one delivery team? A microservice? The whole system? It might indeed be all of these things, but the important factor to consider is that the unit of work is <strong>independently deployable</strong>.</p>
 
-<p><img src="./img/deploymentscope.png" alt="deployment scope" /></p>
+<p><img class="blog-image" src="https://robertdpowell.github.io/rp_blog/img/deploymentscope.png" /></p>
 
 <p>As such, we shoudn’t be deploying our unit of work without any dependent systems or services that our change needs to be tested against. This touches on the topic of systems coupling and dependency management. While monolithic applications have a bad reputation, from a deployment pipeline perspective it has some advantages, as we don’t need to worry ourselves with the dependency management challenge. We touched on the topic of bounded contexts and it’s clear that architecture and systems coupling can act as a contraint or enabler for our continuous delivery efforts.</p>
 
