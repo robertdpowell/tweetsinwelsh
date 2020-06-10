@@ -96,10 +96,10 @@
 
 <p>Items 3 and 4 were/are top of my list of topics to learn more about and where I need to focus some attention in my current role, so I was very glad that they were included.</p>
 
-<h2 id="my-3-main-takeaways">My 3 Main Takeaways</h2>
+<h4 id="my-3-main-takeaways">My 3 Main Takeaways</h4>
 <p>There was a lot of content to go through during the sessions and I’m still reading through my notes and the shared course slides. But the three things that really stuck with me from the course were as follows.</p>
 
-<h3 id="the-cd-pipeline-as-an-evaluation-machine">The CD Pipeline as an Evaluation Machine</h3>
+<h5 id="the-cd-pipeline-as-an-evaluation-machine">The CD Pipeline as an Evaluation Machine</h5>
 
 <p>A ‘Pipeline’ can be quite an abstract concept and in my experience, the term means different things to different people. To an engineer on my team, it’s a groovy script file. To a delivery manager it’s the automated deployment process.</p>
 
@@ -114,7 +114,7 @@
 <p>As an ambition, the ‘evaluation machine’ should run in &lt; 5 mins and give us an 80% confidence level in the release candidate. As a whole, the deployment pipeline should run in under 1 hour and therefore it should be possible to trigger it multiple times per day. 
 The value of getting to a releasable outcome multiple times a day is so high that we should be doing whatever it takes to achieve it!</p>
 
-<h3 id="the-cd-pipeline-scope">The CD Pipeline Scope</h3>
+<h5 id="the-cd-pipeline-scope">The CD Pipeline Scope</h5>
 
 <p>What is the unit of work that we should push through the pipeline? A feature? All output from one delivery team? A microservice? The whole system? It might indeed be all of these things, but the important factor to consider is that the unit of work is <strong>independently deployable</strong>.</p>
 
@@ -122,7 +122,7 @@ The value of getting to a releasable outcome multiple times a day is so high tha
 
 <p>As such, we shoudn’t be deploying our unit of work without any dependent systems or services that our change needs to be tested against. This touches on the topic of systems coupling and dependency management. While monolithic applications have a bad reputation, from a deployment pipeline perspective it has some advantages as we don’t need to worry ourselves with the dependency management challenge. We touched on the topic of bounded contexts and it’s clear that architecture and systems coupling can act as a contraint or enabler for our continuous delivery efforts.</p>
 
-<h3 id="a-cd-pipeline-for-your-cd-pipeline">A CD Pipeline for your CD Pipeline</h3>
+<h5 id="a-cd-pipeline-for-your-cd-pipeline">A CD Pipeline for your CD Pipeline</h5>
 
 <p>Our pipeline itself can be considered a product or service to which we should also apply the principles of Continuous Delivery. As such, we should be storing all pipeline artefacts in version control (source code, config, infra scripts). At any point in time, we should be able to determine which version of our pipeline was used to handle a specific release candidate and we should be able to recreate our pipeline infrastructure from code. And of course, changes we make to the CD pipeline are committed frequently, run against tests in our ‘evalution machine’ and our pipeline engineering team get fast feedback as to whether or not the release candidate is worthy to continue on its journey to production.</p>
 
