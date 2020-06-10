@@ -2757,9 +2757,11 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 #posts a:hover { color: #396afc; }
 
-.fullpost-title { color: #2948ff; text-transform: uppercase; font-weight: bold; }
+.fullpost-title { color: #2948ff; font-weight: bold; }
 
 .fullpost-date { padding-bottom: 25px; color: #999; }
+
+.fullpost-summary { font-style: italic; }
 
 .separator { margin: 2rem 0; border: 0; border-bottom: 3px dotted #d6d6d6; }
 
