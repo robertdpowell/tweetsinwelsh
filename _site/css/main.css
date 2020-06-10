@@ -2765,7 +2765,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .separator { margin: 2rem 0; border: 0; border-bottom: 3px dotted #d6d6d6; }
 
-.blog-image { display: block; margin-left: auto; margin-right: auto; height: 200px; width: 200px; }
+.blog-image { display: block; margin-left: auto; margin-right: auto; }
 
 .postlist { padding-left: 0; list-style-type: none; }
 
