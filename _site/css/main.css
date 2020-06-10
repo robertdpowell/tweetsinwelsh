@@ -2761,7 +2761,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .fullpost-date { padding-bottom: 25px; color: #999; }
 
-.fullpost-summary { font-style: italic; }
+.fullpost-summary { font-style: italic; color: #808080; }
 
 .separator { margin: 2rem 0; border: 0; border-bottom: 3px dotted #d6d6d6; }
 
