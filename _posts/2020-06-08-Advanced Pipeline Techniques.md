@@ -45,7 +45,7 @@ What is the unit of work that we should push through the pipeline? A feature? Al
 
 <p><img class="blog-image" src="https://robertdpowell.github.io/rp_blog/img/deploymentscope.png"/></p>
 
-As such, we shoudn't be deploying our unit of work without any dependent systems or services that our change needs to be tested against. This touches on the topic of systems coupling and dependency management. While monolithic applications have a bad reputation, from a deployment pipeline perspective it has some advantages as we don't need to worry ourselves with the dependency management challenge. We touched on the topic of bounded contexts and it's clear that architecture and systems coupling can act as a contraint or enabler for our continuous delivery efforts. 
+As such, we shoudn't be deploying our unit of work without any dependent systems or services that our change needs to be tested against. This touches on the topic of systems coupling and dependency management. While monolithic applications have a bad reputation, from a deployment pipeline perspective they have some advantages as we don't need to worry ourselves with the dependency management challenge. We touched on the topic of bounded contexts and it's clear that architecture and systems coupling can act as a contraint or enabler for our continuous delivery efforts. 
 
 
 ##### A CD Pipeline for your CD Pipeline
