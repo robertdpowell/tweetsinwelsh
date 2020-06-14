@@ -1,12 +1,17 @@
 ---
-layout: default
-title: About
+layout: about
+title: ABOUT
 permalink: /about/
 ---
-<section class="text-center py-5">
-
-    <div class="blurb"> 
-    <p><strong> {{ site.data.settings.blurb }} </p>
+<div class="container pt-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="about-title">{{ page.title }}</h2>
+      </div>
     </div>
-
-</section>
+    <div class="row">
+      <div class="col-sm-12">
+        <p class="">{{ site.data.settings.summary }}</p>
+      </div>
+    </div>
+</div>

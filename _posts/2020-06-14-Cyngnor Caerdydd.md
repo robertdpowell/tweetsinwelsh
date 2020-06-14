@@ -3,7 +3,11 @@ tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">🚴🏼 Mae Wyt
 firstattempt: Bike week is here! @Wearecyclinguk....course...for you....fun...safe... daily practice To..come to orlo.uk/Sbs2r  KeepWalesSafe
 correcttranslation: Bike week is back! To celebrate, @Wearecyclinguk is running a series of fun online events for you to take part locally and safely as part of your daily practice. For more information, visit....
 ---
+ddathlu - celebrate
 
+ar-lein - online
+
+rhan - part
 
 
 
