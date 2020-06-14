@@ -3,10 +3,8 @@ tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">O’r Morglawdd,
 firstattempt: From the ... to Bute Park ..., more and more people are....parking and...green Cardiff to run, walk and bike - lots very of people.... Remember to ..to KeepCardiff......
 correcttranslation: From the Barrrage to Bute Park and beyond, more and more people are using Cardiff's parks and green spaces to run, walk and bike - lots of people together. Remember others and KeepCardiffSafe by maintaining social distancing.
 ---
-|---|---|---|
-|Morglawdd|   -   |Barrage|
-|defnyddio |   -   |using |
-|a thu hwnt  |   -   |and beyond |
+Morglawdd - Barrage
 
+defnyddio - using
 
-
+a thu hwnt - and beyond

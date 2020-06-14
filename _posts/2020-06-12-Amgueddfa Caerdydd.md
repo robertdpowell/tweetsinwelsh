@@ -3,10 +3,12 @@ tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Rydym ni am glyw
 firstattempt: We ...  live in Wales...pandemic COVID19. ..your story...
 correcttranslation: We want to hear your experiences and feelings of living in Wales during the covid19 pandemic. By answering our questionnaire, your story will become part of the national collection
 ---
-|---|---|---|
-|Rydym ni am glywed eich|   -   |We want to hear your|
-|profiadau|   -   |experiences |
-|yn ystod |   -   |during |
+
+Rydym ni am glywed eich - We want to hear your
+
+profiadau - experiences
+
+yn ystod - during
 
 
 
