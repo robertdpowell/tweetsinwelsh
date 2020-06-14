@@ -2,28 +2,24 @@
    <div class="container">
       {% for post in site.posts %}
     <div class="row post-entry">
-      <div class="col-sm-2">
-
-        <p class="post-date">
-          <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
-          <br class="post-divider">
-          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
-        </p>
-
+      <div class="col-sm-6">
+        <div class="tweet-section"> 
+          <p>{{ post.tweet }}</p>
+        </div>
       </div>
-      <div class="col-sm-10 post-entry-details">
-        <h2><a href="{{ post.url | prepend: site.baseurl }}" class ="fullpost-title">{{ post.title }}</a></h2>
-          <p>
-            {% if post.summary %}
-              {{ post.summary }}
-              {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-            </p>
-            <p>{{ post.categories }}</p>
+      <div class="col-sm-6">
+        <div class="translation-section"> 
+          <h6 class="translation-sub-header-first translation-copy">FIRST ATTEMPT</h6>
+          <p class="translation-copy">{{post.firstattempt}}</p>
+          <div class="col-sm-12 translation-divider"></div>
+          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
+          <p class="translation translation-copy">{{post.correcttranslation}}</p>
+          <div class="col-sm-12 translation-divider"></div>
+          <h6 class="translation-sub-header-learned translation-copy">WORDS LEARNED </h6>
+          <p class="translation translation-copy">{{post.content}}</p>
+        </div>
       </div>
-    <div class="col-sm-12 post-divider">
-    </div>
+      <div class="col-sm-12 post-divider"></div>
   </div>
 {% endfor %}
       </div>
