@@ -6,7 +6,15 @@ subtitle: Learning to read Welsh, one tweet at a time...
 email: robertdpowell@gmail.com
 author: Rob Powell
 
-blurb:
+blurb: robertdpowell@gmail.com
+
+
+sources:
+
+- {link: 'https://twitter.com/gigsgcg'}
+- {link: 'https://twitter.com/cyngorcaerdydd'}
+- {link: 'https://twitter.com/Museum_Cardiff'}
+
 
 #-------------------------------
 # Contact Section

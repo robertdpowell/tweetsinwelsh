@@ -3,7 +3,7 @@ tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Ymunwch gyda ni 
 firstattempt: ....with us at 3 o clock in the afternoon..for conversation and a set...with Mared in our next Gwaelod Home Gig ... through our ....Facebook Gigs Cantre'r Gwaelod
 correcttranslation:  Join us at 3 o clock tomorrow afternoon for a special conversation and set with Mared in our next Gwaelod Home Gig through our Facebook Gigs Cantre'r Gwaelod page
 ---
-Ymunwch  gyda ni - join us
+Ymunwch gyda ni - join us
 
 dudalen - page
 
