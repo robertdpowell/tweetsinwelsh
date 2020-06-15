@@ -4,14 +4,29 @@ title: ABOUT
 permalink: /about/
 ---
 <div class="container pt-3">
-    <div class="row">
+    
+  <div class="row">
       <div class="col-sm-12">
         <h2 class="about-title">{{ page.title }}</h2>
       </div>
     </div>
+
     <div class="row">
       <div class="col-sm-12">
-        <p class="">{{ site.data.settings.summary }}</p>
+        <p class="about-text">{{ site.data.settings.summary }}</p>
       </div>
     </div>
-</div>
+
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="about-title">CONTACT</h2>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-sm-12">
+        <p class="about-text">{{ site.data.settings.email }}</p>
+      </div>
+    </div>
+
+  </div>

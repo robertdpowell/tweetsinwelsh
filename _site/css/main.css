@@ -2791,6 +2791,6 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .about-title { text-align: center; color: #93291E; }
 
-.about-text { font-size: 1000px; font-weight: 300s; }
+.about-text { text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
