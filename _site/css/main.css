@@ -2757,6 +2757,12 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .translation-section { padding-top: 15px; }
 
+#translation-block-one { border-left: 3px solid; border-color: red; padding-left: 30px; }
+
+#translation-block-two { border-left: 3px solid; border-color: green; padding-left: 30px; }
+
+#translation-block-three { border-left: 3px solid; border-color: orange; padding-left: 30px; }
+
 .translation-copy { font-family: 'Roboto', sans-serif; }
 
 .translation-header { color: #ED213A; font-weight: bold; }

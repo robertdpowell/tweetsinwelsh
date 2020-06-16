@@ -9,14 +9,18 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
-          <h6 class="translation-sub-header-first translation-copy">FIRST ATTEMPT</h6>
-          <p class="translation-copy">{{post.firstattempt}}</p>
-          <div class="col-sm-12 translation-divider"></div>
+          <div id="translation-block-one">
+            <h6 class="translation-sub-header-first translation-copy">FIRST ATTEMPT</h6>
+            <p class="translation-copy">{{post.firstattempt}}</p>
+         </div>
+         <div id="translation-block-two">
           <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
           <p class="translation translation-copy">{{post.correcttranslation}}</p>
-          <div class="col-sm-12 translation-divider"></div>
+         </div>
+         <div id="translation-block-three">
           <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
           <p class="translation translation-copy">{{post.content}}</p>
+          </div>
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
