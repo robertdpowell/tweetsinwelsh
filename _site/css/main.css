@@ -2767,9 +2767,9 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .translation-sub-header-learned { padding-top: 15px; color: #F37335; font-weight: bold; }
 
-.post-divider { border: 100px solid; border-color: red; }
+.post-divider { border: 1px solid; border-color: #B0B0B0; }
 
-.translation-divider { border: 1px solid; border-color: red; }
+.translation-divider { border: 1px solid; border-color: #B0B0B0; }
 
 .fullpost-title { color: #ED213A; font-weight: bold; }
 
