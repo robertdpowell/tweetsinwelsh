@@ -4,6 +4,11 @@ firstattempt: The week...then here..next week. Thanks to everyone for...this wee
 correcttranslation:  The week is almost over, so here's a look at next week's 'steddfodAmGen' activities. Thank you to everyone for supporting this week - you guys have been special!
 ---
 
+Mae'r wythnos bron ar ben - The week is nearly over
+
+weithgareddau - activities
+
+gefnogi - supporting
 
 
 
