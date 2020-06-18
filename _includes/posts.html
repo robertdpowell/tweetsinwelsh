@@ -1,7 +1,19 @@
 <section id="posts">
    <div class="container">
       {% for post in site.posts %}
-    <div class="row post-entry">
+      <div class="row post-entry">
+      <div class="col-sm-12">
+
+        <p class="post-date">
+          <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
+          <br class="post-divider">
+          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
+        </p>
+
+      </div>
+    </div>
+   
+      <div class="row post-entry">
       <div class="col-sm-6">
         <div class="tweet-section"> 
           <p>{{ post.tweet }}</p>

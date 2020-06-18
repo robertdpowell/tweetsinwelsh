@@ -1,10 +1,16 @@
 ---
-tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">O’r Morglawdd, i Barc Bute a thu hwnt mae mwy a mwy bobl yn defnyddio parciau a mannau gwyrdd <a href="https://twitter.com/hashtag/Caerdydd?src=hash&amp;ref_src=twsrc%5Etfw">#Caerdydd</a> i redeg, cerdded a beicio – llawer iawn o bobl at ei gilydd.<br><br>Cofiwch am eraill i <a href="https://twitter.com/hashtag/CadwCaerdyddynDdiogel?src=hash&amp;ref_src=twsrc%5Etfw">#CadwCaerdyddynDdiogel</a> drwy sicrhau ymbellhau cymdeithasol. <a href="https://t.co/CXj2QX7xRj">pic.twitter.com/CXj2QX7xRj</a></p>&mdash; Cyngor Caerdydd (@cyngorcaerdydd) <a href="https://twitter.com/cyngorcaerdydd/status/1271698987003887617?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-firstattempt: From the ... to Bute Park ..., more and more people are....parking and...green Cardiff to run, walk and bike - lots very of people.... Remember to ..to KeepCardiff......
-correcttranslation: From the Barrrage to Bute Park and beyond, more and more people are using Cardiff's parks and green spaces to run, walk and bike - lots of people together. Remember others and KeepCardiffSafe by maintaining social distancing.
+tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">🚴🏼 Mae Wythnos y Beic yn ôl! 🚴🏼‍♀️ I ddathlu, mae <a href="https://twitter.com/WeAreCyclingUK?ref_src=twsrc%5Etfw">@WeAreCyclingUK</a> yn cynnal cyfres o ddigwyddiadau hwyliog ar-lein i chi gymryd rhan yn lleol ac yn ddiogel yn rhan o’ch ymarfer dyddiol. Am ragor o wybodaeth, ewch i <a href="https://t.co/pOsglIJ9TV">https://t.co/pOsglIJ9TV</a> <a href="https://twitter.com/hashtag/CadwCymrunDdiogel?src=hash&amp;ref_src=twsrc%5Etfw">#CadwCymrunDdiogel</a> <a href="https://t.co/kOiZAhihPj">pic.twitter.com/kOiZAhihPj</a></p>&mdash; Cyngor Caerdydd (@cyngorcaerdydd) <a href="https://twitter.com/cyngorcaerdydd/status/1269162302319857665?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+firstattempt: Bike week is here! @Wearecyclinguk....course...for you....fun...safe... daily practice To..come to orlo.uk/Sbs2r  KeepWalesSafe
+correcttranslation: Bike week is back! To celebrate, @Wearecyclinguk is running a series of fun online events for you to take part locally and safely as part of your daily practice. For more information, visit....
 ---
-Morglawdd - Barrage
+dathlu - celebrate
 
-defnyddio - using
+ar-lein - online
 
-a thu hwnt - and beyond
+rhan - part
+
+
+
+
+
+
