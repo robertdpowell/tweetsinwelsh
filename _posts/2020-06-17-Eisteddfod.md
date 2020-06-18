@@ -6,9 +6,9 @@ correcttranslation:  The week is almost over, so here's a look at next week's 's
 
 Mae'r wythnos bron ar ben - The week is nearly over
 
-weithgareddau - activities
+gweithgareddau - activities
 
-gefnogi - supporting
+cefnogi - support
 
 
 
