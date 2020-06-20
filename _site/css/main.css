@@ -2801,7 +2801,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .about-title { text-align: center; color: #93291E; }
 
-.about-subtitle { color: #93291E; font-size: 15px; text-align: center; }
+.about-subtitle { color: #93291E; font-size: 15px; text-align: left; }
 
 .about-text { text-align: left; }
 
