@@ -2727,6 +2727,10 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .navbar-light .navbar-nav .nav-link:hover { color: #ED213A; }
 
+.footer-link { font-size: 1.1rem; padding-right: 15px; text-align: center; color: #93291E; }
+
+.footer-link:hover { color: #ED213A; }
+
 .banner { background: -webkit-linear-gradient(to right, #ED213A, #93291E); background: linear-gradient(to right, #ED213A, #93291E); min-height: 50vh; display: flex; align-items: center; }
 
 @media (min-width: 768px) { .home-title { font-size: 4.5em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
@@ -2797,6 +2801,8 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .about-title { text-align: center; color: #93291E; }
 
-.about-text { text-align: center; }
+.about-subtitle { color: #93291E; font-size: 15px; text-align: center; }
+
+.about-text { text-align: left; }
 
 /*# sourceMappingURL=main.css.map */
