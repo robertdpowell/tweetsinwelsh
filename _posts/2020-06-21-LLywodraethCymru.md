@@ -3,7 +3,7 @@ tweet: <blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Gyda mwy o siopa
 
 firstattempt: With more shops starting to open on Monday in Wales, here is a great opportunity to .... your support for your local center.
 
-correcttranslation: With more shops starting to reopen from Monday in Wales, this is a great opportunity to show your support for your local town center. It is essential that we continue to \#StayLocal to \#KeepWalesSafe from the coronavirus \#LocalEconomy
+correcttranslation: With more shops starting to reopen from Monday in Wales, this is a great opportunity to show your support for your local town center. It is essential that we continue to '#StayLocal' to '#KeepWalesSafe' from the coronavirus '#LocalEconomy'
 
 ---
 
