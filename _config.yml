@@ -15,3 +15,8 @@ show_social_icons: true
 github_username: robertdpowell
 linkedin_username: robertdpowell
 twitter_username: rdp81
+
+# Collections 
+collections:
+  blog:
+    output: true

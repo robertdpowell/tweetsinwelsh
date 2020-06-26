@@ -2745,6 +2745,22 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .social-links a:hover { color: #ED213A; cursor: pointer; }
 
+a { text-decoration: none; }
+
+a:hover { color: #93291E; }
+
+.post-entry { padding: 15px 0px 15px 0px; font-size: 1.0rem; }
+
+.post-date { padding: 15px 0px 15px 0px; text-align: center; }
+
+.day { display: block; font-size: 3.25rem; font-weight: 800; font-family: "Montserrat", sans-serif; color: black; }
+
+.month-year { display: block; font-size: 1rem; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
+
+.post-entry-details { padding: 15px 0px 15px 15px; }
+
+.post-divider { border: 0.5px solid black; }
+
 .post-entry { padding: 15px 0px 0px 0px; font-size: 1.0rem; }
 
 .post-date { text-align: center; }
