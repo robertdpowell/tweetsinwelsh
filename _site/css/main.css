@@ -2745,15 +2745,11 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .social-links a:hover { color: #ED213A; cursor: pointer; }
 
-a { text-decoration: none; }
-
-a:hover { color: #93291E; }
-
 .post-entry { padding: 15px 0px 15px 0px; font-size: 1.0rem; }
 
 .post-date { padding: 15px 0px 15px 0px; text-align: center; }
 
-.day { display: block; font-size: 3.25rem; font-weight: 800; font-family: "Montserrat", sans-serif; color: black; }
+.blog-day { display: block; font-size: 2rem; font-weight: 800; font-family: "Montserrat", sans-serif; color: black; }
 
 .month-year { display: block; font-size: 1rem; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
 
@@ -2797,7 +2793,9 @@ a:hover { color: #93291E; }
 
 .translation-divider { border: 1px solid; border-color: #B0B0B0; }
 
-.fullpost-title { color: #ED213A; font-weight: bold; }
+.fullpost-title { color: #ED213A; font-weight: bold; text-decoration: none; }
+
+.fullpost-title:hover { color: #93291E; }
 
 .fullpost-date { padding-bottom: 10px; color: #999; }
 
