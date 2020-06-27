@@ -65,7 +65,7 @@ I'm sharing my learning journey online in the hope that doing so will keep me co
 
 A big thanks to everyone who has offered kind words of support for this little adventure so far.
 
-Until next time...
+Until next time!
 <br>
 <br>
 
