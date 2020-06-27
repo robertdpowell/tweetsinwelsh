@@ -34,7 +34,7 @@ I needed to find a routine and a resource that helped enforce a discipline of da
 
 And that is where the idea for tweetsinwelsh.com came from.
 
-<p><img class="blog-image" src="/tweetsinwelsh.com/img/journeystarts.jpg"/></p>
+<p><img class="blog-image" src="https://robertdpowell.github.io/tweetsinwelsh/img/journeystarts.jpg"/></p>
 
 
 ### WHY TWEETS?
