@@ -14,12 +14,12 @@ Panic began to set in. How are we going to do this? Should we just focus on Engl
 **This wasn't the plan!**
 
 
-The school were (still are) doing a fantastic job of sending out resources to support her learning but even the most basic of books was a struggle for us to follow.
+The school are doing a fantastic job of sending out resources to support her learning but even the most basic of books are a struggle for us to follow.
 
 
 So I realised that I needed to do something to accelerate my acquisition of the language.
 
-#### TRYING TO FIND THE RIGHT RESOURCE FOR ME
+#### TRYING TO FIND THE RIGHT LEARNING RESOURCE
 
 Both of us have been trying our best to learn the language since she started at her school last September. We both work full time and as other parents will understand, finding the time to learn a new language is a real challenge. My wife prefers the more traditional and stuctured classroom based setting and enrolled in an evening class, whereas I have been relying on online services such as [Say Something in Welsh](https://www.saysomethingin.com/welsh) that I can consume when I get a spare 10 minutes during the day.
 
@@ -40,7 +40,7 @@ And that is where the idea for [Tweets In Welsh](https://tweetsinwelsh.com/) cam
 Tweets are a wonderful medium for learning a language.
 
 1. They are short
-2. They are written in everyday language 
+2. They are very often written in everyday language 
 3. There are plenty of them (and they are cheap to source!)
 4. They cover a wide variety of interests (music, sport, technoloy, the news..) 
 
