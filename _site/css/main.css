@@ -2747,11 +2747,11 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .blog-post-entry { padding: 15px 0px 15px 0px; font-size: 1.0rem; }
 
-.blog-post-date { padding: 15px 0px 15px 0px; text-align: center; }
+.blog-post-date { padding: 15px 0px 15px 15px; text-align: center; }
 
 .blog-day { display: block; font-size: 2rem; font-weight: 800; font-family: "Montserrat", sans-serif; color: black; }
 
-.bloog-month-year { display: block; font-size: 1rem; padding-top: 10px; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
+.blog-month-year { display: block; font-size: 1rem; padding-top: 100px; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
 
 .blog-post-entry-details { padding: 15px 0px 15px 15px; }
 
@@ -2793,7 +2793,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .translation-divider { border: 1px solid; border-color: #B0B0B0; }
 
-.fullpost-title { color: #ED213A; font-weight: bold; text-decoration: none; }
+.fullpost-title { color: #ED213A; font-weight: bold; text-transform: uppercase; text-decoration: none; }
 
 .fullpost-title:hover { color: #93291E; }
 
