@@ -1,13 +1,13 @@
 <section id="blogindex">
   <div class="container">
       {% for post in site.blog %}
-    <div class="row post-entry">
+    <div class="row blog-post-entry">
       <div class="col-sm-2 blog-post-date">
 
         <p>
           <span class="blog-day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
           <br class="post-divider">
-          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
+          <span class="blog-month-year">{{ post.date | date: "%b %Y" }}</span>
         </p>
 
       </div>

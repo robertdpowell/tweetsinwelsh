@@ -2747,11 +2747,11 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .blog-post-entry { padding: 15px 0px 15px 0px; font-size: 1.0rem; }
 
-.blog-post-date { padding: 15px 0px 15px 15px; text-align: center; }
+.blog-post-date { text-align: center; }
 
-.blog-day { display: block; font-size: 2rem; font-weight: 800; font-family: "Montserrat", sans-serif; color: black; }
+.blog-day { display: block; font-size: 3.25rem; font-weight: 100; font-family: "Montserrat", sans-serif; color: black; }
 
-.blog-month-year { display: block; font-size: 1rem; padding-top: 100px; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
+.blog-month-year { display: block; font-size: 1rem; text-transform: uppercase; margin-top: -2.5rem; color: #ED213A; }
 
 .blog-post-entry-details { padding: 15px 0px 15px 15px; }
 
