@@ -61,7 +61,7 @@ So in an effort to improve my Welsh reading and vocabulary, I have committed to 
 
 [tweetsinwelsh.com](https://tweetsinwelsh.com/) is where I am publishing this learning journey.
 
-I'm sharing my learning journey online in the hope that doing so will keep me committed and disciplined **(2 weeks in now and still going strong!)**. But also, I hope that it adds some value for others who are learning the language..
+I'm sharing my learning journey online in the hope that doing so will keep me committed and disciplined **(2 weeks in now and still going strong!)**. But also, I hope that it adds some value for others who are learning the language.
 
 A big thanks to everyone who has offered kind words of support for this little adventure so far.
 
