@@ -1,7 +1,7 @@
 ---
 layout: fullpost
 title: In at the deep end
-summary: -Why I built this website.
+summary: -Why I built tweetsinwelsh.com.
 permalink: /blog/in-at-the-deep-end
 published: true
 ---
