@@ -1,15 +1,18 @@
 ---
 layout: fullpost
 title: In at the deep end
-summary: A resource to help 
+summary: Why I built this website
 permalink: /blog/in-at-the-deep-end
-published: false
+published: true
 ---
 
-A few months ago when the lockdown came into effect, our lives changed. As for everybody else, our regular routine was turned upside down. Having chosen a Welsh medium education for our reception age child, my wife and I were now not only home-schooling but home-schooling through the medium of a language that we could barely speak, read or write! 
+A few months ago when the lockdown came into effect, our lives changed. As was the case for everybody else, our regular routine was turned upside down. Having chosen a Welsh medium education for our reception age child, my wife and I were now not only home-schooling but home-schooling through the medium of a **language that we could barely speak, read or write!** 
 
 
-Panic began to set in. How are we going to do this? Should we just focus on English for now? What happens when she goes back in September - she'll be behind! 
+Panic began to set in. 
+
+
+*How are we going to do this? Should we just focus on English for now? What happens when she goes back in September - will she have fallen behind? How are we going to help her?*
 
 **This wasn't the plan!**
 
@@ -17,15 +20,18 @@ Panic began to set in. How are we going to do this? Should we just focus on Engl
 The school are doing a fantastic job of sending out resources to support her learning but even the most basic of books are a struggle for us to follow.
 
 
-So I realised that I needed to do something to accelerate my acquisition of the language.
+I realised that I needed to do something to accelerate my acquisition of the language.
+
+<br>
 
 #### TRYING TO FIND THE RIGHT LEARNING RESOURCE
 
-Both of us have been trying our best to learn the language since she started at her school last September. We both work full time and as other parents will understand, finding the time to learn a new language is a real challenge. My wife prefers the more traditional and stuctured classroom based setting and enrolled in an evening class, whereas I have been relying on online services such as [Say Something in Welsh](https://www.saysomethingin.com/welsh) that I can consume when I get a spare 10 minutes during the day.
+We have been trying our best to learn the language since she started at her school last September. We both work full time and as other parents will understand, finding the time to learn a new language is a real challenge. My wife prefers the more traditional and stuctured classroom based setting and enrolled in an evening class, whereas I have been relying on online services such as the excellent [Say Something in Welsh](https://www.saysomethingin.com/welsh) that I can consume when I get a spare 10 minutes during the day.
 
 
 The problem with my approach of course is that **I** need to bring the discipline and structure, and with so many worklife/homelife distractions I found that I was sometimes going weeks without doing any Welsh at all....
 
+<br>
 
 ####  CREATING MY OWN RESOURCE
 
@@ -35,37 +41,50 @@ And that is where the idea for [Tweets In Welsh](https://tweetsinwelsh.com/) cam
 
 <p><img class="blog-image" src="https://robertdpowell.github.io/tweetsinwelsh/img/journeystarts.jpg"/></p>
 
+<br>
+
 #### WHY TWEETS?
 
 Tweets are a wonderful medium for learning a language.
 
 1. They are short
-2. They are very often written in everyday language 
+2. They are very often written in 'everyday' language 
 3. There are plenty of them (and they are cheap to source!)
 4. They cover a wide variety of interests so there's something for everyone (music, sport, technoloy, the news..) 
 
-So in an effort to improve my Welsh reading and vocabulary, I have committed to **translating one tweet from Welsh to English every day.**
+
+So in an effort to improve my Welsh reading and vocabulary, I have committed to ***translating one tweet from Welsh to English every day.***
+
+<br>
 
 #### TWEETSINWELSH.COM
 
 [tweetsinwelsh.com](https://tweetsinwelsh.com/) is where I am publishing this learning journey.
 
-By sharing my learning journey online I hope that not only will it keep me committed amd disciplined **(2 weeks in now and still going strong!)**, but also that others find it of some use in their own Welsh learning journey.
+By sharing my learning journey online I hope that not only will it keep me committed and disciplined **(2 weeks in now and still going strong!)**, but also that others find it of some use in their own Welsh learning journey.
 
 A big thanks to everyone who has offered kind words of support for this little adventure so far.
 
-Right, time to find today's tweet to translate!
+Now it's time to find today's tweet to translate!
 
 Until next time...
+<br>
+<br>
 
-[Click here for all Tweets translated so far](https://tweetsinwelsh.com/)
-
-
-[Click here for the vocabulary list](https://tweetsinwelsh.com/words/)
-
-
-[If this website helps you with your learning journey, please send me an email Show your support for Tweets in Welsh](https://www.buymeacoffee.com/tweetsinwelsh)
+Click here for all Tweets translated so far [TWEETS](https://tweetsinwelsh.com/)
 
 
+Click here for the vocabulary list [VOCAB](https://tweetsinwelsh.com/words/)
+
+<br>
+
+If this website helps you with your learning journey or if you have any feedback, please email me at **robertdpowell@gmail.com**
+
+<br>
+<br>
+
+___
+
+*Show your support for Tweets in Welsh.*
 
 <style>.bmc-button img{height: 34px !important;width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 15px 7px 10px !important;line-height: 35px !important;height:51px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF5F5F !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 15px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px;font-size:28px !important;">Buy me a coffee</span></a>
