@@ -2801,6 +2801,8 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .fullpost-title:hover { color: #93291E; }
 
+.inpost-title { color: #ED213A; font-weight: bold; text-transform: uppercase; text-decoration: none; }
+
 .fullpost-date { padding-bottom: 10px; color: #999; }
 
 .fullpost-summary { font-style: italic; color: #808080; }
