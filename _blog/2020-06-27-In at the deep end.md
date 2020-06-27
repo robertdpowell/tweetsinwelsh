@@ -50,7 +50,7 @@ Tweets are a wonderful medium for learning a language.
 1. They are short
 2. They are very often written in 'everyday' language 
 3. There are plenty of them (and they are cheap to source!)
-4. They cover a wide variety of interests so there's something for everyone (music, sport, technoloy, the news..) 
+4. They cover a wide variety of interests so there's something for everyone (music, sport, technology, the news..) 
 
 
 So in an effort to improve my Welsh reading and vocabulary, I have committed to ***translating one tweet from Welsh to English every day.***
@@ -61,11 +61,9 @@ So in an effort to improve my Welsh reading and vocabulary, I have committed to 
 
 [tweetsinwelsh.com](https://tweetsinwelsh.com/) is where I am publishing this learning journey.
 
-By sharing my learning journey online I hope that not only will it keep me committed and disciplined **(2 weeks in now and still going strong!)**, but also that others find it of some use in their own Welsh learning journey.
+I'm sharing my learning journey online in the hope that doing so will keep me committed and disciplined **(2 weeks in now and still going strong!)**. But also, I hope that it adds some value for others who are learning the language..
 
 A big thanks to everyone who has offered kind words of support for this little adventure so far.
-
-Now it's time to find today's tweet to translate!
 
 Until next time...
 <br>
