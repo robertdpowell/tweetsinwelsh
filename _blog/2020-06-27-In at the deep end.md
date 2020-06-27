@@ -1,7 +1,7 @@
 ---
 layout: fullpost
 title: In at the deep end
-summary: A few months ago when the lockdown came into effect, like for most people our lives changed and our regular routine was turned upside down. Having chosen a Welsh medium education for our reception age child, my wife and I were now not only home-schooling but home-schooling through the medium of a language that we could bareley speak, read or write! Panic began to set in....
+summary: A resource to help 
 permalink: /blog/in-at-the-deep-end
 published: true
 ---
@@ -57,6 +57,9 @@ A big thanks to everyone who has offered kind words of support for this little a
 Right, time to find today's tweet to translate!
 
 Until next time...
+
+[Click here for all Tweets translated so far](https://tweetsinwelsh.com/)
+[Click here for the vocabulary list](https://tweetsinwelsh.com/words/)
 
 
 
