@@ -2741,6 +2741,10 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .ml3 { font-weight: 900; font-size: 2.0em; }
 
+#blogposts a { text-decoration: none; }
+
+#blogposts a:hover { color: #93291E; }
+
 .social-links a { text-decoration: none; padding-right: 10px; }
 
 .social-links a:hover { color: #ED213A; cursor: pointer; }
