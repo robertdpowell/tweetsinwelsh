@@ -1,15 +1,17 @@
 ---
 layout: fullpost
-title: Learning to read Welsh, one tweet at a time
+title: In at the deep end
 summary: A few months ago when the lockdown came into effect, like for most people our lives changed and our regular routine was turned upside down. Having chosen a Welsh medium education for our reception age child, my wife and I were now not only home-schooling but home-schooling through the medium of a language that we could bareley speak, read or write! Panic began to set in....
+permalink: /blog/in-at-the-deep-end
 published: true
 ---
-#### IN AT THE DEEP END
 
 A few months ago when the lockdown came into effect, our lives changed. As for everybody else, our regular routine was turned upside down. Having chosen a Welsh medium education for our reception age child, my wife and I were now not only home-schooling but home-schooling through the medium of a language that we could barely speak, read or write! 
 
 
-Panic began to set in. How are we going to do this? Should we just focus on English for now? What happens when she goes back in September - she'll be behind! **This wasn't the plan!**
+Panic began to set in. How are we going to do this? Should we just focus on English for now? What happens when she goes back in September - she'll be behind! 
+
+**This wasn't the plan!**
 
 
 The school were (still are) doing a fantastic job of sending out resources to support her learning but even the most basic of books was a struggle for us to follow.
