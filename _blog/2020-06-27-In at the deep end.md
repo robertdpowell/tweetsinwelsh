@@ -1,7 +1,7 @@
 ---
 layout: fullpost
 title: In at the deep end
-summary: -Why I built TweetsInWelsh
+summary: Why I built TweetsInWelsh
 permalink: /blog/in-at-the-deep-end
 published: true
 ---
@@ -76,7 +76,7 @@ Click here for the vocabulary list [VOCAB](https://tweetsinwelsh.com/words/)
 
 <br>
 
-If this website helps you with your learning journey or if you have any feedback, please email me at **robertdpowell@gmail.com**
+If this website helps you with your learning journey or if you have any feedback, please email me at **tweetsinwelsh@gmail.com**
 
 <br>
 <br>
