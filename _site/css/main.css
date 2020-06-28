@@ -2735,7 +2735,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 @media (min-width: 768px) { .home-title { font-size: 4.5em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
 
-@media (max-width: 767px) { .home-title { font-size: 2.0em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
+@media (max-width: 767px) { .home-title { font-size: 2.0em; } }
 
 .home-subtitle { font-size: 1.6rem; text-align: center; color: #FFF8F0; padding: 40px; }
 
@@ -2744,6 +2744,10 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 #blogposts a { text-decoration: none; }
 
 #blogposts a:hover { color: #93291E; }
+
+a { text-decoration: none; }
+
+a:hover { color: #93291E; }
 
 .social-links a { text-decoration: none; padding-right: 10px; color: #93291E; }
 
@@ -2826,3 +2830,5 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 .about-text { text-align: left; }
 
 .email-text { text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
