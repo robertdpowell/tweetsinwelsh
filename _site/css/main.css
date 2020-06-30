@@ -2721,7 +2721,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .navbar { box-shadow: 1px 1px 3px #c50132; opacity: 0.6; background: #fff; }
 
-.nav-item { font-size: 1.1rem; padding-right: 15px; text-align: center; }
+.nav-item { font-size: 1.1rem; text-align: center; }
 
 .navbar-light .navbar-nav .nav-link { color: #c50132; }
 
