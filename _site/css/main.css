@@ -2721,7 +2721,7 @@ body { overflow-x: hidden; }
 
 .logo { height: 80px; width: 80px; }
 
-.navbar { box-shadow: 1px 1px 3px #c50132; opacity: 0.6; background: #fff; }
+.navbar { box-shadow: 1px 1px 3px #c50132; opacity: 0.6; background: #fff; overflow-x: hidden; }
 
 .nav-item { font-size: 1.1rem; text-align: center; }
 
@@ -2733,7 +2733,7 @@ body { overflow-x: hidden; }
 
 .footer-link:hover { color: #ED213A; }
 
-.banner { background: -webkit-linear-gradient(to right, #c50132, #c50132); background: linear-gradient(to right, #c50132, #c50132); min-height: 50vh; display: flex; align-items: center; }
+.banner { background: -webkit-linear-gradient(to right, #c50132, #c50132); background: linear-gradient(to right, #c50132, #c50132); min-height: 50vh; display: flex; align-items: center; overflow-x: hidden; }
 
 .bannerimage { text-align: center; }
 
