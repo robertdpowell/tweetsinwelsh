@@ -2731,17 +2731,17 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .footer-link:hover { color: #ED213A; }
 
-.no-padding { padding-left: 0; padding-right: 0; }
+.banner { background: -webkit-linear-gradient(to right, #c50132, #c50132); background: linear-gradient(to right, #c50132, #c50132); min-height: 50vh; display: flex; align-items: center; }
+
+.bannerimage { text-align: center; }
 
 @media (min-width: 768px) { .home-title { font-size: 4.5em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
 
 @media (max-width: 767px) { .home-title { font-size: 2.0em; text-transform: uppercase; font-weight: bold; color: #FFF8F0; } }
 
-.home-subtitle { font-size: 1.6rem; text-align: center; color: #FFF8F0; padding: 40px; }
+.home-subtitle { font-size: 1.2rem; font-weight: 350; text-align: center; color: #FFF8F0; padding: 40px; }
 
 .ml3 { font-weight: 900; font-size: 2.0em; }
-
-.coffee { text-align: center; }
 
 #blogposts a { text-decoration: none; }
 
@@ -2783,7 +2783,7 @@ a:hover { color: #c50132; }
 
 .translation-section { padding-top: 15px; }
 
-#translation-block-one { border-left: 5px solid; border-color: red; padding-left: 20px; }
+#translation-block-one { border-left: 5px solid; border-color: #c50132; padding-left: 20px; }
 
 #translation-block-two { border-left: 5px solid; border-color: green; padding-left: 20px; }
 
@@ -2793,7 +2793,7 @@ a:hover { color: #c50132; }
 
 .translation-header { color: #ED213A; font-weight: bold; }
 
-.translation-sub-header-first { color: #ED213A; font-weight: bold; }
+.translation-sub-header-first { color: #c50132; font-weight: bold; }
 
 .translation-sub-header-correct { color: #2C7744; font-weight: bold; }
 
