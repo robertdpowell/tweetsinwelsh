@@ -2070,9 +2070,9 @@ body { overflow-x: hidden; }
 
 .pagination li:last-child a { -webkit-border-radius: 0 3px 3px 0; -moz-border-radius: 0 3px 3px 0; border-radius: 0 3px 3px 0; }
 
-.pagination a { padding: 14px 14px 14px 14px; background-color: #c50132; color: white; border-radius: 50%; font-weight: 100px; border: 1px solid #DDD; border-left-width: 0; padding-bottom: 10px; }
+.pagination a { padding: 14px 14px 14px 14px; background-color: white; color: #c50132; border-radius: 50%; font-weight: 100px; border-left-width: 0; padding-bottom: 10px; }
 
-.currentpage { padding: 14px 14px 14px 14px; background-color: #c50132; color: pink; border-radius: 50%; font-weight: 100px; border: 1px solid #DDD; border-left-width: 0; padding-bottom: 7px; }
+.pagination a currentpage { padding: 14px 14px 14px 14px; background-color: white; color: #c50132; border-radius: 50%; font-weight: 100px; border: 1px solid #DDD; border-left-width: 0; padding-bottom: 7px; }
 
 .pagination a:hover, .active a { background-color: whiteSmoke; }
 
