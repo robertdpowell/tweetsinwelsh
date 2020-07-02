@@ -1,6 +1,6 @@
 <section id="posts">
    <div class="container">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <div class="row post-entry">
       <div class="col-sm-12">
 
@@ -38,5 +38,40 @@
       <div class="col-sm-12 post-divider"></div>
   </div>
 {% endfor %}
+
+
+{% if paginator.total_pages > 1 %}
+
+<div class="row paginate-belt">
+  <div class="col-sm-4"></div>
+  <div class="col-sm-4 d-flex justify-content-center">
+    <div class= "pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; </a>
+  {% else %}
+    <span></span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <a class= "currentpage">{{ page }}</a>
+    {% elsif page == 1 %}
+      <a href="/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}"> &raquo;</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+</div>
+{% endif %}
+</div>
+<div class="col-sm-4"></div>
+      </div>
+      </div>
       </div>
 </section>
