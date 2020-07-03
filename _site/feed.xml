@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-03T06:36:41+01:00</updated><id>/</id><entry><title type="html">Gwefus</title><link href="/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-07-02T00:00:00+01:00</published><updated>2020-07-02T00:00:00+01:00</updated><id>/Gwefus</id><content type="html" xml:base="/Gwefus/">&lt;p&gt;bellach - now&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-03T15:59:30+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Ylolfa</title><link href="http://localhost:4000/YLolfa/" rel="alternate" type="text/html" title="Ylolfa" /><published>2020-07-03T00:00:00+01:00</published><updated>2020-07-03T00:00:00+01:00</updated><id>http://localhost:4000/YLolfa</id><content type="html" xml:base="http://localhost:4000/YLolfa/">&lt;p&gt;lleoli - located&lt;/p&gt;
+
+&lt;p&gt;canol - middle&lt;/p&gt;
+
+&lt;p&gt;cyhoeddi - announce&lt;/p&gt;</content><summary type="html">lleoli - located</summary></entry><entry><title type="html">Gwefus</title><link href="http://localhost:4000/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-07-02T00:00:00+01:00</published><updated>2020-07-02T00:00:00+01:00</updated><id>http://localhost:4000/Gwefus</id><content type="html" xml:base="http://localhost:4000/Gwefus/">&lt;p&gt;bellach - now&lt;/p&gt;
 
 &lt;p&gt;ar hyn o bryd - at the moment&lt;/p&gt;
 
-&lt;p&gt;bendigedig - wonderful&lt;/p&gt;</content><summary type="html">bellach - now</summary></entry><entry><title type="html">Mindcymru</title><link href="/MindCymru/" rel="alternate" type="text/html" title="Mindcymru" /><published>2020-07-01T00:00:00+01:00</published><updated>2020-07-01T00:00:00+01:00</updated><id>/MindCymru</id><content type="html" xml:base="/MindCymru/">&lt;p&gt;iaith - language&lt;/p&gt;
+&lt;p&gt;bendigedig - wonderful&lt;/p&gt;</content><summary type="html">bellach - now</summary></entry><entry><title type="html">Mindcymru</title><link href="http://localhost:4000/MindCymru/" rel="alternate" type="text/html" title="Mindcymru" /><published>2020-07-01T00:00:00+01:00</published><updated>2020-07-01T00:00:00+01:00</updated><id>http://localhost:4000/MindCymru</id><content type="html" xml:base="http://localhost:4000/MindCymru/">&lt;p&gt;iaith - language&lt;/p&gt;
 
 &lt;p&gt;argaeledd - availability&lt;/p&gt;
 
-&lt;p&gt;iechyd meddwl - mental health&lt;/p&gt;</content><summary type="html">iaith - language</summary></entry><entry><title type="html">Duolingo</title><link href="/Duolingo/" rel="alternate" type="text/html" title="Duolingo" /><published>2020-06-30T00:00:00+01:00</published><updated>2020-06-30T00:00:00+01:00</updated><id>/Duolingo</id><content type="html" xml:base="/Duolingo/">&lt;p&gt;uniongyrchol - direct&lt;/p&gt;
+&lt;p&gt;iechyd meddwl - mental health&lt;/p&gt;</content><summary type="html">iaith - language</summary></entry><entry><title type="html">Duolingo</title><link href="http://localhost:4000/Duolingo/" rel="alternate" type="text/html" title="Duolingo" /><published>2020-06-30T00:00:00+01:00</published><updated>2020-06-30T00:00:00+01:00</updated><id>http://localhost:4000/Duolingo</id><content type="html" xml:base="http://localhost:4000/Duolingo/">&lt;p&gt;uniongyrchol - direct&lt;/p&gt;
 
 &lt;p&gt;..ata i - ..to me&lt;/p&gt;
 
-&lt;p&gt;anfon - send&lt;/p&gt;</content><summary type="html">uniongyrchol - direct</summary></entry><entry><title type="html">Rhieni</title><link href="/Rhieni/" rel="alternate" type="text/html" title="Rhieni" /><published>2020-06-29T00:00:00+01:00</published><updated>2020-06-29T00:00:00+01:00</updated><id>/Rhieni</id><content type="html" xml:base="/Rhieni/">&lt;p&gt;effaith - effect&lt;/p&gt;
+&lt;p&gt;anfon - send&lt;/p&gt;</content><summary type="html">uniongyrchol - direct</summary></entry><entry><title type="html">Rhieni</title><link href="http://localhost:4000/Rhieni/" rel="alternate" type="text/html" title="Rhieni" /><published>2020-06-29T00:00:00+01:00</published><updated>2020-06-29T00:00:00+01:00</updated><id>http://localhost:4000/Rhieni</id><content type="html" xml:base="http://localhost:4000/Rhieni/">&lt;p&gt;effaith - effect&lt;/p&gt;
 
 &lt;p&gt;isod - below&lt;/p&gt;
 
-&lt;p&gt;llenwi - fill&lt;/p&gt;</content><summary type="html">effaith - effect</summary></entry><entry><title type="html">Ntw</title><link href="/NTW/" rel="alternate" type="text/html" title="Ntw" /><published>2020-06-28T00:00:00+01:00</published><updated>2020-06-28T00:00:00+01:00</updated><id>/NTW</id><content type="html" xml:base="/NTW/">&lt;p&gt;ffôn symudol - mobile phone&lt;/p&gt;
+&lt;p&gt;llenwi - fill&lt;/p&gt;</content><summary type="html">effaith - effect</summary></entry><entry><title type="html">Ntw</title><link href="http://localhost:4000/NTW/" rel="alternate" type="text/html" title="Ntw" /><published>2020-06-28T00:00:00+01:00</published><updated>2020-06-28T00:00:00+01:00</updated><id>http://localhost:4000/NTW</id><content type="html" xml:base="http://localhost:4000/NTW/">&lt;p&gt;ffôn symudol - mobile phone&lt;/p&gt;
 
 &lt;p&gt;lawrlwytho - download&lt;/p&gt;
 
-&lt;p&gt;ewch fan hyn - go/head here&lt;/p&gt;</content><summary type="html">ffôn symudol - mobile phone</summary></entry><entry><title type="html">Eisteddfod</title><link href="/Eisteddfod/" rel="alternate" type="text/html" title="Eisteddfod" /><published>2020-06-27T00:00:00+01:00</published><updated>2020-06-27T00:00:00+01:00</updated><id>/Eisteddfod</id><content type="html" xml:base="/Eisteddfod/">&lt;p&gt;digwydd - happen&lt;/p&gt;
+&lt;p&gt;ewch fan hyn - go/head here&lt;/p&gt;</content><summary type="html">ffôn symudol - mobile phone</summary></entry><entry><title type="html">Eisteddfod</title><link href="http://localhost:4000/Eisteddfod/" rel="alternate" type="text/html" title="Eisteddfod" /><published>2020-06-27T00:00:00+01:00</published><updated>2020-06-27T00:00:00+01:00</updated><id>http://localhost:4000/Eisteddfod</id><content type="html" xml:base="http://localhost:4000/Eisteddfod/">&lt;p&gt;digwydd - happen&lt;/p&gt;
 
 &lt;p&gt;cipolwg - look/glimpse/glance&lt;/p&gt;
 
-&lt;p&gt;rhaglen - programme&lt;/p&gt;</content><summary type="html">digwydd - happen</summary></entry><entry><title type="html">Gwefus</title><link href="/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-06-26T00:00:00+01:00</published><updated>2020-06-26T00:00:00+01:00</updated><id>/Gwefus</id><content type="html" xml:base="/Gwefus/">&lt;p&gt;prysur - busy&lt;/p&gt;
+&lt;p&gt;rhaglen - programme&lt;/p&gt;</content><summary type="html">digwydd - happen</summary></entry><entry><title type="html">Gwefus</title><link href="http://localhost:4000/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-06-26T00:00:00+01:00</published><updated>2020-06-26T00:00:00+01:00</updated><id>http://localhost:4000/Gwefus</id><content type="html" xml:base="http://localhost:4000/Gwefus/">&lt;p&gt;prysur - busy&lt;/p&gt;
 
 &lt;p&gt;erioed - ever&lt;/p&gt;
 
-&lt;p&gt;cymryd - take&lt;/p&gt;</content><summary type="html">prysur - busy</summary></entry><entry><title type="html">Mentrauiaith</title><link href="/MentrauIaith/" rel="alternate" type="text/html" title="Mentrauiaith" /><published>2020-06-25T00:00:00+01:00</published><updated>2020-06-25T00:00:00+01:00</updated><id>/MentrauIaith</id><content type="html" xml:base="/MentrauIaith/">&lt;p&gt;yn fyw - live&lt;/p&gt;
+&lt;p&gt;cymryd - take&lt;/p&gt;</content><summary type="html">prysur - busy</summary></entry><entry><title type="html">Mentrauiaith</title><link href="http://localhost:4000/MentrauIaith/" rel="alternate" type="text/html" title="Mentrauiaith" /><published>2020-06-25T00:00:00+01:00</published><updated>2020-06-25T00:00:00+01:00</updated><id>http://localhost:4000/MentrauIaith</id><content type="html" xml:base="http://localhost:4000/MentrauIaith/">&lt;p&gt;yn fyw - live&lt;/p&gt;
 
 &lt;p&gt;gorau - best&lt;/p&gt;
 
-&lt;p&gt;gyda rai o - with some of&lt;/p&gt;</content><summary type="html">yn fyw - live</summary></entry><entry><title type="html">Yagym</title><link href="/Yagym/" rel="alternate" type="text/html" title="Yagym" /><published>2020-06-24T00:00:00+01:00</published><updated>2020-06-24T00:00:00+01:00</updated><id>/Yagym</id><content type="html" xml:base="/Yagym/">&lt;p&gt;rhwng - between&lt;/p&gt;
+&lt;p&gt;gyda rai o - with some of&lt;/p&gt;</content><summary type="html">yn fyw - live</summary></entry><entry><title type="html">Yagym</title><link href="http://localhost:4000/Yagym/" rel="alternate" type="text/html" title="Yagym" /><published>2020-06-24T00:00:00+01:00</published><updated>2020-06-24T00:00:00+01:00</updated><id>http://localhost:4000/Yagym</id><content type="html" xml:base="http://localhost:4000/Yagym/">&lt;p&gt;rhwng - between&lt;/p&gt;
 
 &lt;p&gt;ychwanegu - add&lt;/p&gt;
 
-&lt;p&gt;neges - message&lt;/p&gt;</content><summary type="html">rhwng - between</summary></entry><entry><title type="html">Cyngor</title><link href="/Cyngor/" rel="alternate" type="text/html" title="Cyngor" /><published>2020-06-23T00:00:00+01:00</published><updated>2020-06-23T00:00:00+01:00</updated><id>/Cyngor</id><content type="html" xml:base="/Cyngor/">&lt;p&gt;straeon - stories&lt;/p&gt;
-
-&lt;p&gt;annibynnol - independent&lt;/p&gt;
-
-&lt;p&gt;darllen - reading&lt;/p&gt;</content><summary type="html">straeon - stories</summary></entry></feed>
+&lt;p&gt;neges - message&lt;/p&gt;</content><summary type="html">rhwng - between</summary></entry></feed>
