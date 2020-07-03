@@ -19,10 +19,12 @@ collections:
   blog:
     output: true
 
-plugins:
-- jekyll-paginate
+
 
 
 paginate: 8
 paginate_path: "/page:num/"
 
+plugins_dir:
+-  jekyll-seo-tag
+- jekyll-paginate

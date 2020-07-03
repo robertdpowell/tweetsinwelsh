@@ -7,20 +7,3 @@ email: tweetsinwelsh@gmail.com
 author: Rob Powell
 
   
-sources:
-- {link: 'https://twitter.com/gigsgcg'}
-- {link: 'https://twitter.com/cyngorcaerdydd'}
-- {link: 'https://twitter.com/Museum_Cardiff'}
-
-
-#-------------------------------
-# Contact Section
-
-social:
-- {icon: 'twitter', link: 'www.google.com'}
-- {icon: 'facebook', link: 'www.google.com'}
-- {icon: 'linkedin', link: 'www.google.com'}
-- {icon: 'youtube', link: 'www.google.com'}
-- {icon: 'instagram', link: 'www.google.com'}
-
-# can be 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'soundcloud'
