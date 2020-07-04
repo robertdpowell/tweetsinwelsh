@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-04T07:57:48+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Ylolfa</title><link href="http://localhost:4000/YLolfa/" rel="alternate" type="text/html" title="Ylolfa" /><published>2020-07-03T00:00:00+01:00</published><updated>2020-07-03T00:00:00+01:00</updated><id>http://localhost:4000/YLolfa</id><content type="html" xml:base="http://localhost:4000/YLolfa/">&lt;p&gt;lleoli - located&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-04T09:22:01+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Taste</title><link href="http://localhost:4000/Taste/" rel="alternate" type="text/html" title="Taste" /><published>2020-07-04T00:00:00+01:00</published><updated>2020-07-04T00:00:00+01:00</updated><id>http://localhost:4000/Taste</id><content type="html" xml:base="http://localhost:4000/Taste/">&lt;p&gt;cynhyrchwyr - producers&lt;/p&gt;
+
+&lt;p&gt;gweithio’n galed - to work hard&lt;/p&gt;
+
+&lt;p&gt;cwsmeriaid - customers&lt;/p&gt;</content><summary type="html">cynhyrchwyr - producers</summary></entry><entry><title type="html">Ylolfa</title><link href="http://localhost:4000/YLolfa/" rel="alternate" type="text/html" title="Ylolfa" /><published>2020-07-03T00:00:00+01:00</published><updated>2020-07-03T00:00:00+01:00</updated><id>http://localhost:4000/YLolfa</id><content type="html" xml:base="http://localhost:4000/YLolfa/">&lt;p&gt;lleoli - located&lt;/p&gt;
 
 &lt;p&gt;canol - middle&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;gorau - best&lt;/p&gt;
 
-&lt;p&gt;gyda rai o - with some of&lt;/p&gt;</content><summary type="html">yn fyw - live</summary></entry><entry><title type="html">Yagym</title><link href="http://localhost:4000/Yagym/" rel="alternate" type="text/html" title="Yagym" /><published>2020-06-24T00:00:00+01:00</published><updated>2020-06-24T00:00:00+01:00</updated><id>http://localhost:4000/Yagym</id><content type="html" xml:base="http://localhost:4000/Yagym/">&lt;p&gt;rhwng - between&lt;/p&gt;
-
-&lt;p&gt;ychwanegu - add&lt;/p&gt;
-
-&lt;p&gt;neges - message&lt;/p&gt;</content><summary type="html">rhwng - between</summary></entry></feed>
+&lt;p&gt;gyda rai o - with some of&lt;/p&gt;</content><summary type="html">yn fyw - live</summary></entry></feed>
