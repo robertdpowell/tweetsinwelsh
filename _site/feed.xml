@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-04T09:22:01+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Taste</title><link href="http://localhost:4000/Taste/" rel="alternate" type="text/html" title="Taste" /><published>2020-07-04T00:00:00+01:00</published><updated>2020-07-04T00:00:00+01:00</updated><id>http://localhost:4000/Taste</id><content type="html" xml:base="http://localhost:4000/Taste/">&lt;p&gt;cynhyrchwyr - producers&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-05T08:57:44+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Nawr awr</title><link href="http://localhost:4000/Nawr-awr/" rel="alternate" type="text/html" title="Nawr awr" /><published>2020-07-05T00:00:00+01:00</published><updated>2020-07-05T00:00:00+01:00</updated><id>http://localhost:4000/Nawr awr</id><content type="html" xml:base="http://localhost:4000/Nawr-awr/">&lt;p&gt;diweddara - latest&lt;/p&gt;
+
+&lt;p&gt;ysbrydoli - inspire&lt;/p&gt;
+
+&lt;p&gt;cyn hir - soon&lt;/p&gt;</content><summary type="html">diweddara - latest</summary></entry><entry><title type="html">Taste</title><link href="http://localhost:4000/Taste/" rel="alternate" type="text/html" title="Taste" /><published>2020-07-04T00:00:00+01:00</published><updated>2020-07-04T00:00:00+01:00</updated><id>http://localhost:4000/Taste</id><content type="html" xml:base="http://localhost:4000/Taste/">&lt;p&gt;cynhyrchwyr - producers&lt;/p&gt;
 
 &lt;p&gt;gweithio’n galed - to work hard&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;erioed - ever&lt;/p&gt;
 
-&lt;p&gt;cymryd - take&lt;/p&gt;</content><summary type="html">prysur - busy</summary></entry><entry><title type="html">Mentrauiaith</title><link href="http://localhost:4000/MentrauIaith/" rel="alternate" type="text/html" title="Mentrauiaith" /><published>2020-06-25T00:00:00+01:00</published><updated>2020-06-25T00:00:00+01:00</updated><id>http://localhost:4000/MentrauIaith</id><content type="html" xml:base="http://localhost:4000/MentrauIaith/">&lt;p&gt;yn fyw - live&lt;/p&gt;
-
-&lt;p&gt;gorau - best&lt;/p&gt;
-
-&lt;p&gt;gyda rai o - with some of&lt;/p&gt;</content><summary type="html">yn fyw - live</summary></entry></feed>
+&lt;p&gt;cymryd - take&lt;/p&gt;</content><summary type="html">prysur - busy</summary></entry></feed>
