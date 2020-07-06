@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-05T08:59:15+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Nawr awr</title><link href="http://localhost:4000/Nawr-awr/" rel="alternate" type="text/html" title="Nawr awr" /><published>2020-07-05T00:00:00+01:00</published><updated>2020-07-05T00:00:00+01:00</updated><id>http://localhost:4000/Nawr awr</id><content type="html" xml:base="http://localhost:4000/Nawr-awr/">&lt;p&gt;diweddara - latest&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-06T06:20:11+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Candelas</title><link href="http://localhost:4000/Candelas/" rel="alternate" type="text/html" title="Candelas" /><published>2020-07-06T00:00:00+01:00</published><updated>2020-07-06T00:00:00+01:00</updated><id>http://localhost:4000/Candelas</id><content type="html" xml:base="http://localhost:4000/Candelas/">&lt;p&gt;adloniant - entertainment&lt;/p&gt;
+
+&lt;p&gt;llun - photo&lt;/p&gt;
+
+&lt;p&gt;nod - aim&lt;/p&gt;
+
+&lt;p&gt;cyfryngau cymdeithasol - social media&lt;/p&gt;</content><summary type="html">adloniant - entertainment</summary></entry><entry><title type="html">Nawr awr</title><link href="http://localhost:4000/Nawr-awr/" rel="alternate" type="text/html" title="Nawr awr" /><published>2020-07-05T00:00:00+01:00</published><updated>2020-07-05T00:00:00+01:00</updated><id>http://localhost:4000/Nawr awr</id><content type="html" xml:base="http://localhost:4000/Nawr-awr/">&lt;p&gt;diweddara - latest&lt;/p&gt;
 
 &lt;p&gt;ysbrydoli - inspire&lt;/p&gt;
 
@@ -34,8 +40,4 @@
 
 &lt;p&gt;cipolwg - look/glimpse/glance&lt;/p&gt;
 
-&lt;p&gt;rhaglen - programme&lt;/p&gt;</content><summary type="html">digwydd - happen</summary></entry><entry><title type="html">Gwefus</title><link href="http://localhost:4000/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-06-26T00:00:00+01:00</published><updated>2020-06-26T00:00:00+01:00</updated><id>http://localhost:4000/Gwefus</id><content type="html" xml:base="http://localhost:4000/Gwefus/">&lt;p&gt;prysur - busy&lt;/p&gt;
-
-&lt;p&gt;erioed - ever&lt;/p&gt;
-
-&lt;p&gt;cymryd - take&lt;/p&gt;</content><summary type="html">prysur - busy</summary></entry></feed>
+&lt;p&gt;rhaglen - programme&lt;/p&gt;</content><summary type="html">digwydd - happen</summary></entry></feed>
