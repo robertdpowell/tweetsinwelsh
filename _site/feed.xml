@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-11T13:16:12+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Utd</title><link href="http://localhost:4000/Utd/" rel="alternate" type="text/html" title="Utd" /><published>2020-07-11T00:00:00+01:00</published><updated>2020-07-11T00:00:00+01:00</updated><id>http://localhost:4000/Utd</id><content type="html" xml:base="http://localhost:4000/Utd/">&lt;p&gt;goresgyn - overcome&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-12T08:19:45+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">.rhuanedd</title><link href="http://localhost:4000/.Rhuanedd/" rel="alternate" type="text/html" title=".rhuanedd" /><published>2020-07-12T00:00:00+01:00</published><updated>2020-07-12T00:00:00+01:00</updated><id>http://localhost:4000/.Rhuanedd</id><content type="html" xml:base="http://localhost:4000/.Rhuanedd/">&lt;p&gt;darganfod - discover&lt;/p&gt;
+
+&lt;p&gt;cwmni - company&lt;/p&gt;
+
+&lt;p&gt;unigryw - unique&lt;/p&gt;</content><summary type="html">darganfod - discover</summary></entry><entry><title type="html">Utd</title><link href="http://localhost:4000/Utd/" rel="alternate" type="text/html" title="Utd" /><published>2020-07-11T00:00:00+01:00</published><updated>2020-07-11T00:00:00+01:00</updated><id>http://localhost:4000/Utd</id><content type="html" xml:base="http://localhost:4000/Utd/">&lt;p&gt;goresgyn - overcome&lt;/p&gt;
 
 &lt;p&gt;peli - balls&lt;/p&gt;
 
@@ -36,8 +40,4 @@
 
 &lt;p&gt;canol - middle&lt;/p&gt;
 
-&lt;p&gt;cyhoeddi - announce&lt;/p&gt;</content><summary type="html">lleoli - located</summary></entry><entry><title type="html">Gwefus</title><link href="http://localhost:4000/Gwefus/" rel="alternate" type="text/html" title="Gwefus" /><published>2020-07-02T00:00:00+01:00</published><updated>2020-07-02T00:00:00+01:00</updated><id>http://localhost:4000/Gwefus</id><content type="html" xml:base="http://localhost:4000/Gwefus/">&lt;p&gt;bellach - now&lt;/p&gt;
-
-&lt;p&gt;ar hyn o bryd - at the moment&lt;/p&gt;
-
-&lt;p&gt;bendigedig - wonderful&lt;/p&gt;</content><summary type="html">bellach - now</summary></entry></feed>
+&lt;p&gt;cyhoeddi - announce&lt;/p&gt;</content><summary type="html">lleoli - located</summary></entry></feed>
