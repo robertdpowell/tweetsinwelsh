@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-12T08:19:45+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">.rhuanedd</title><link href="http://localhost:4000/.Rhuanedd/" rel="alternate" type="text/html" title=".rhuanedd" /><published>2020-07-12T00:00:00+01:00</published><updated>2020-07-12T00:00:00+01:00</updated><id>http://localhost:4000/.Rhuanedd</id><content type="html" xml:base="http://localhost:4000/.Rhuanedd/">&lt;p&gt;darganfod - discover&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-13T10:25:05+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Farm</title><link href="http://localhost:4000/Farm/" rel="alternate" type="text/html" title="Farm" /><published>2020-07-13T00:00:00+01:00</published><updated>2020-07-13T00:00:00+01:00</updated><id>http://localhost:4000/Farm</id><content type="html" xml:base="http://localhost:4000/Farm/">&lt;p&gt;cyfuno - combine&lt;/p&gt;
+
+&lt;p&gt;pennod - episode&lt;/p&gt;
+
+&lt;p&gt;prosiect - project&lt;/p&gt;</content><summary type="html">cyfuno - combine</summary></entry><entry><title type="html">.rhuanedd</title><link href="http://localhost:4000/.Rhuanedd/" rel="alternate" type="text/html" title=".rhuanedd" /><published>2020-07-12T00:00:00+01:00</published><updated>2020-07-12T00:00:00+01:00</updated><id>http://localhost:4000/.Rhuanedd</id><content type="html" xml:base="http://localhost:4000/.Rhuanedd/">&lt;p&gt;darganfod - discover&lt;/p&gt;
 
 &lt;p&gt;cwmni - company&lt;/p&gt;
 
@@ -36,8 +40,4 @@
 
 &lt;p&gt;gweithio’n galed - to work hard&lt;/p&gt;
 
-&lt;p&gt;cwsmeriaid - customers&lt;/p&gt;</content><summary type="html">cynhyrchwyr - producers</summary></entry><entry><title type="html">Ylolfa</title><link href="http://localhost:4000/YLolfa/" rel="alternate" type="text/html" title="Ylolfa" /><published>2020-07-03T00:00:00+01:00</published><updated>2020-07-03T00:00:00+01:00</updated><id>http://localhost:4000/YLolfa</id><content type="html" xml:base="http://localhost:4000/YLolfa/">&lt;p&gt;lleoli - located&lt;/p&gt;
-
-&lt;p&gt;canol - middle&lt;/p&gt;
-
-&lt;p&gt;cyhoeddi - announce&lt;/p&gt;</content><summary type="html">lleoli - located</summary></entry></feed>
+&lt;p&gt;cwsmeriaid - customers&lt;/p&gt;</content><summary type="html">cynhyrchwyr - producers</summary></entry></feed>
