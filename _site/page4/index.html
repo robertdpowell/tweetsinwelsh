@@ -19,6 +19,7 @@
     gtag('config', 'UA-169848880-1');
   </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <title>Learn Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -103,7 +104,26 @@
 
 
     
-    <section id="posts">
+    <script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
+<section id="posts">
    <div class="container">
       
       <div class="row post-entry">
@@ -126,24 +146,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Gig with ... solo artists ... Wales, performing ... from home. 09-07-20 on the Facebook page Ras yr Iaith '#ras123'.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">A gig with some of Wales' best solo artists, performing LIVE from home!  09-07-20 on Ras yr Iaith's Facebook page '#ras123'.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>yn fyw - live</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>yn fyw - live</p>
 
 <p>gorau - best</p>
 
 <p>gyda rai o - with some of</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">A gig with some of Wales' best solo artists, performing LIVE from home!  09-07-20 on Ras yr Iaith's Facebook page '#ras123'.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -169,24 +196,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Join us tomorrow night and every Wednesday night ...8 til 9 for The Welsh Hour. An hour of ...and ... ..Welsh. Use the hashtag..'#yagym'  ....to....13,000 Twitter....</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Join us tomorrow night and every Wednesday night between 8 and 9 for The Welsh Hour. An hour of promotion and marketing through the medium of Welsh. Add the Welsh marketing hashtag '#yagym' to your message and we'll share your message with 13,000 individual Twitter accounts.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>rhwng - between</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>rhwng - between</p>
 
 <p>ychwanegu - add</p>
 
 <p>neges - message</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Join us tomorrow night and every Wednesday night between 8 and 9 for The Welsh Hour. An hour of promotion and marketing through the medium of Welsh. Add the Welsh marketing hashtag '#yagym' to your message and we'll share your message with 13,000 individual Twitter accounts.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -212,24 +246,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Lovely...on @BBCymruFyw about how book shops have been...during the lockdown. '#..BookshopWeek' '#SupportBookShops' '#LoveReading'</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Lovely stories on @BBCymruFyw about how book shops have been cheering us up during the lockdown. '#IndependentBookshopWeek' '#SupportBookShops' '#LoveReading'</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>straeon - stories</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>straeon - stories</p>
 
 <p>annibynnol - independent</p>
 
 <p>darllen - reading</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Lovely stories on @BBCymruFyw about how book shops have been cheering us up during the lockdown. '#IndependentBookshopWeek' '#SupportBookShops' '#LoveReading'</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -255,24 +296,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Thankyou to everyone who has been supporting us ...books online through the ...weeks. We are not yet ready to open the shop...please keep using the website!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Thankyou to everyone who has been supporting us by ordering books online over the last few weeks. We are not yet ready to open the shop yet so please keep using the website!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>archeb - order</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>archeb - order</p>
 
 <p>felly - so</p>
 
 <p>wythnosau diwetha - last few weeks</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Thankyou to everyone who has been supporting us by ordering books online over the last few weeks. We are not yet ready to open the shop yet so please keep using the website!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -298,24 +346,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">With more shops starting to open on Monday in Wales, here is a great opportunity to .... your support for your local center.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">With more shops starting to reopen from Monday in Wales, this is a great opportunity to show your support for your local town center. It is essential that we continue to '#StayLocal' to '#KeepWalesSafe' from the coronavirus '#LocalEconomy'</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>ailagor - reopen</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>ailagor - reopen</p>
 
 <p>lleol - local</p>
 
 <p>hanfodol - essential</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">With more shops starting to reopen from Monday in Wales, this is a great opportunity to show your support for your local town center. It is essential that we continue to '#StayLocal' to '#KeepWalesSafe' from the coronavirus '#LocalEconomy'</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -341,24 +396,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">...to parents..who support teaching their children by searching and using...Welsh! Big thanks to ... who ..create new...!...to you ..!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Shout out to parents and guardians who support their children's learning by searching and using Welsh language resources!Thank you also to the thousands who are creating new content! High Five to you all!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>gwaedd uchel - shout out</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>gwaedd uchel - shout out</p>
 
 <p>cynnwys - content</p>
 
 <p>pawen lawen - high five</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Shout out to parents and guardians who support their children's learning by searching and using Welsh language resources!Thank you also to the thousands who are creating new content! High Five to you all!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

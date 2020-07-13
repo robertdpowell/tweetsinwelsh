@@ -19,6 +19,7 @@
     gtag('config', 'UA-169848880-1');
   </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <title>Learn Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -103,7 +104,26 @@
 
 
     
-    <section id="posts">
+    <script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
+<section id="posts">
    <div class="container">
       
       <div class="row post-entry">
@@ -126,23 +146,30 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Today the children enjoyed painting with natural ... from the garden. This activity ... fun ... and using natural ... like ..., ... and flowers ..., colours and ...</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Today the children have enjoyed painting with natural resources from the garden. This activity is a fun and easy way to use natural resources such as sticks, leaves, flowers of all shapes, colours and sizes.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>ffordd - way</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>ffordd - way</p>
 
 <p>hawdd - easy</p>
 
 <p>maint - size</p>
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Today the children have enjoyed painting with natural resources from the garden. This activity is a fun and easy way to use natural resources such as sticks, leaves, flowers of all shapes, colours and sizes.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -168,17 +195,16 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">To all professionals in the world of film, television, theatre, ... and the arts, join the ... and post ... on your ... . Only ... with the profession.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">To all professionals in the film, television, entertainment, and arts world, join the challenge to post a photo of you in your job. Just a picture, no description. The aim is to overflow social media with our profession.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>adloniant - entertainment</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>adloniant - entertainment</p>
 
 <p>llun - photo</p>
 
@@ -186,8 +212,16 @@
 
 <p>cyfryngau cymdeithasol - social media</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">To all professionals in the film, television, entertainment, and arts world, join the challenge to post a photo of you in your job. Just a picture, no description. The aim is to overflow social media with our profession.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -213,24 +247,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Special morning running on the trails ... tackling our ... challenge. The two of us ... good conversation. ... talk about our day on the podcast ...</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">A special morning running on the trails this morning tackling our latest challenge. We’ve both been inspired after our chat with @_LowriMorgan. We'll be talking about our day on the podcast soon.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>diweddara - latest</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>diweddara - latest</p>
 
 <p>ysbrydoli - inspire</p>
 
 <p>cyn hir - soon</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">A special morning running on the trails this morning tackling our latest challenge. We’ve both been inspired after our chat with @_LowriMorgan. We'll be talking about our day on the podcast soon.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -256,23 +297,30 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Today we celebrate  ... Welsh food and drink, ... has been ... working ... during the last few ... Big thanks ... and to ... who have supported local food and drink. Thank you very much.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Today we celebrate Welsh food and drink producers, who have been working so hard over the past few months. A big thank you to them and to all the customers who have supported local food and drink. Thank you very much.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>cynhyrchwyr - producers</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>cynhyrchwyr - producers</p>
 
 <p>gweithio’n galed - to work hard</p>
 
 <p>cwsmeriaid - customers</p>
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Today we celebrate Welsh food and drink producers, who have been working so hard over the past few months. A big thank you to them and to all the customers who have supported local food and drink. Thank you very much.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -298,24 +346,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Searching for a detective series to read? What about trying Alun Davies' 'Cardi-noir' novel that was  ... in Aberystwyth! 'Ar Drywydd Llofrudd' on sale now. 'Ar Lwybr Dial' ... July!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Looking for a detective series to read? Why not try Alun Davies' 'Cardi-noir' novels set in Aberystwyth? 'Ar Drywydd Llofrudd' available now. 'Ar Lwybr Dial' to be announced by mid-July!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>lleoli - located</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>lleoli - located</p>
 
 <p>canol - middle</p>
 
 <p>cyhoeddi - announce</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Looking for a detective series to read? Why not try Alun Davies' 'Cardi-noir' novels set in Aberystwyth? 'Ar Drywydd Llofrudd' available now. 'Ar Lwybr Dial' to be announced by mid-July!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -341,24 +396,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">I've been teaching Welsh to the world ... 6 ... ! ... I'm ... people in the USA, Sweden, Spain, France, England and Wales</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Have been teaching Welsh to the world for 6 years now! At the moment, I teach wonderful people in the USA, Sweden, Spain, France, England and Wales</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>bellach - now</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>bellach - now</p>
 
 <p>ar hyn o bryd - at the moment</p>
 
 <p>bendigedig - wonderful</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Have been teaching Welsh to the world for 6 years now! At the moment, I teach wonderful people in the USA, Sweden, Spain, France, England and Wales</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

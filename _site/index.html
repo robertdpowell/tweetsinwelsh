@@ -19,6 +19,7 @@
     gtag('config', 'UA-169848880-1');
   </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <title>Learn Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -102,7 +103,26 @@
 
 
     
-    <section id="posts">
+    <script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
+<section id="posts">
    <div class="container">
       
       <div class="row post-entry">
@@ -125,24 +145,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">... holidays. In the ... , we listen to Jim Ellis' story. ... family ... farming ... lots, and latest ...big new project on Plas Gwyn farm</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Diversifying into holiday cottages. In this episode, we listen to Jim Ellis' story. His family has combined farming and tourism for many years, and recently has completed a big renovation project of Plas Gwyn farmhouse.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>cyfuno - combine</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>cyfuno - combine</p>
 
 <p>pennod - episode</p>
 
 <p>prosiect - project</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Diversifying into holiday cottages. In this episode, we listen to Jim Ellis' story. His family has combined farming and tourism for many years, and recently has completed a big renovation project of Plas Gwyn farmhouse.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -168,24 +195,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">We've been working with our staff from @BBCRadioCymru and @BBCCymruFyw  ... independent ... over the last two years to create a large number of Welsh only podcasts. ... content now on @BBCSounds</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">We have worked with our staff from @BBCRadioCymru and @BBCCymruFyw together with indepenent companies over the last two years to create a large number of unique podcasts in Welsh. There's a wealth of content now on @BBCSounds worth discovering.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>darganfod - discover</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>darganfod - discover</p>
 
 <p>cwmni - company</p>
 
 <p>unigryw - unique</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">We have worked with our staff from @BBCRadioCymru and @BBCCymruFyw together with indepenent companies over the last two years to create a large number of unique podcasts in Welsh. There's a wealth of content now on @BBCSounds worth discovering.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -211,24 +245,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">The ... has been ... to Utd. ... Utd ... Başakşehir or Copenhagen ...arrive in the ... round. A ... opportunity  ... for Solskjær.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">The balls came out of the hat favourable to Utd. Utd should overcome Başakşehir or Copenhagen to reach the semi-finals. A real opportunity for a trophy for Solskjær.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>goresgyn - overcome</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>goresgyn - overcome</p>
 
 <p>peli - balls</p>
 
 <p>yn ffafriol i - favourable to</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">The balls came out of the hat favourable to Utd. Utd should overcome Başakşehir or Copenhagen to reach the semi-finals. A real opportunity for a trophy for Solskjær.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -254,24 +295,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Want to ... more about Cardiff Met University? Our ... open day ... . ... learn more about our courses and see what is in our city to ... Any questions about studying through Welsh? Live chat 12-3pm</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Want to discover more about Cardiff Met University? Our virtual open day has arrived! You can learn more about our courses and see what our city has to offer.  Any questions about studying through Welsh? Live chat 12-3pm</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>darganfod - discover</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>darganfod - discover</p>
 
 <p>rhithwir - virtual</p>
 
 <p>cyrraedd - arrive</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Want to discover more about Cardiff Met University? Our virtual open day has arrived! You can learn more about our courses and see what our city has to offer.  Any questions about studying through Welsh? Live chat 12-3pm</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -297,24 +345,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Big pleasure ... the first copies today of 'Cyfri'n Cewri', hot off the press! On sale now in your local bookshop. What ... ?</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Great pleasure to receive the first copies today of 'Cyfri'n Cewri', hot off the press! On sale now in your local bookshop. What is/are the secret(s) on the cover?</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>derbyn - to receive</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>derbyn - to receive</p>
 
 <p>cyfrinach - secret</p>
 
 <p>clawr - cover</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Great pleasure to receive the first copies today of 'Cyfri'n Cewri', hot off the press! On sale now in your local bookshop. What is/are the secret(s) on the cover?</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -340,24 +395,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Looking forward to '@WalesTechWeek' ... between July 13 and 17, as part of celebrating ... technology ... in Wales. Some of ... part of this event . More ...</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Looking forward to '@WalesTechWeek' which will take place between July 13 and 17, as part of a worldwide celebration of technology and innovation in Wales.  Some of our key stakeholders will be involved in this event. More details to follow..</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>arloesedd - innovation</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>arloesedd - innovation</p>
 
 <p>rhanddeiliad - stakeholder</p>
 
 <p>manylion -  details</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Looking forward to '@WalesTechWeek' which will take place between July 13 and 17, as part of a worldwide celebration of technology and innovation in Wales.  Some of our key stakeholders will be involved in this event. More details to follow..</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

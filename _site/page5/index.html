@@ -19,6 +19,7 @@
     gtag('config', 'UA-169848880-1');
   </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <title>Learn Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -103,7 +104,26 @@
 
 
     
-    <section id="posts">
+    <script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
+<section id="posts">
    <div class="container">
       
       <div class="row post-entry">
@@ -126,24 +146,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Information about where and when....Remember to use..Tafwyl map on Saturday...in your.....platform.....every time.</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Information on where and when everything is on! Remember to use the Tafwyl website as a map on Saturday to guide you to different areas of the festival. The website will always direct you to the appropriate platform.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>popeth - everything</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>popeth - everything</p>
 
 <p>gwefan - website</p>
 
 <p>bob amser - always</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Information on where and when everything is on! Remember to use the Tafwyl website as a map on Saturday to guide you to different areas of the festival. The website will always direct you to the appropriate platform.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -169,24 +196,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">...big..an artist went..to create ..art...Poppit beach in Llandudoch centre. Here is..!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Over the lockdown period one artist has created pieces of glass art using the sand on Poppit beach in the village of Llandudoch. Here's the story!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>darnau - pieces</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>darnau - pieces</p>
 
 <p>tywod - sand</p>
 
 <p>dyma’r hanes - story</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Over the lockdown period one artist has created pieces of glass art using the sand on Poppit beach in the village of Llandudoch. Here's the story!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -212,24 +246,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">The week...then here..next week. Thanks to everyone for...this week. You've been special!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">The week is almost over, so here's a look at next week's 'steddfodAmGen' activities. Thank you to everyone for supporting this week - you guys have been special!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>Mae’r wythnos bron ar ben - The week is nearly over</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>Mae’r wythnos bron ar ben - The week is nearly over</p>
 
 <p>gweithgareddau - activities</p>
 
 <p>cefnogi - support</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">The week is almost over, so here's a look at next week's 'steddfodAmGen' activities. Thank you to everyone for supporting this week - you guys have been special!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -255,23 +296,30 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Are you learning Welsh? Or have you learnt Welsh? What about...video to S4C Dysgu Cymraeg? An opportunity ...to practice! ...you!</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Are you learning Welsh? Or have you learned Welsh? Why not create a video for S4C Learning Welsh? A perfect opportunity to practice! Please share!</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>creu - create</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>creu - create</p>
 
 <p>perffaith - perfect</p>
 
 <p>Rhannwch da chi - please share</p>
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Are you learning Welsh? Or have you learned Welsh? Why not create a video for S4C Learning Welsh? A perfect opportunity to practice! Please share!</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -297,24 +345,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">The weekend...Welsh football team ..to play  their first game Euro 2020 in Baku! Here is Ian Gwyn Hughes...tournament.....Welsh Football</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">This weekend the Welsh football team were due to play their first match at the Euro 2020 Championship in Baku! Ian Gwyn Hughes talks about what postponing the championship has meant for the Football Association of Wales</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>Y penwythnos hwn - This weekend</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>Y penwythnos hwn - This weekend</p>
 
 <p>sôn - talk</p>
 
 <p>golygu - mean</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">This weekend the Welsh football team were due to play their first match at the Euro 2020 Championship in Baku! Ian Gwyn Hughes talks about what postponing the championship has meant for the Football Association of Wales</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -340,24 +395,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">....with us at 3 o clock in the afternoon..for conversation and a set...with Mared in our next Gwaelod Home Gig ... through our ....Facebook Gigs Cantre'r Gwaelod</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Join us at 3 o clock tomorrow afternoon for a conversation and special set with Mared in our next Gwaelod Home Gig through our Facebook Gigs Cantre'r Gwaelod page</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>Ymunwch gyda ni - join us</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>Ymunwch gyda ni - join us</p>
 
 <p>tudalen - page</p>
 
 <p>arbenning - special</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Join us at 3 o clock tomorrow afternoon for a conversation and special set with Mared in our next Gwaelod Home Gig through our Facebook Gigs Cantre'r Gwaelod page</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

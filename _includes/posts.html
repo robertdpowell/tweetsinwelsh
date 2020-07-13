@@ -1,3 +1,22 @@
+<script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
 <section id="posts">
    <div class="container">
       {% for post in paginator.posts %}
@@ -21,18 +40,25 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">{{post.firstattempt}}</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">{{post.correcttranslation}}</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy">{{post.content}}</p>
-          </div>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy">{{post.content | json}}</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">{{post.correcttranslation}}</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

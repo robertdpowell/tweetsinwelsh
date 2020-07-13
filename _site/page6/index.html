@@ -19,6 +19,7 @@
     gtag('config', 'UA-169848880-1');
   </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <title>Learn Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -102,7 +103,26 @@
 
 
     
-    <section id="posts">
+    <script>
+  $(document).ready(function(){
+    $(".vocabbutton" ).on ("click", function(){
+      $(this).next (".vocab").toggle("slow");
+    });
+  });
+  </script>
+
+<script>
+  $(document).ready(function(){
+    $(".correctbutton" ).on ("click", function(){
+      $(this).next (".correct").toggle();
+    });
+  });
+  </script>
+
+
+
+
+<section id="posts">
    <div class="container">
       
       <div class="row post-entry">
@@ -125,24 +145,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">Bike week is here! @Wearecyclinguk....course...for you....fun...safe... daily practice To..come to orlo.uk/Sbs2r  KeepWalesSafe</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">Bike week is back! To celebrate, @Wearecyclinguk is running a series of fun online events for you to take part locally and safely as part of your daily practice. For more information, visit....</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>dathlu - celebrate</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>dathlu - celebrate</p>
 
 <p>ar-lein - online</p>
 
 <p>rhan - part</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Bike week is back! To celebrate, @Wearecyclinguk is running a series of fun online events for you to take part locally and safely as part of your daily practice. For more information, visit....</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -168,23 +195,30 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">From the ... to Bute Park ..., more and more people are....parking and...green Cardiff to run, walk and bike - lots very of people.... Remember to ..to KeepCardiff......</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">From the Barrrage to Bute Park and beyond, more and more people are using Cardiff's parks and green spaces to run, walk and bike - lots of people together. Remember others and KeepCardiffSafe by maintaining social distancing.</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>Morglawdd - Barrage</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>Morglawdd - Barrage</p>
 
 <p>defnyddio - using</p>
 
 <p>a thu hwnt - and beyond</p>
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">From the Barrrage to Bute Park and beyond, more and more people are using Cardiff's parks and green spaces to run, walk and bike - lots of people together. Remember others and KeepCardiffSafe by maintaining social distancing.</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>
@@ -210,24 +244,31 @@
       </div>
       <div class="col-sm-6">
         <div class="translation-section"> 
+
           <div id="translation-block-one">
-            <h6 class="translation-sub-header-first translation-copy">MY FIRST ATTEMPT</h6>
-            <p class="translation-copy">We ...  live in Wales...pandemic COVID19. ..your story...</p>
-         </div>
-         <div id="translation-block-two">
-          <h6 class="translation-sub-header-correct translation-copy">CORRECT TRANSLATION</h6>
-          <p class="translation translation-copy">We want to hear your experiences and feelings of living in Wales during the covid19 pandemic. By answering our questionnaire, your story will become part of the national collection</p>
-         </div>
-         <div id="translation-block-three">
-          <h6 class="translation-sub-header-learned translation-copy">VOCAB</h6>
-          <p class="translation translation-copy"><p>Rydym ni am glywed eich - We want to hear your</p>
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled">TRANSLATE THE TWEET!</button>
+            <textarea class="form-control" rows="3"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>Rydym ni am glywed eich - We want to hear your</p>
 
 <p>profiadau - experiences</p>
 
 <p>yn ystod - during</p>
 
-</p>
-          </div>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">We want to hear your experiences and feelings of living in Wales during the covid19 pandemic. By answering our questionnaire, your story will become part of the national collection</p></div>
+            </div>
+
+           
+
         </div>
       </div>
       <div class="col-sm-12 post-divider"></div>

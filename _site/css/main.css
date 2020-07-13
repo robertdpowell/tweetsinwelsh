@@ -6698,17 +6698,14 @@ a {
   padding-top: 15px; }
 
 #translation-block-one {
-  border-left: 3px solid;
   border-color: #c50132;
   padding-left: 20px; }
 
 #translation-block-two {
-  border-left: 3px solid;
   border-color: green;
   padding-left: 20px; }
 
 #translation-block-three {
-  border-left: 3px solid;
   border-color: orange;
   padding-left: 20px; }
 
@@ -6733,11 +6730,29 @@ a {
 
 .post-divider {
   border: 1px solid;
-  border-color: #B0B0B0; }
+  border-color: #B0B0B0;
+  padding-top: 40px;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none; }
 
-.translation-divider {
-  border: 1px solid;
-  border-color: #B0B0B0; }
+.btn-block {
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  outline: none !important; }
+
+.vocab {
+  display: none; }
+
+.correct {
+  display: none; }
+
+.form-control {
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px; }
 
 .fullpost-title {
   color: #ED213A;
