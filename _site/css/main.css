@@ -6746,12 +6746,18 @@ a {
 .vocab {
   display: none; }
 
+.yourtranslation {
+  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px !important;
+  border-radius: 10px !important;
+  outline: none !important; }
+
 .correct {
   display: none; }
 
 .form-control {
   margin-bottom: 20px;
-  padding-top: 10px;
   padding-bottom: 10px; }
 
 .fullpost-title {
