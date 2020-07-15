@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-14T08:22:12+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Ypod</title><link href="http://localhost:4000/YPod/" rel="alternate" type="text/html" title="Ypod" /><published>2020-07-14T00:00:00+01:00</published><updated>2020-07-14T00:00:00+01:00</updated><id>http://localhost:4000/YPod</id><content type="html" xml:base="http://localhost:4000/YPod/">&lt;p&gt;lansio - launch&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-15T07:12:33+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Tywydd</title><link href="http://localhost:4000/Tywydd/" rel="alternate" type="text/html" title="Tywydd" /><published>2020-07-15T00:00:00+01:00</published><updated>2020-07-15T00:00:00+01:00</updated><id>http://localhost:4000/Tywydd</id><content type="html" xml:base="http://localhost:4000/Tywydd/">&lt;p&gt;rhagolygon - forecast&lt;/p&gt;
+
+&lt;p&gt;lleoliad -  location&lt;/p&gt;
+
+&lt;p&gt;o dan  - below&lt;/p&gt;</content><summary type="html">rhagolygon - forecast</summary></entry><entry><title type="html">Ypod</title><link href="http://localhost:4000/YPod/" rel="alternate" type="text/html" title="Ypod" /><published>2020-07-14T00:00:00+01:00</published><updated>2020-07-14T00:00:00+01:00</updated><id>http://localhost:4000/YPod</id><content type="html" xml:base="http://localhost:4000/YPod/">&lt;p&gt;lansio - launch&lt;/p&gt;
 
 &lt;p&gt;teuluoedd - families&lt;/p&gt;
 
@@ -36,8 +40,4 @@
 
 &lt;p&gt;nod - aim&lt;/p&gt;
 
-&lt;p&gt;cyfryngau cymdeithasol - social media&lt;/p&gt;</content><summary type="html">adloniant - entertainment</summary></entry><entry><title type="html">Nawr awr</title><link href="http://localhost:4000/Nawr-awr/" rel="alternate" type="text/html" title="Nawr awr" /><published>2020-07-05T00:00:00+01:00</published><updated>2020-07-05T00:00:00+01:00</updated><id>http://localhost:4000/Nawr awr</id><content type="html" xml:base="http://localhost:4000/Nawr-awr/">&lt;p&gt;diweddara - latest&lt;/p&gt;
-
-&lt;p&gt;ysbrydoli - inspire&lt;/p&gt;
-
-&lt;p&gt;cyn hir - soon&lt;/p&gt;</content><summary type="html">diweddara - latest</summary></entry></feed>
+&lt;p&gt;cyfryngau cymdeithasol - social media&lt;/p&gt;</content><summary type="html">adloniant - entertainment</summary></entry></feed>
