@@ -69,10 +69,16 @@
           <li class="nav-item">
           <a href="/about/" class="nav-link">ABOUT</a>
         </li>
+        <li class="nav-item">
+          <style>
+          .bmc-button img{height: 24px !important;width: 15px !important;margin-bottom: 15px !important;margin-top: 6px !important;margin-right: 5px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
+          .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
+        </li>    
       </ul>
     </div>
   </div>
 </nav>
+
 
      <section id="banner">
     <div class="banner">
@@ -88,14 +94,10 @@
                 <h2 class="home-subtitle">Learning to read Welsh, one Tweet at a time...</h2>
             </div>
             <div class="col-sm-4"></div>
-           <!--  <div class="col-sm-12 bannerimage">
-                <style>
-                .bmc-button img{height: 34px !important;width: 27px !important;margin-bottom: 25px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
-                .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
-            </div>
+          
             <div class="col-sm-12 bannerimage">
-                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div> -->
+                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div> 
         </div>
     </div>
     </div>
@@ -103,7 +105,7 @@
     
 
 
-    
+
     <script>
   $(document).ready(function(){
     $(".vocabbutton" ).on ("click", function(){
@@ -126,6 +128,55 @@
 <section id="posts">
    <div class="container">
       
+      <div class="row post-entry">
+      <div class="col-sm-12">
+
+        <p class="post-date">
+          <span class="day">28</span>
+          <br class="post-divider">
+          <span class="month-year">Jun 2020</span>
+        </p>
+
+      </div>
+    </div>
+   
+      <div class="row post-entry">
+      <div class="col-sm-6">
+        <div class="tweet-section"> 
+          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Os ydych yn gwylio Lung Water o’ch ffôn symudol heno, ewch fan hyn i lawrlwytho’r app <a href="https://twitter.com/ambobdim?ref_src=twsrc%5Etfw">@ambobdim</a> ymlaen llaw - mae’r sioe yn dechrau am 7yh! <a href="https://t.co/ZyFQYWi5tk">https://t.co/ZyFQYWi5tk</a></p>&mdash; NationalTheatreWales (@NTWtweets) <a href="https://twitter.com/NTWtweets/status/1276932072830107659?ref_src=twsrc%5Etfw">June 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="translation-section"> 
+
+          <div id="translation-block-one">
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
+            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>ffôn symudol - mobile phone</p>
+
+<p>lawrlwytho - download</p>
+
+<p>ewch fan hyn - go/head here</p>
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">If you’re watching Lung Water from your mobile tonight, head here to download the @ambobdim app in advance - Show starts at 7pm! http://amam.cymru/ambobdim</p></div>
+            </div>
+
+           
+
+        </div>
+      </div>
+      <div class="col-sm-12 post-divider"></div>
+  </div>
+
       <div class="row post-entry">
       <div class="col-sm-12">
 
@@ -366,56 +417,6 @@
             <div id="translation-block-two">
               <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
               <div class ="correct"> <p class="translation-copy">Lovely stories on @BBCymruFyw about how book shops have been cheering us up during the lockdown. '#IndependentBookshopWeek' '#SupportBookShops' '#LoveReading'</p></div>
-            </div>
-
-           
-
-        </div>
-      </div>
-      <div class="col-sm-12 post-divider"></div>
-  </div>
-
-      <div class="row post-entry">
-      <div class="col-sm-12">
-
-        <p class="post-date">
-          <span class="day">22</span>
-          <br class="post-divider">
-          <span class="month-year">Jun 2020</span>
-        </p>
-
-      </div>
-    </div>
-   
-      <div class="row post-entry">
-      <div class="col-sm-6">
-        <div class="tweet-section"> 
-          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">DIOLCH YN FAWR i bawb sy wedi bod yn cefnogi ni trwy archebu llyfrau ar-lein <a href="https://t.co/ghRihUQtqT">https://t.co/ghRihUQtqT</a> dros yr wythnosau diwetha.<br>📚👏❤️📚👏❤️📚👏❤️<br>Dyn ni ddim yn barod i agor y siop eto felly plîs cadwch i ddefnyddio’r wefan!<a href="https://twitter.com/hashtag/yagym?src=hash&amp;ref_src=twsrc%5Etfw">#yagym</a> <a href="https://twitter.com/hashtag/CefnogiSiopauLlyfrau?src=hash&amp;ref_src=twsrc%5Etfw">#CefnogiSiopauLlyfrau</a> <a href="https://t.co/6fjIbH0Pt0">pic.twitter.com/6fjIbH0Pt0</a></p>&mdash; Cant a mil (@siopcantamil) <a href="https://twitter.com/siopcantamil/status/1274983795838648320?ref_src=twsrc%5Etfw">June 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="translation-section"> 
-
-          <div id="translation-block-one">
-            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
-            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
-        </div>
-
-
-          <div id="translation-block-three">
-            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
-            <div class="vocab">  <p class= "translation-copy"><p>archeb - order</p>
-
-<p>felly - so</p>
-
-<p>wythnosau diwetha - last few weeks</p>
-
-</p></div>
-            </div>
-
-            <div id="translation-block-two">
-              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
-              <div class ="correct"> <p class="translation-copy">Thankyou to everyone who has been supporting us by ordering books online over the last few weeks. We are not yet ready to open the shop yet so please keep using the website!</p></div>
             </div>
 
            

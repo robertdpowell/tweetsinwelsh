@@ -69,10 +69,16 @@
           <li class="nav-item">
           <a href="/about/" class="nav-link">ABOUT</a>
         </li>
+        <li class="nav-item">
+          <style>
+          .bmc-button img{height: 24px !important;width: 15px !important;margin-bottom: 15px !important;margin-top: 6px !important;margin-right: 5px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
+          .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
+        </li>    
       </ul>
     </div>
   </div>
 </nav>
+
 
      <section id="banner">
     <div class="banner">
@@ -88,14 +94,10 @@
                 <h2 class="home-subtitle">Learning to read Welsh, one Tweet at a time...</h2>
             </div>
             <div class="col-sm-4"></div>
-           <!--  <div class="col-sm-12 bannerimage">
-                <style>
-                .bmc-button img{height: 34px !important;width: 27px !important;margin-bottom: 25px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
-                .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
-            </div>
+          
             <div class="col-sm-12 bannerimage">
-                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div> -->
+                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div> 
         </div>
     </div>
     </div>
@@ -103,7 +105,7 @@
     
 
 
-    
+
     <script>
   $(document).ready(function(){
     $(".vocabbutton" ).on ("click", function(){
@@ -126,6 +128,56 @@
 <section id="posts">
    <div class="container">
       
+      <div class="row post-entry">
+      <div class="col-sm-12">
+
+        <p class="post-date">
+          <span class="day">10</span>
+          <br class="post-divider">
+          <span class="month-year">Jul 2020</span>
+        </p>
+
+      </div>
+    </div>
+   
+      <div class="row post-entry">
+      <div class="col-sm-6">
+        <div class="tweet-section"> 
+          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Eisiau darganfod mwy am Brifysgol Metropolitan Caerdydd? Mae ein Diwrnod Agored Rhithwir wedi cyrraedd! Gallwch ddysgu mwy am ein cyrsiau a gweld beth sydd gan ein dinas i’w gynnig.<br> <br>Unrhyw gwestiynau am astudio trwy’r Gymraeg? 💬 Sgwrs Byw 12-3 yp🏴󠁧󠁢󠁷󠁬󠁳󠁿<br> <br>👉🏼 <a href="https://t.co/hkrNWSLvgZ">https://t.co/hkrNWSLvgZ</a> <a href="https://t.co/UY1LHsq4YZ">pic.twitter.com/UY1LHsq4YZ</a></p>&mdash; Prifysgol Metropolitan Caerdydd (@metcaerdydd) <a href="https://twitter.com/metcaerdydd/status/1281188758507917312?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="translation-section"> 
+
+          <div id="translation-block-one">
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
+            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>darganfod - discover</p>
+
+<p>rhithwir - virtual</p>
+
+<p>cyrraedd - arrive</p>
+
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Want to discover more about Cardiff Met University? Our virtual open day has arrived! You can learn more about our courses and see what our city has to offer.  Any questions about studying through Welsh? Live chat 12-3pm</p></div>
+            </div>
+
+           
+
+        </div>
+      </div>
+      <div class="col-sm-12 post-divider"></div>
+  </div>
+
       <div class="row post-entry">
       <div class="col-sm-12">
 
@@ -368,55 +420,6 @@
             <div id="translation-block-two">
               <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
               <div class ="correct"> <p class="translation-copy">A special morning running on the trails this morning tackling our latest challenge. We’ve both been inspired after our chat with @_LowriMorgan. We'll be talking about our day on the podcast soon.</p></div>
-            </div>
-
-           
-
-        </div>
-      </div>
-      <div class="col-sm-12 post-divider"></div>
-  </div>
-
-      <div class="row post-entry">
-      <div class="col-sm-12">
-
-        <p class="post-date">
-          <span class="day">04</span>
-          <br class="post-divider">
-          <span class="month-year">Jul 2020</span>
-        </p>
-
-      </div>
-    </div>
-   
-      <div class="row post-entry">
-      <div class="col-sm-6">
-        <div class="tweet-section"> 
-          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Heddiw rydyn ni’n dathlu cynhyrchwyr bwyd a diod Cymru, sydd wedi bod yn gweithio mor galed yn ystod yr fisoedd diwethaf.<br> <br>Diolch mawr iddyn nhw ac i holl gwsmeriaid sydd wedi cefnogi bwyd a diod lleol.<br> <br>Diolch yn fawr. <a href="https://twitter.com/hashtag/CaruCymruCaruBlas?src=hash&amp;ref_src=twsrc%5Etfw">#CaruCymruCaruBlas</a> <a href="https://twitter.com/hashtag/LoveTasteLoveWales?src=hash&amp;ref_src=twsrc%5Etfw">#LoveTasteLoveWales</a> <a href="https://t.co/JUGrRyodUm">pic.twitter.com/JUGrRyodUm</a></p>&mdash; Halen_Mon (@Halen_Mon) <a href="https://twitter.com/Halen_Mon/status/1279004080912957440?ref_src=twsrc%5Etfw">July 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="translation-section"> 
-
-          <div id="translation-block-one">
-            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
-            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
-        </div>
-
-
-          <div id="translation-block-three">
-            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
-            <div class="vocab">  <p class= "translation-copy"><p>cynhyrchwyr - producers</p>
-
-<p>gweithio’n galed - to work hard</p>
-
-<p>cwsmeriaid - customers</p>
-</p></div>
-            </div>
-
-            <div id="translation-block-two">
-              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
-              <div class ="correct"> <p class="translation-copy">Today we celebrate Welsh food and drink producers, who have been working so hard over the past few months. A big thank you to them and to all the customers who have supported local food and drink. Thank you very much.</p></div>
             </div>
 
            

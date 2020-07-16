@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-15T07:12:33+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Tywydd</title><link href="http://localhost:4000/Tywydd/" rel="alternate" type="text/html" title="Tywydd" /><published>2020-07-15T00:00:00+01:00</published><updated>2020-07-15T00:00:00+01:00</updated><id>http://localhost:4000/Tywydd</id><content type="html" xml:base="http://localhost:4000/Tywydd/">&lt;p&gt;rhagolygon - forecast&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T06:21:33+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Cysgliad</title><link href="http://localhost:4000/Cysgliad/" rel="alternate" type="text/html" title="Cysgliad" /><published>2020-07-16T00:00:00+01:00</published><updated>2020-07-16T00:00:00+01:00</updated><id>http://localhost:4000/Cysgliad</id><content type="html" xml:base="http://localhost:4000/Cysgliad/">&lt;p&gt;ar gael - available&lt;/p&gt;
+
+&lt;p&gt;lwytho i lawr -  download&lt;/p&gt;
+
+&lt;p&gt;yn sgil - thanks to&lt;/p&gt;</content><summary type="html">ar gael - available</summary></entry><entry><title type="html">Tywydd</title><link href="http://localhost:4000/Tywydd/" rel="alternate" type="text/html" title="Tywydd" /><published>2020-07-15T00:00:00+01:00</published><updated>2020-07-15T00:00:00+01:00</updated><id>http://localhost:4000/Tywydd</id><content type="html" xml:base="http://localhost:4000/Tywydd/">&lt;p&gt;rhagolygon - forecast&lt;/p&gt;
 
 &lt;p&gt;lleoliad -  location&lt;/p&gt;
 
@@ -34,10 +38,4 @@
 
 &lt;p&gt;hawdd - easy&lt;/p&gt;
 
-&lt;p&gt;maint - size&lt;/p&gt;</content><summary type="html">ffordd - way</summary></entry><entry><title type="html">Candelas</title><link href="http://localhost:4000/Candelas/" rel="alternate" type="text/html" title="Candelas" /><published>2020-07-06T00:00:00+01:00</published><updated>2020-07-06T00:00:00+01:00</updated><id>http://localhost:4000/Candelas</id><content type="html" xml:base="http://localhost:4000/Candelas/">&lt;p&gt;adloniant - entertainment&lt;/p&gt;
-
-&lt;p&gt;llun - photo&lt;/p&gt;
-
-&lt;p&gt;nod - aim&lt;/p&gt;
-
-&lt;p&gt;cyfryngau cymdeithasol - social media&lt;/p&gt;</content><summary type="html">adloniant - entertainment</summary></entry></feed>
+&lt;p&gt;maint - size&lt;/p&gt;</content><summary type="html">ffordd - way</summary></entry></feed>

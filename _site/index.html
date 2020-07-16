@@ -68,10 +68,16 @@
           <li class="nav-item">
           <a href="/about/" class="nav-link">ABOUT</a>
         </li>
+        <li class="nav-item">
+          <style>
+          .bmc-button img{height: 24px !important;width: 15px !important;margin-bottom: 15px !important;margin-top: 6px !important;margin-right: 5px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
+          .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
+        </li>    
       </ul>
     </div>
   </div>
 </nav>
+
 
      <section id="banner">
     <div class="banner">
@@ -87,14 +93,10 @@
                 <h2 class="home-subtitle">Learning to read Welsh, one Tweet at a time...</h2>
             </div>
             <div class="col-sm-4"></div>
-           <!--  <div class="col-sm-12 bannerimage">
-                <style>
-                .bmc-button img{height: 34px !important;width: 27px !important;margin-bottom: 25px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}
-                .bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px $primary !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px $primary !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Arial" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/tweetsinwelsh"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"></a>
-            </div>
+          
             <div class="col-sm-12 bannerimage">
-                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div> -->
+                <a href="https://twitter.com/tweetsinwelsh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tweetsinwelsh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div> 
         </div>
     </div>
     </div>
@@ -102,7 +104,7 @@
     
 
 
-    
+
     <script>
   $(document).ready(function(){
     $(".vocabbutton" ).on ("click", function(){
@@ -125,6 +127,56 @@
 <section id="posts">
    <div class="container">
       
+      <div class="row post-entry">
+      <div class="col-sm-12">
+
+        <p class="post-date">
+          <span class="day">16</span>
+          <br class="post-divider">
+          <span class="month-year">Jul 2020</span>
+        </p>
+
+      </div>
+    </div>
+   
+      <div class="row post-entry">
+      <div class="col-sm-6">
+        <div class="tweet-section"> 
+          <p><blockquote data-cards="hidden" class="twitter-tweet"><p lang="cy" dir="ltr">Mae Cysgliad yn awr ar gael i&#39;w lwytho i lawr am ddim i&#39;ch cyfrifiadur Windows, yn sgil partneriaeth rhwng Prifysgol Bangor a <a href="https://twitter.com/LlywodraethCym?ref_src=twsrc%5Etfw">@LlywodraethCym</a> 🏴󠁧󠁢󠁷󠁬󠁳󠁿<br><br>Darllennwch fwy yma 👉<a href="https://t.co/aRhPnzkKvv">https://t.co/aRhPnzkKvv</a> <a href="https://t.co/f5XrMBdPnq"></a></p>&mdash; Prifysgol Bangor (@prifysgolbangor) <a href="https://twitter.com/prifysgolbangor/status/1265921322825199617?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="translation-section"> 
+
+          <div id="translation-block-one">
+            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
+            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
+        </div>
+
+
+          <div id="translation-block-three">
+            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
+            <div class="vocab">  <p class= "translation-copy"><p>ar gael - available</p>
+
+<p>lwytho i lawr -  download</p>
+
+<p>yn sgil - thanks to</p>
+
+</p></div>
+            </div>
+
+            <div id="translation-block-two">
+              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
+              <div class ="correct"> <p class="translation-copy">Cysgliad is now available to download for free to your Windows computer, as a result of a partnership between Bangor University and @LlywodraethCym. Read more here.</p></div>
+            </div>
+
+           
+
+        </div>
+      </div>
+      <div class="col-sm-12 post-divider"></div>
+  </div>
+
       <div class="row post-entry">
       <div class="col-sm-12">
 
@@ -365,56 +417,6 @@
             <div id="translation-block-two">
               <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
               <div class ="correct"> <p class="translation-copy">The balls came out of the hat favourable to Utd. Utd should overcome Başakşehir or Copenhagen to reach the semi-finals. A real opportunity for a trophy for Solskjær.</p></div>
-            </div>
-
-           
-
-        </div>
-      </div>
-      <div class="col-sm-12 post-divider"></div>
-  </div>
-
-      <div class="row post-entry">
-      <div class="col-sm-12">
-
-        <p class="post-date">
-          <span class="day">10</span>
-          <br class="post-divider">
-          <span class="month-year">Jul 2020</span>
-        </p>
-
-      </div>
-    </div>
-   
-      <div class="row post-entry">
-      <div class="col-sm-6">
-        <div class="tweet-section"> 
-          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Eisiau darganfod mwy am Brifysgol Metropolitan Caerdydd? Mae ein Diwrnod Agored Rhithwir wedi cyrraedd! Gallwch ddysgu mwy am ein cyrsiau a gweld beth sydd gan ein dinas i’w gynnig.<br> <br>Unrhyw gwestiynau am astudio trwy’r Gymraeg? 💬 Sgwrs Byw 12-3 yp🏴󠁧󠁢󠁷󠁬󠁳󠁿<br> <br>👉🏼 <a href="https://t.co/hkrNWSLvgZ">https://t.co/hkrNWSLvgZ</a> <a href="https://t.co/UY1LHsq4YZ">pic.twitter.com/UY1LHsq4YZ</a></p>&mdash; Prifysgol Metropolitan Caerdydd (@metcaerdydd) <a href="https://twitter.com/metcaerdydd/status/1281188758507917312?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="translation-section"> 
-
-          <div id="translation-block-one">
-            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
-            <textarea class="form-control" rows="3" placeholder="Try and translate the tweet"></textarea>
-        </div>
-
-
-          <div id="translation-block-three">
-            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB</button>
-            <div class="vocab">  <p class= "translation-copy"><p>darganfod - discover</p>
-
-<p>rhithwir - virtual</p>
-
-<p>cyrraedd - arrive</p>
-
-</p></div>
-            </div>
-
-            <div id="translation-block-two">
-              <button class="correctbutton btn-block btn-raised btn-success">CORRECT TRANSLATION</button>
-              <div class ="correct"> <p class="translation-copy">Want to discover more about Cardiff Met University? Our virtual open day has arrived! You can learn more about our courses and see what our city has to offer.  Any questions about studying through Welsh? Live chat 12-3pm</p></div>
             </div>
 
            
