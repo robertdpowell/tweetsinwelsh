@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T07:06:28+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Cysgliad</title><link href="http://localhost:4000/Cysgliad/" rel="alternate" type="text/html" title="Cysgliad" /><published>2020-07-16T00:00:00+01:00</published><updated>2020-07-16T00:00:00+01:00</updated><id>http://localhost:4000/Cysgliad</id><content type="html" xml:base="http://localhost:4000/Cysgliad/">&lt;p&gt;ar gael - available&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-17T06:19:28+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Nanog</title><link href="http://localhost:4000/Nanog/" rel="alternate" type="text/html" title="Nanog" /><published>2020-07-17T00:00:00+01:00</published><updated>2020-07-17T00:00:00+01:00</updated><id>http://localhost:4000/Nanog</id><content type="html" xml:base="http://localhost:4000/Nanog/">&lt;p&gt;newydd sbon - brand new&lt;/p&gt;
+
+&lt;p&gt;penderfynu - to decide&lt;/p&gt;
+
+&lt;p&gt;yn lle - instead of&lt;/p&gt;</content><summary type="html">newydd sbon - brand new</summary></entry><entry><title type="html">Cysgliad</title><link href="http://localhost:4000/Cysgliad/" rel="alternate" type="text/html" title="Cysgliad" /><published>2020-07-16T00:00:00+01:00</published><updated>2020-07-16T00:00:00+01:00</updated><id>http://localhost:4000/Cysgliad</id><content type="html" xml:base="http://localhost:4000/Cysgliad/">&lt;p&gt;ar gael - available&lt;/p&gt;
 
 &lt;p&gt;lwytho i lawr -  download&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;rhanddeiliad - stakeholder&lt;/p&gt;
 
-&lt;p&gt;manylion -  details&lt;/p&gt;</content><summary type="html">arloesedd - innovation</summary></entry><entry><title type="html">Ypelican</title><link href="http://localhost:4000/YPelican/" rel="alternate" type="text/html" title="Ypelican" /><published>2020-07-07T00:00:00+01:00</published><updated>2020-07-07T00:00:00+01:00</updated><id>http://localhost:4000/YPelican</id><content type="html" xml:base="http://localhost:4000/YPelican/">&lt;p&gt;ffordd - way&lt;/p&gt;
-
-&lt;p&gt;hawdd - easy&lt;/p&gt;
-
-&lt;p&gt;maint - size&lt;/p&gt;</content><summary type="html">ffordd - way</summary></entry></feed>
+&lt;p&gt;manylion -  details&lt;/p&gt;</content><summary type="html">arloesedd - innovation</summary></entry></feed>
