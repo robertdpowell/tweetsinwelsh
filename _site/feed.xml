@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-18T20:31:33+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Meddwl</title><link href="http://localhost:4000/Meddwl/" rel="alternate" type="text/html" title="Meddwl" /><published>2020-07-18T00:00:00+01:00</published><updated>2020-07-18T00:00:00+01:00</updated><id>http://localhost:4000/Meddwl</id><content type="html" xml:base="http://localhost:4000/Meddwl/">&lt;p&gt;i ffwrdd - off&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-19T08:19:14+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Golwg</title><link href="http://localhost:4000/Golwg/" rel="alternate" type="text/html" title="Golwg" /><published>2020-07-19T00:00:00+01:00</published><updated>2020-07-19T00:00:00+01:00</updated><id>http://localhost:4000/Golwg</id><content type="html" xml:base="http://localhost:4000/Golwg/">&lt;p&gt;ers - since&lt;/p&gt;
+
+&lt;p&gt;hyder - confidence&lt;/p&gt;
+
+&lt;p&gt;amgylchedd - environment&lt;/p&gt;</content><summary type="html">ers - since</summary></entry><entry><title type="html">Meddwl</title><link href="http://localhost:4000/Meddwl/" rel="alternate" type="text/html" title="Meddwl" /><published>2020-07-18T00:00:00+01:00</published><updated>2020-07-18T00:00:00+01:00</updated><id>http://localhost:4000/Meddwl</id><content type="html" xml:base="http://localhost:4000/Meddwl/">&lt;p&gt;i ffwrdd - off&lt;/p&gt;
 
 &lt;p&gt;bwriadu - intend&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;rhithwir - virtual&lt;/p&gt;
 
-&lt;p&gt;cyrraedd - arrive&lt;/p&gt;</content><summary type="html">darganfod - discover</summary></entry><entry><title type="html">Ffowc</title><link href="http://localhost:4000/Ffowc/" rel="alternate" type="text/html" title="Ffowc" /><published>2020-07-09T00:00:00+01:00</published><updated>2020-07-09T00:00:00+01:00</updated><id>http://localhost:4000/Ffowc</id><content type="html" xml:base="http://localhost:4000/Ffowc/">&lt;p&gt;derbyn - to receive&lt;/p&gt;
-
-&lt;p&gt;cyfrinach - secret&lt;/p&gt;
-
-&lt;p&gt;clawr - cover&lt;/p&gt;</content><summary type="html">derbyn - to receive</summary></entry></feed>
+&lt;p&gt;cyrraedd - arrive&lt;/p&gt;</content><summary type="html">darganfod - discover</summary></entry></feed>
