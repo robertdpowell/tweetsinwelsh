@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-19T08:19:14+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Golwg</title><link href="http://localhost:4000/Golwg/" rel="alternate" type="text/html" title="Golwg" /><published>2020-07-19T00:00:00+01:00</published><updated>2020-07-19T00:00:00+01:00</updated><id>http://localhost:4000/Golwg</id><content type="html" xml:base="http://localhost:4000/Golwg/">&lt;p&gt;ers - since&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-20T07:33:04+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Amgueddfa</title><link href="http://localhost:4000/Amgueddfa/" rel="alternate" type="text/html" title="Amgueddfa" /><published>2020-07-20T00:00:00+01:00</published><updated>2020-07-20T00:00:00+01:00</updated><id>http://localhost:4000/Amgueddfa</id><content type="html" xml:base="http://localhost:4000/Amgueddfa/">&lt;p&gt;ar gau - closed&lt;/p&gt;
+
+&lt;p&gt;tra bod - whilst&lt;/p&gt;
+
+&lt;p&gt;pethau - things&lt;/p&gt;</content><summary type="html">ar gau - closed</summary></entry><entry><title type="html">Golwg</title><link href="http://localhost:4000/Golwg/" rel="alternate" type="text/html" title="Golwg" /><published>2020-07-19T00:00:00+01:00</published><updated>2020-07-19T00:00:00+01:00</updated><id>http://localhost:4000/Golwg</id><content type="html" xml:base="http://localhost:4000/Golwg/">&lt;p&gt;ers - since&lt;/p&gt;
 
 &lt;p&gt;hyder - confidence&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;peli - balls&lt;/p&gt;
 
-&lt;p&gt;yn ffafriol i - favourable to&lt;/p&gt;</content><summary type="html">goresgyn - overcome</summary></entry><entry><title type="html">Cardiff met</title><link href="http://localhost:4000/Cardiff-Met/" rel="alternate" type="text/html" title="Cardiff met" /><published>2020-07-10T00:00:00+01:00</published><updated>2020-07-10T00:00:00+01:00</updated><id>http://localhost:4000/Cardiff Met</id><content type="html" xml:base="http://localhost:4000/Cardiff-Met/">&lt;p&gt;darganfod - discover&lt;/p&gt;
-
-&lt;p&gt;rhithwir - virtual&lt;/p&gt;
-
-&lt;p&gt;cyrraedd - arrive&lt;/p&gt;</content><summary type="html">darganfod - discover</summary></entry></feed>
+&lt;p&gt;yn ffafriol i - favourable to&lt;/p&gt;</content><summary type="html">goresgyn - overcome</summary></entry></feed>
