@@ -1,7 +1,7 @@
 <script>
   $(document).ready(function(){
     $(".show" ).on ("click", function(){
-      $(this).next (".backCard").toggle(1000);
+      $(this).next (".backCard").toggle();
     });
   });
   </script>
@@ -16,13 +16,13 @@
           <div class="col-sm-4"></div>
           <div class="col-sm-4 center">
             <div class="frontCard container-sm"> 
-              <div class= "welshVocab"><p class="front translation-copy">{{card.front}}</p></div>
+              <div class= "welshVocab"><p class="front cardCopy lead">{{card.front}}</p></div>
             </div>
             <button class="show btn btn-warning">
           <div>SHOW</div>
             </button>
             <div class="backCard container-sm"> 
-              <div class= "englishVocab"><p class="back translation-copy">{{card.back}}</p></div>
+              <div class= "englishVocab"><p class="back cardCopy lead">{{card.back}}</p></div>
             </div>
           </div>
           <div class="col-sm-4"></div>
