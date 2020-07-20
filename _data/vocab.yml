@@ -1,0 +1,351 @@
+#-------------------------------
+# Vocab section
+
+cards:
+- front: ar gau
+  back: closed
+
+- front: tra bod
+  back: whilst
+
+- front: pethau
+  back: things
+
+- front: ers
+  back: since
+
+- front: hyder
+  back: confidence
+
+- front: amgylchedd
+  back: environment
+
+- front: i ffwrdd
+  back: off.
+
+- front: bwriadu  
+  back: intend
+
+- front: arddangos
+  back: display
+
+- front: penderfynu
+  back: to decide
+
+- front: yn lle 
+  back: instead of
+
+- front: ar gael
+  back: available 
+
+- front: lwytho i lawr
+  back: download
+
+- front: yn sgil
+  back: thanks to  
+
+- front: rhagolygon
+  back: forecast 
+
+- front: lleoliad
+  back: location
+
+- front: o dan 
+  back: below
+
+- front: lansio
+  back: launch
+
+- front: teuluoedd
+  back: families
+
+- front: trafod
+  back: discuss
+
+- front: cyfuno
+  back: combine
+
+- front: pennod
+  back: episode  
+  
+- front: prosiect
+  back: project
+
+- front: darganfod
+  back: discover
+
+- front: cwmni  
+  back: company  
+
+- front: unigryw
+  back: unique
+
+- front: goresgyn
+  back: overcome
+
+- front: yn ffafriol i
+  back: favourable to
+
+- front: rhithwir 
+  back: virtual
+
+- front: cyrraedd
+  back: arrive
+
+- front: derbyn
+  back: to receive
+  
+- front: cyfrinach
+  back: secret
+
+- front: clawr
+  back: cover
+
+- front: arloesedd
+  back: innovation
+  
+- front: rhanddeiliad
+  back: stakeholder
+
+- front: manylion
+  back: details
+
+- front: ffordd
+  back: way
+
+- front: hawdd
+  back: easy
+
+- front: maint
+  back: size
+
+- front: adloniant
+  back: entertainment
+
+- front: llun
+  back: photo
+
+- front: nod  
+  back: aim
+
+- front: cyfryngau cymdeithasol
+  back: social media
+
+- front: diweddara
+  back: latest
+
+- front: ysbrydoli
+  back: inspire
+
+- front: cyn hir
+  back: soon
+
+- front: cynhyrchwyr
+  back: producer
+
+- front: gweitho'n galed
+  back: to work hard
+
+- front: lleoli
+  back: located 
+
+- front: canol
+  back: middle
+
+- front: cyhoeddi
+  back: announce
+
+- front: bellach
+  back: now
+
+- front: ar hyn o bryd
+  back: at the moment
+
+- front: bendigedig
+  back: wonderful
+
+- front: argaeledd  
+  back: availability
+
+- front: iechyd meddwl
+  back: mental health
+
+- front: uniongrychol
+  back: direct 
+
+- front: ata i
+  back: to me
+
+- front: anfon  
+  back: send
+
+- front: effaith
+  back: effect
+
+- front: isod
+  back: below
+
+- front: llenwi
+  back: fill
+
+- front: ffôn symudol
+  back: mobile phone
+
+- front: lawrlwytho
+  back: download
+
+- front: ewch fan hyn
+  back: go/head here
+
+- front: digwydd
+  back: happen
+
+- front: cipolwg
+  back: look/glimpse/glance
+
+- front: rhaglen
+  back: programme  
+
+- front: prysur
+  back: busy
+
+- front: erioed
+  back: ever
+
+- front: cymryd
+  back: to take  
+
+- front: yn fyw
+  back: live
+
+- front: gorau
+  back: best
+
+- front: gyda rai o 
+  back: with some of  
+
+- front: rhwng
+  back: between
+
+- front: ychwanegu
+  back: add
+
+- front: neges
+  back: message  
+
+- front: straeon
+  back: stories
+
+- front: annibynnol
+  back: independent
+
+- front: darllen
+  back: reading  
+
+- front: archeb
+  back: order
+
+- front: felly 
+  back: so
+
+- front: wythnosau diwetha
+  back: last few weeks  
+
+- front: ailagor
+  back: reopen
+
+- front: lleol 
+  back: local
+
+- front: hanfodol
+  back: essential 
+
+- front: gwaedd uchel
+  back: shout out
+
+- front: cynnwys 
+  back: content
+
+- front: pawen lawen
+  back: high five
+
+- front: popeth
+  back: everything  
+
+- front: gwefan
+  back: website
+
+- front: bob amser 
+  back: always
+
+- front: darnau
+  back: pieces 
+
+- front: tywod
+  back: sand
+
+- front: dyma'r hanes 
+  back: content
+
+- front: Mae'r wythnos bron ar ben
+  back: The week is nearly over
+
+- front: gweithgareddau
+  back: activities 
+
+- front: cefnogi
+  back: support
+
+- front: creu
+  back: create
+
+- front: perffaith
+  back: perfect
+
+- front: rannwch da chi
+  back: please share
+
+- front: y penwythos hwn
+  back: this weekend
+
+- front: sôn
+  back: talk
+
+- front: golygu
+  back: mean
+
+- front: ymunwch gyda ni
+  back: join us
+
+- front: tudalen
+  back: page
+
+- front: arbennig
+  back: special
+
+- front: dathlu
+  back: celebrate
+
+- front: ar-lein
+  back: online
+
+- front: rhan
+  back: part
+
+- front: morglawdd
+  back: barrage
+
+- front: defnyddio
+  back: using
+
+- front: a thu hwnt
+  back: and beyond
+
+- front: rydym ni am glywed eich
+  back: We want to hear your
+
+- front: profiadau
+  back: experiences
+
+- front: yn ystod
+  back: during
