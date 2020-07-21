@@ -2,6 +2,16 @@
 # Vocab section
 
 cards:
+
+- front: gwahoddiad 
+  back: invitation
+
+- front: cymuned
+  back: community
+
+- front: ledled
+  back: throughout
+
 - front: ar gau
   back: closed
 
