@@ -2,6 +2,14 @@
 # Vocab section
 
 cards:
+- front: trafodaeth 
+  back: discussion
+
+- front: llwyodraeth
+  back: government
+
+- front: dyluniad
+  back: to design
 
 - front: cyffrous 
   back: exciting

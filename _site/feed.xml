@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-22T17:03:19+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Creativecardiff</title><link href="http://localhost:4000/CreativeCardiff/" rel="alternate" type="text/html" title="Creativecardiff" /><published>2020-07-22T00:00:00+01:00</published><updated>2020-07-22T00:00:00+01:00</updated><id>http://localhost:4000/CreativeCardiff</id><content type="html" xml:base="http://localhost:4000/CreativeCardiff/">&lt;p&gt;cyffrous - exciting&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T05:46:18+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Wwf</title><link href="http://localhost:4000/WWF/" rel="alternate" type="text/html" title="Wwf" /><published>2020-07-23T00:00:00+01:00</published><updated>2020-07-23T00:00:00+01:00</updated><id>http://localhost:4000/WWF</id><content type="html" xml:base="http://localhost:4000/WWF/">&lt;p&gt;trafodaeth - discussion&lt;/p&gt;
+
+&lt;p&gt;llwyodraeth - government&lt;/p&gt;
+
+&lt;p&gt;dyluniad - to design&lt;/p&gt;</content><summary type="html">trafodaeth - discussion</summary></entry><entry><title type="html">Creativecardiff</title><link href="http://localhost:4000/CreativeCardiff/" rel="alternate" type="text/html" title="Creativecardiff" /><published>2020-07-22T00:00:00+01:00</published><updated>2020-07-22T00:00:00+01:00</updated><id>http://localhost:4000/CreativeCardiff</id><content type="html" xml:base="http://localhost:4000/CreativeCardiff/">&lt;p&gt;cyffrous - exciting&lt;/p&gt;
 
 &lt;p&gt;troi - to turn&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;teuluoedd - families&lt;/p&gt;
 
-&lt;p&gt;trafod - discuss&lt;/p&gt;</content><summary type="html">lansio - launch</summary></entry><entry><title type="html">Farm</title><link href="http://localhost:4000/Farm/" rel="alternate" type="text/html" title="Farm" /><published>2020-07-13T00:00:00+01:00</published><updated>2020-07-13T00:00:00+01:00</updated><id>http://localhost:4000/Farm</id><content type="html" xml:base="http://localhost:4000/Farm/">&lt;p&gt;cyfuno - combine&lt;/p&gt;
-
-&lt;p&gt;pennod - episode&lt;/p&gt;
-
-&lt;p&gt;prosiect - project&lt;/p&gt;</content><summary type="html">cyfuno - combine</summary></entry></feed>
+&lt;p&gt;trafod - discuss&lt;/p&gt;</content><summary type="html">lansio - launch</summary></entry></feed>
