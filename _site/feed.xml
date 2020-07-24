@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-23T12:16:10+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Wwf</title><link href="http://localhost:4000/WWF/" rel="alternate" type="text/html" title="Wwf" /><published>2020-07-23T00:00:00+01:00</published><updated>2020-07-23T00:00:00+01:00</updated><id>http://localhost:4000/WWF</id><content type="html" xml:base="http://localhost:4000/WWF/">&lt;p&gt;trafodaeth - discussion&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-24T06:58:58+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Blas</title><link href="http://localhost:4000/Blas/" rel="alternate" type="text/html" title="Blas" /><published>2020-07-24T00:00:00+01:00</published><updated>2020-07-24T00:00:00+01:00</updated><id>http://localhost:4000/Blas</id><content type="html" xml:base="http://localhost:4000/Blas/">&lt;p&gt;rydym yn falch - we are proud&lt;/p&gt;
+
+&lt;p&gt;cyflenwi - supply&lt;/p&gt;
+
+&lt;p&gt;gwin - wine&lt;/p&gt;</content><summary type="html">rydym yn falch - we are proud</summary></entry><entry><title type="html">Wwf</title><link href="http://localhost:4000/WWF/" rel="alternate" type="text/html" title="Wwf" /><published>2020-07-23T00:00:00+01:00</published><updated>2020-07-23T00:00:00+01:00</updated><id>http://localhost:4000/WWF</id><content type="html" xml:base="http://localhost:4000/WWF/">&lt;p&gt;trafodaeth - discussion&lt;/p&gt;
 
 &lt;p&gt;llywodraeth - government&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;lleoliad -  location&lt;/p&gt;
 
-&lt;p&gt;o dan  - below&lt;/p&gt;</content><summary type="html">rhagolygon - forecast</summary></entry><entry><title type="html">Ypod</title><link href="http://localhost:4000/YPod/" rel="alternate" type="text/html" title="Ypod" /><published>2020-07-14T00:00:00+01:00</published><updated>2020-07-14T00:00:00+01:00</updated><id>http://localhost:4000/YPod</id><content type="html" xml:base="http://localhost:4000/YPod/">&lt;p&gt;lansio - launch&lt;/p&gt;
-
-&lt;p&gt;teuluoedd - families&lt;/p&gt;
-
-&lt;p&gt;trafod - discuss&lt;/p&gt;</content><summary type="html">lansio - launch</summary></entry></feed>
+&lt;p&gt;o dan  - below&lt;/p&gt;</content><summary type="html">rhagolygon - forecast</summary></entry></feed>
