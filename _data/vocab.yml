@@ -2,14 +2,24 @@
 # Vocab section
 
 cards:
-- front: rydym yn falch 
-  back: we are proud
 
-- front: cyflenwi
-  back: supply
+- front: tu fas i
+  back: outside
 
-- front: gwin
-  back: wine
+- front: gwneud ymdrech
+  back: making an effort
+
+- front: cystadleuaeth
+  back: competition
+
+- front: mor
+  back: so
+
+- front: eleni
+  back: this year
+
+- front: taith
+  back: journey
 
 - front: trafodaeth 
   back: discussion
