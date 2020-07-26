@@ -3,6 +3,15 @@
 
 cards:
 
+- front: wynebu
+  back: face
+
+- front: sefyllfa
+  back: situation
+
+- front: anodd
+  back: difficult
+
 - front: tu fas i
   back: outside
 
