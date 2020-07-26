@@ -3,6 +3,15 @@
 
 cards:
 
+- front: gofyn
+  back: ask
+
+- front: gwahanol
+  back: different
+
+- front: efallai
+  back: maybe
+
 - front: wynebu
   back: face
 
@@ -338,9 +347,6 @@ cards:
 
 - front: tywod
   back: sand
-
-- front: dyma'r hanes 
-  back: content
 
 - front: Mae'r wythnos bron ar ben
   back: The week is nearly over
