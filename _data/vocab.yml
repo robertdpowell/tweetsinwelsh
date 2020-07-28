@@ -3,6 +3,15 @@
 
 cards:
 
+- front: pobydd
+  back: baker
+
+- front: syml
+  back: simple
+
+- front: rysáit
+  back: recipe
+
 - front: gofyn
   back: ask
 
