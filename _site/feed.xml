@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-28T06:23:49+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Bbc now</title><link href="http://localhost:4000/BBC-Now/" rel="alternate" type="text/html" title="Bbc now" /><published>2020-07-28T00:00:00+01:00</published><updated>2020-07-28T00:00:00+01:00</updated><id>http://localhost:4000/BBC Now</id><content type="html" xml:base="http://localhost:4000/BBC-Now/">&lt;p&gt;pobydd - baker&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-29T06:09:39+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Dwr</title><link href="http://localhost:4000/Dwr/" rel="alternate" type="text/html" title="Dwr" /><published>2020-07-29T00:00:00+01:00</published><updated>2020-07-29T00:00:00+01:00</updated><id>http://localhost:4000/Dwr</id><content type="html" xml:base="http://localhost:4000/Dwr/">&lt;p&gt;cynllun - plan&lt;/p&gt;
+
+&lt;p&gt;cynnwys -include&lt;/p&gt;
+
+&lt;p&gt;addysg - education&lt;/p&gt;</content><summary type="html">cynllun - plan</summary></entry><entry><title type="html">Bbc now</title><link href="http://localhost:4000/BBC-Now/" rel="alternate" type="text/html" title="Bbc now" /><published>2020-07-28T00:00:00+01:00</published><updated>2020-07-28T00:00:00+01:00</updated><id>http://localhost:4000/BBC Now</id><content type="html" xml:base="http://localhost:4000/BBC-Now/">&lt;p&gt;pobydd - baker&lt;/p&gt;
 
 &lt;p&gt;syml - simple&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;tra bod - whilst&lt;/p&gt;
 
-&lt;p&gt;pethau - things&lt;/p&gt;</content><summary type="html">ar gau - closed</summary></entry><entry><title type="html">Golwg</title><link href="http://localhost:4000/Golwg/" rel="alternate" type="text/html" title="Golwg" /><published>2020-07-19T00:00:00+01:00</published><updated>2020-07-19T00:00:00+01:00</updated><id>http://localhost:4000/Golwg</id><content type="html" xml:base="http://localhost:4000/Golwg/">&lt;p&gt;ers - since&lt;/p&gt;
-
-&lt;p&gt;hyder - confidence&lt;/p&gt;
-
-&lt;p&gt;amgylchedd - environment&lt;/p&gt;</content><summary type="html">ers - since</summary></entry></feed>
+&lt;p&gt;pethau - things&lt;/p&gt;</content><summary type="html">ar gau - closed</summary></entry></feed>

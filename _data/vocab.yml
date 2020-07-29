@@ -3,6 +3,15 @@
 
 cards:
 
+- front: cynllun
+  back: plan
+
+- front: cynnwys
+  back: include
+
+- front: addysg
+  back: education
+
 - front: pobydd
   back: baker
 
