@@ -3,6 +3,15 @@
 
 cards:
 
+- front: eisoes
+  back: already
+
+- front: cyngerdd
+  back: concert
+
+- front: cyfan
+  back: all
+
 - front: cynllun
   back: plan
 
