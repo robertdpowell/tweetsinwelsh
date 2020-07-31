@@ -3,6 +3,16 @@
 
 cards:
 
+
+- front: cadarnhau
+  back: confirm
+
+- front: tafarn
+  back: pub
+
+- front: dan do
+  back: indoors
+
 - front: eisoes
   back: already
 

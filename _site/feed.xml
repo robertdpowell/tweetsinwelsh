@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-30T07:09:37+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Radiocymru</title><link href="http://localhost:4000/radiocymru/" rel="alternate" type="text/html" title="Radiocymru" /><published>2020-07-30T00:00:00+01:00</published><updated>2020-07-30T00:00:00+01:00</updated><id>http://localhost:4000/radiocymru</id><content type="html" xml:base="http://localhost:4000/radiocymru/">&lt;p&gt;eisoes - already&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-31T05:53:31+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Golwg</title><link href="http://localhost:4000/golwg/" rel="alternate" type="text/html" title="Golwg" /><published>2020-07-31T00:00:00+01:00</published><updated>2020-07-31T00:00:00+01:00</updated><id>http://localhost:4000/golwg</id><content type="html" xml:base="http://localhost:4000/golwg/">&lt;p&gt;cadarnhau - confirm&lt;/p&gt;
+
+&lt;p&gt;tafarn -pub&lt;/p&gt;
+
+&lt;p&gt;dan do - indoors&lt;/p&gt;</content><summary type="html">cadarnhau - confirm</summary></entry><entry><title type="html">Radiocymru</title><link href="http://localhost:4000/radiocymru/" rel="alternate" type="text/html" title="Radiocymru" /><published>2020-07-30T00:00:00+01:00</published><updated>2020-07-30T00:00:00+01:00</updated><id>http://localhost:4000/radiocymru</id><content type="html" xml:base="http://localhost:4000/radiocymru/">&lt;p&gt;eisoes - already&lt;/p&gt;
 
 &lt;p&gt;cyngerdd -concert&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;troi - to turn&lt;/p&gt;
 
-&lt;p&gt;dyfodol - future&lt;/p&gt;</content><summary type="html">cyffrous - exciting</summary></entry><entry><title type="html">Arts council</title><link href="http://localhost:4000/Arts-council/" rel="alternate" type="text/html" title="Arts council" /><published>2020-07-21T00:00:00+01:00</published><updated>2020-07-21T00:00:00+01:00</updated><id>http://localhost:4000/Arts council</id><content type="html" xml:base="http://localhost:4000/Arts-council/">&lt;p&gt;gwahoddiad - invitation&lt;/p&gt;
-
-&lt;p&gt;cymuned - community&lt;/p&gt;
-
-&lt;p&gt;ledled - throughout&lt;/p&gt;</content><summary type="html">gwahoddiad - invitation</summary></entry></feed>
+&lt;p&gt;dyfodol - future&lt;/p&gt;</content><summary type="html">cyffrous - exciting</summary></entry></feed>
