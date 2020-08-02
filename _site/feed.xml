@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-01T07:42:11+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Amgueddfa</title><link href="http://localhost:4000/amgueddfa/" rel="alternate" type="text/html" title="Amgueddfa " /><published>2020-08-01T00:00:00+01:00</published><updated>2020-08-01T00:00:00+01:00</updated><id>http://localhost:4000/amgueddfa </id><content type="html" xml:base="http://localhost:4000/amgueddfa/">&lt;p&gt;wyddoch chi - did you know&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-02T07:07:12+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Coast</title><link href="http://localhost:4000/coast/" rel="alternate" type="text/html" title="Coast" /><published>2020-08-02T00:00:00+01:00</published><updated>2020-08-02T00:00:00+01:00</updated><id>http://localhost:4000/coast</id><content type="html" xml:base="http://localhost:4000/coast/">&lt;p&gt;hardd - beautiful&lt;/p&gt;
+
+&lt;p&gt;rheolau - rules&lt;/p&gt;
+
+&lt;p&gt;ymbellhau cymdeithasol - social distancing&lt;/p&gt;</content><summary type="html">hardd - beautiful</summary></entry><entry><title type="html">Amgueddfa</title><link href="http://localhost:4000/amgueddfa/" rel="alternate" type="text/html" title="Amgueddfa " /><published>2020-08-01T00:00:00+01:00</published><updated>2020-08-01T00:00:00+01:00</updated><id>http://localhost:4000/amgueddfa </id><content type="html" xml:base="http://localhost:4000/amgueddfa/">&lt;p&gt;wyddoch chi - did you know&lt;/p&gt;
 
 &lt;p&gt;dyfeisio - invent&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;cyflenwi - supply&lt;/p&gt;
 
-&lt;p&gt;gwin - wine&lt;/p&gt;</content><summary type="html">rydym yn falch - we are proud</summary></entry><entry><title type="html">Wwf</title><link href="http://localhost:4000/WWF/" rel="alternate" type="text/html" title="Wwf" /><published>2020-07-23T00:00:00+01:00</published><updated>2020-07-23T00:00:00+01:00</updated><id>http://localhost:4000/WWF</id><content type="html" xml:base="http://localhost:4000/WWF/">&lt;p&gt;trafodaeth - discussion&lt;/p&gt;
-
-&lt;p&gt;llywodraeth - government&lt;/p&gt;
-
-&lt;p&gt;iechyd - health&lt;/p&gt;</content><summary type="html">trafodaeth - discussion</summary></entry></feed>
+&lt;p&gt;gwin - wine&lt;/p&gt;</content><summary type="html">rydym yn falch - we are proud</summary></entry></feed>

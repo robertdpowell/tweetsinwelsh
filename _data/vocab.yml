@@ -3,6 +3,15 @@
 
 cards:
 
+- front: hardd
+  back: beautiful
+
+- front: rheolau
+  back: rules
+
+- front: ymbellhau cymdeithasol
+  back: social distancing
+
 - front: wyddoch chi 
   back: did you know
 
