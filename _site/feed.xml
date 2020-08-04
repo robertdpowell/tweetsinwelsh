@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-03T06:12:44+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Historian</title><link href="http://localhost:4000/historian/" rel="alternate" type="text/html" title="Historian" /><published>2020-08-03T00:00:00+01:00</published><updated>2020-08-03T00:00:00+01:00</updated><id>http://localhost:4000/historian</id><content type="html" xml:base="http://localhost:4000/historian/">&lt;p&gt;cyrchfan wyliau - holiday destination&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-04T06:23:46+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Eisteddfod</title><link href="http://localhost:4000/eisteddfod/" rel="alternate" type="text/html" title="Eisteddfod" /><published>2020-08-04T00:00:00+01:00</published><updated>2020-08-04T00:00:00+01:00</updated><id>http://localhost:4000/eisteddfod</id><content type="html" xml:base="http://localhost:4000/eisteddfod/">&lt;p&gt;trwy gydol - throughout&lt;/p&gt;
+
+&lt;p&gt;mynychu - attend&lt;/p&gt;
+
+&lt;p&gt;hysbysebu - advertise&lt;/p&gt;</content><summary type="html">trwy gydol - throughout</summary></entry><entry><title type="html">Historian</title><link href="http://localhost:4000/historian/" rel="alternate" type="text/html" title="Historian" /><published>2020-08-03T00:00:00+01:00</published><updated>2020-08-03T00:00:00+01:00</updated><id>http://localhost:4000/historian</id><content type="html" xml:base="http://localhost:4000/historian/">&lt;p&gt;cyrchfan wyliau - holiday destination&lt;/p&gt;
 
 &lt;p&gt;o gwmpas - around&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;sefyllfa - situation&lt;/p&gt;
 
-&lt;p&gt;anodd - difficult&lt;/p&gt;</content><summary type="html">wynebu - face</summary></entry><entry><title type="html">Learn welsh adults</title><link href="http://localhost:4000/Learn-Welsh-Adults/" rel="alternate" type="text/html" title="Learn welsh adults" /><published>2020-07-25T00:00:00+01:00</published><updated>2020-07-25T00:00:00+01:00</updated><id>http://localhost:4000/Learn Welsh Adults</id><content type="html" xml:base="http://localhost:4000/Learn-Welsh-Adults/">&lt;p&gt;tu fas i - outside&lt;/p&gt;
-
-&lt;p&gt;gwneud ymdrech - making an effort&lt;/p&gt;
-
-&lt;p&gt;cystadleuaeth - competition&lt;/p&gt;</content><summary type="html">tu fas i - outside</summary></entry></feed>
+&lt;p&gt;anodd - difficult&lt;/p&gt;</content><summary type="html">wynebu - face</summary></entry></feed>
