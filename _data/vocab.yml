@@ -3,6 +3,14 @@
 
 cards:
 
+- front: holiadur
+  back: questionnaire
+
+- front: sicrhewch eich bod
+  back:  make sure you..
+
+- front: pwnc
+  back: topic
 
 - front: trwy gydol 
   back: throughout
@@ -12,7 +20,6 @@ cards:
 
 - front: hysbysebu
   back: advertise
-
 
 - front: cyrchfan wyliau
   back: holiday destination
