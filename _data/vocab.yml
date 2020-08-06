@@ -3,6 +3,15 @@
 
 cards:
 
+- front: ymwybyddiaeth y cyhoedd
+  back: public awareness
+
+- front: enwogion
+  back:  celebrities
+
+- front: enwau lleoedd 
+  back: place names
+
 - front: holiadur
   back: questionnaire
 

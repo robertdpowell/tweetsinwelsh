@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-05T06:10:07+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Ieunctyd</title><link href="http://localhost:4000/ieunctyd/" rel="alternate" type="text/html" title="Ieunctyd" /><published>2020-08-05T00:00:00+01:00</published><updated>2020-08-05T00:00:00+01:00</updated><id>http://localhost:4000/ieunctyd</id><content type="html" xml:base="http://localhost:4000/ieunctyd/">&lt;p&gt;holiadur - questionnaire&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-06T06:55:46+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Commissioner</title><link href="http://localhost:4000/commissioner/" rel="alternate" type="text/html" title="Commissioner" /><published>2020-08-06T00:00:00+01:00</published><updated>2020-08-06T00:00:00+01:00</updated><id>http://localhost:4000/commissioner</id><content type="html" xml:base="http://localhost:4000/commissioner/">&lt;p&gt;ymwybyddiaeth y cyhoedd - public awareness&lt;/p&gt;
+
+&lt;p&gt;enwogion - celebrities&lt;/p&gt;
+
+&lt;p&gt;enwau lleoedd - place names&lt;/p&gt;</content><summary type="html">ymwybyddiaeth y cyhoedd - public awareness</summary></entry><entry><title type="html">Ieunctyd</title><link href="http://localhost:4000/ieunctyd/" rel="alternate" type="text/html" title="Ieunctyd" /><published>2020-08-05T00:00:00+01:00</published><updated>2020-08-05T00:00:00+01:00</updated><id>http://localhost:4000/ieunctyd</id><content type="html" xml:base="http://localhost:4000/ieunctyd/">&lt;p&gt;holiadur - questionnaire&lt;/p&gt;
 
 &lt;p&gt;sicrhewch eich bod - make sure you&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;syml - simple&lt;/p&gt;
 
-&lt;p&gt;rysáit - recipe&lt;/p&gt;</content><summary type="html">pobydd - baker</summary></entry><entry><title type="html">Welshgov</title><link href="http://localhost:4000/Welshgov/" rel="alternate" type="text/html" title="Welshgov" /><published>2020-07-27T00:00:00+01:00</published><updated>2020-07-27T00:00:00+01:00</updated><id>http://localhost:4000/Welshgov</id><content type="html" xml:base="http://localhost:4000/Welshgov/">&lt;p&gt;gofyn - ask&lt;/p&gt;
-
-&lt;p&gt;gwahanol - different&lt;/p&gt;
-
-&lt;p&gt;efallai - maybe&lt;/p&gt;</content><summary type="html">gofyn - ask</summary></entry></feed>
+&lt;p&gt;rysáit - recipe&lt;/p&gt;</content><summary type="html">pobydd - baker</summary></entry></feed>
