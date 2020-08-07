@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-06T06:55:46+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Commissioner</title><link href="http://localhost:4000/commissioner/" rel="alternate" type="text/html" title="Commissioner" /><published>2020-08-06T00:00:00+01:00</published><updated>2020-08-06T00:00:00+01:00</updated><id>http://localhost:4000/commissioner</id><content type="html" xml:base="http://localhost:4000/commissioner/">&lt;p&gt;ymwybyddiaeth y cyhoedd - public awareness&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-07T06:12:53+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Nant</title><link href="http://localhost:4000/nant/" rel="alternate" type="text/html" title="Nant" /><published>2020-08-07T00:00:00+01:00</published><updated>2020-08-07T00:00:00+01:00</updated><id>http://localhost:4000/nant</id><content type="html" xml:base="http://localhost:4000/nant/">&lt;p&gt;munud-olaf - last minute&lt;/p&gt;
+
+&lt;p&gt;cyfforddus - comfortable&lt;/p&gt;
+
+&lt;p&gt;golygfeydd - views&lt;/p&gt;</content><summary type="html">munud-olaf - last minute</summary></entry><entry><title type="html">Commissioner</title><link href="http://localhost:4000/commissioner/" rel="alternate" type="text/html" title="Commissioner" /><published>2020-08-06T00:00:00+01:00</published><updated>2020-08-06T00:00:00+01:00</updated><id>http://localhost:4000/commissioner</id><content type="html" xml:base="http://localhost:4000/commissioner/">&lt;p&gt;ymwybyddiaeth y cyhoedd - public awareness&lt;/p&gt;
 
 &lt;p&gt;enwogion - celebrities&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;cynnwys -include&lt;/p&gt;
 
-&lt;p&gt;addysg - education&lt;/p&gt;</content><summary type="html">cynllun - plan</summary></entry><entry><title type="html">Bbc now</title><link href="http://localhost:4000/BBC-Now/" rel="alternate" type="text/html" title="Bbc now" /><published>2020-07-28T00:00:00+01:00</published><updated>2020-07-28T00:00:00+01:00</updated><id>http://localhost:4000/BBC Now</id><content type="html" xml:base="http://localhost:4000/BBC-Now/">&lt;p&gt;pobydd - baker&lt;/p&gt;
-
-&lt;p&gt;syml - simple&lt;/p&gt;
-
-&lt;p&gt;rysáit - recipe&lt;/p&gt;</content><summary type="html">pobydd - baker</summary></entry></feed>
+&lt;p&gt;addysg - education&lt;/p&gt;</content><summary type="html">cynllun - plan</summary></entry></feed>
