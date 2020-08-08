@@ -3,6 +3,14 @@
 
 cards:
 
+- front: swyddog
+  back: officer
+
+- front: gweinyddiaeth
+  back:  administration
+
+- front: lawn-amser
+  back: full-time
 
 - front: munud-olaf
   back: last minute
