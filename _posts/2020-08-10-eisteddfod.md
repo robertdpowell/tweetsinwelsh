@@ -6,10 +6,11 @@ correcttranslation: >
 
 ---
 
-**ydyn nhw'n dechrau fflagio?** - this sentence uses the question form of the present tense of 'bod'/'to be'. In this case, 'ydyn nhw' is the third person plural and means 'are they?'
+**ydyn nhw'n dechrau fflagio?** - this sentence uses the question form of the present tense of 'bod'(to be). In this case, 'ydyn nhw' is the third person plural and means 'are they?'
 
 **mynd ati i (verbnoun)** - to go about ...ing
 
 **erbyn hyn** - in this context means 'now', to indicate that the riders are 'now' at Enlli.
 
 
+*please let me know of any corrections*
