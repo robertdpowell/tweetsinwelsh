@@ -6760,6 +6760,9 @@ a {
   margin-bottom: 20px;
   padding-bottom: 10px; }
 
+.paginate-belt {
+  text-align: center; }
+
 .fullpost-title {
   color: #ED213A;
   font-weight: bold;
