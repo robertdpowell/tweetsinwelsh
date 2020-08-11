@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-10T11:07:32+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Eisteddfod</title><link href="http://localhost:4000/eisteddfod/" rel="alternate" type="text/html" title="Eisteddfod" /><published>2020-08-10T00:00:00+01:00</published><updated>2020-08-10T00:00:00+01:00</updated><id>http://localhost:4000/eisteddfod</id><content type="html" xml:base="http://localhost:4000/eisteddfod/">&lt;p&gt;&lt;strong&gt;ydyn nhw’n dechrau fflagio?&lt;/strong&gt; - this sentence uses the question form of the present tense of ‘bod’(to be). In this case, ‘ydyn nhw’ is the third person plural and means ‘are they?’&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-11T06:12:17+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Bbc radio</title><link href="http://localhost:4000/bbc-radio/" rel="alternate" type="text/html" title="Bbc radio" /><published>2020-08-11T00:00:00+01:00</published><updated>2020-08-11T00:00:00+01:00</updated><id>http://localhost:4000/bbc radio</id><content type="html" xml:base="http://localhost:4000/bbc-radio/">&lt;p&gt;&lt;strong&gt;Maen nhw’n ffigurau trawiadol&lt;/strong&gt; - ‘Maen nhw’ means ‘they are’. This is the present tense, third person pural form of ‘bod’(to be) used in affirmative sentences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;methu fforddio&lt;/strong&gt; - can’t afford&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;denu ymwelwyr&lt;/strong&gt; - attract visitors&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;please let me know of any corrections&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Maen nhw’n ffigurau trawiadol - ‘Maen nhw’ means ‘they are’. This is the present tense, third person pural form of ‘bod’(to be) used in affirmative sentences.</summary></entry><entry><title type="html">Eisteddfod</title><link href="http://localhost:4000/eisteddfod/" rel="alternate" type="text/html" title="Eisteddfod" /><published>2020-08-10T00:00:00+01:00</published><updated>2020-08-10T00:00:00+01:00</updated><id>http://localhost:4000/eisteddfod</id><content type="html" xml:base="http://localhost:4000/eisteddfod/">&lt;p&gt;&lt;strong&gt;ydyn nhw’n dechrau fflagio?&lt;/strong&gt; - this sentence uses the question form of the present tense of ‘bod’(to be). In this case, ‘ydyn nhw’ is the third person plural and means ‘are they?’&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;mynd ati i (verbnoun)&lt;/strong&gt; - to go about …ing&lt;/p&gt;
 
@@ -36,8 +42,4 @@
 
 &lt;p&gt;rheolau - rules&lt;/p&gt;
 
-&lt;p&gt;ymbellhau cymdeithasol - social distancing&lt;/p&gt;</content><summary type="html">hardd - beautiful</summary></entry><entry><title type="html">Amgueddfa</title><link href="http://localhost:4000/amgueddfa/" rel="alternate" type="text/html" title="Amgueddfa " /><published>2020-08-01T00:00:00+01:00</published><updated>2020-08-01T00:00:00+01:00</updated><id>http://localhost:4000/amgueddfa </id><content type="html" xml:base="http://localhost:4000/amgueddfa/">&lt;p&gt;wyddoch chi - did you know&lt;/p&gt;
-
-&lt;p&gt;dyfeisio - invent&lt;/p&gt;
-
-&lt;p&gt;mantais -  advantage&lt;/p&gt;</content><summary type="html">wyddoch chi - did you know</summary></entry></feed>
+&lt;p&gt;ymbellhau cymdeithasol - social distancing&lt;/p&gt;</content><summary type="html">hardd - beautiful</summary></entry></feed>
