@@ -3,6 +3,15 @@
 
 cards:
 
+- front: gwyliau’r haf
+  back: summer holidays
+
+- front: peidiwch â phoeni
+  back: don't worry
+
+- front: holi ac ateb
+  back:  question and answer
+
 - front: methu fforddio
   back: can't afford
 
@@ -10,7 +19,7 @@ cards:
   back: now
 
 - front: mynd ati i
-  back:  to go about doing somethhing
+  back:  to go about doing something
 
 - front: y nod yn y pen draw 
   back: the ultimate aim

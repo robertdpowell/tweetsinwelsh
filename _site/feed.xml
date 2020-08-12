@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-11T06:19:30+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Bbc radio</title><link href="http://localhost:4000/bbc-radio/" rel="alternate" type="text/html" title="Bbc radio" /><published>2020-08-11T00:00:00+01:00</published><updated>2020-08-11T00:00:00+01:00</updated><id>http://localhost:4000/bbc radio</id><content type="html" xml:base="http://localhost:4000/bbc-radio/">&lt;p&gt;&lt;strong&gt;Maen nhw’n ffigurau trawiadol&lt;/strong&gt; - ‘Maen nhw’ means ‘they are’. This is the present tense, third person plural form of ‘bod’(to be) used in affirmative sentences.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-12T07:54:00+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Booktrust</title><link href="http://localhost:4000/booktrust/" rel="alternate" type="text/html" title="Booktrust" /><published>2020-08-12T00:00:00+01:00</published><updated>2020-08-12T00:00:00+01:00</updated><id>http://localhost:4000/booktrust</id><content type="html" xml:base="http://localhost:4000/booktrust/">&lt;p&gt;&lt;strong&gt;gwyliau’r haf&lt;/strong&gt; - summer holidays&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;peidiwch â phoeni&lt;/strong&gt; - don’t worry&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;holi ac ateb&lt;/strong&gt; - question and answer&lt;/p&gt;</content><summary type="html">gwyliau’r haf - summer holidays</summary></entry><entry><title type="html">Bbc radio</title><link href="http://localhost:4000/bbc-radio/" rel="alternate" type="text/html" title="Bbc radio" /><published>2020-08-11T00:00:00+01:00</published><updated>2020-08-11T00:00:00+01:00</updated><id>http://localhost:4000/bbc radio</id><content type="html" xml:base="http://localhost:4000/bbc-radio/">&lt;p&gt;&lt;strong&gt;Maen nhw’n ffigurau trawiadol&lt;/strong&gt; - ‘Maen nhw’ means ‘they are’. This is the present tense, third person plural form of ‘bod’(to be) used in affirmative sentences.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;methu fforddio&lt;/strong&gt; - can’t afford&lt;/p&gt;
 
@@ -38,8 +42,4 @@
 
 &lt;p&gt;o gwmpas - around&lt;/p&gt;
 
-&lt;p&gt;safleoedd hanesyddol - historic sites&lt;/p&gt;</content><summary type="html">cyrchfan wyliau - holiday destination</summary></entry><entry><title type="html">Coast</title><link href="http://localhost:4000/coast/" rel="alternate" type="text/html" title="Coast" /><published>2020-08-02T00:00:00+01:00</published><updated>2020-08-02T00:00:00+01:00</updated><id>http://localhost:4000/coast</id><content type="html" xml:base="http://localhost:4000/coast/">&lt;p&gt;hardd - beautiful&lt;/p&gt;
-
-&lt;p&gt;rheolau - rules&lt;/p&gt;
-
-&lt;p&gt;ymbellhau cymdeithasol - social distancing&lt;/p&gt;</content><summary type="html">hardd - beautiful</summary></entry></feed>
+&lt;p&gt;safleoedd hanesyddol - historic sites&lt;/p&gt;</content><summary type="html">cyrchfan wyliau - holiday destination</summary></entry></feed>
