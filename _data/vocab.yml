@@ -3,12 +3,23 @@
 
 cards:
 
+- front: er bod
+  back: although
+
+- front: felly hefyd
+  back: so too
+
+- front: gyda llaw
+  back: by the way
+
+- front: newid yn yr hinsawdd
+  back: climate change
+
 - front: rhaid i chi
   back: you've got to
 
 - front: y cyfan
   back: all
-
 
 - front: gweithio o bell
   back: remote working
