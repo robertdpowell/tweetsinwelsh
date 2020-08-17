@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-16T09:18:43+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Futuregen</title><link href="http://localhost:4000/futuregen/" rel="alternate" type="text/html" title="Futuregen" /><published>2020-08-16T00:00:00+01:00</published><updated>2020-08-16T00:00:00+01:00</updated><id>http://localhost:4000/futuregen</id><content type="html" xml:base="http://localhost:4000/futuregen/">&lt;p&gt;&lt;strong&gt;er bod&lt;/strong&gt; - although&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-17T07:10:39+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Mathameteg</title><link href="http://localhost:4000/mathameteg/" rel="alternate" type="text/html" title="Mathameteg" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>http://localhost:4000/mathameteg</id><content type="html" xml:base="http://localhost:4000/mathameteg/">&lt;p&gt;&lt;strong&gt;dogfen&lt;/strong&gt; - document&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tebyg&lt;/strong&gt; - similar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ar y gweill&lt;/strong&gt; - in the pipeline&lt;/p&gt;</content><summary type="html">dogfen - document</summary></entry><entry><title type="html">Futuregen</title><link href="http://localhost:4000/futuregen/" rel="alternate" type="text/html" title="Futuregen" /><published>2020-08-16T00:00:00+01:00</published><updated>2020-08-16T00:00:00+01:00</updated><id>http://localhost:4000/futuregen</id><content type="html" xml:base="http://localhost:4000/futuregen/">&lt;p&gt;&lt;strong&gt;er bod&lt;/strong&gt; - although&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;felly hefyd&lt;/strong&gt; - so, too&lt;/p&gt;
 
@@ -34,8 +38,4 @@
 
 &lt;p&gt;gweinyddiaeth - administration&lt;/p&gt;
 
-&lt;p&gt;lawn-amser - full-time&lt;/p&gt;</content><summary type="html">swyddog - officer</summary></entry><entry><title type="html">Nant</title><link href="http://localhost:4000/nant/" rel="alternate" type="text/html" title="Nant" /><published>2020-08-07T00:00:00+01:00</published><updated>2020-08-07T00:00:00+01:00</updated><id>http://localhost:4000/nant</id><content type="html" xml:base="http://localhost:4000/nant/">&lt;p&gt;munud-olaf - last minute&lt;/p&gt;
-
-&lt;p&gt;cyfforddus - comfortable&lt;/p&gt;
-
-&lt;p&gt;golygfeydd - views&lt;/p&gt;</content><summary type="html">munud-olaf - last minute</summary></entry></feed>
+&lt;p&gt;lawn-amser - full-time&lt;/p&gt;</content><summary type="html">swyddog - officer</summary></entry></feed>

@@ -3,6 +3,15 @@
 
 cards:
 
+- front: tebyg
+  back: similar   
+
+- front: dogfen
+  back: document
+
+- front: ar y gweill
+  back: in the pipeline 
+
 - front: er bod
   back: although
 
