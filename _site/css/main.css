@@ -6586,6 +6586,10 @@ body {
 .author {
   color: #c50132; }
 
+.new {
+  background-color: yellow;
+  border-radius: 50px; }
+
 .banner {
   background: -webkit-linear-gradient(to right, #c50132, #c50132);
   background: linear-gradient(to right, #c50132, #c50132);

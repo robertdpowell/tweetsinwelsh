@@ -1,0 +1,41 @@
+<script>
+  $(document).ready(function(){
+    $(".show" ).on ("click", function(){
+      $(this).next (".backCard").toggle();
+    });
+  });
+  </script>
+
+<section id="sentences">
+  <div class="container py-3">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="text-primary words-header">SENTENCE FLASHCARDS</h2>
+        {% for card in site.data.sentences.cards %}
+        <div class="row">
+       
+          <div class="col-sm-12 center">
+            <div class="frontCard container-sm"> 
+              <div class= "welshVocab"><p class="front cardCopy lead">{{card.front}}</p></div>
+            </div>
+            <button class="show btn btn-warning">
+          <div>SHOW</div>
+            </button>
+            <div class="backCard container-sm"> 
+              <div class= "englishVocab"><p class="text-success cardCopy lead">{{card.back}}</p></div>
+            </div>
+          </div>
+    
+      </div>
+      <div class="row">
+        <div class="col-sm-5"></div>
+        <div class="col-sm-2 vocabDivider"></div>
+        <div class="col-sm-5"></div>
+      </div>
+
+    {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
