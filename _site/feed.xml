@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-19T16:32:32+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Ramblers</title><link href="http://localhost:4000/ramblers/" rel="alternate" type="text/html" title="Ramblers" /><published>2020-08-19T00:00:00+01:00</published><updated>2020-08-19T00:00:00+01:00</updated><id>http://localhost:4000/ramblers</id><content type="html" xml:base="http://localhost:4000/ramblers/">&lt;p&gt;&lt;strong&gt;teithiau cerdded teuluol&lt;/strong&gt; - family walks&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-20T07:23:26+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Traffic</title><link href="http://localhost:4000/traffic/" rel="alternate" type="text/html" title="Traffic" /><published>2020-08-20T00:00:00+01:00</published><updated>2020-08-20T00:00:00+01:00</updated><id>http://localhost:4000/traffic</id><content type="html" xml:base="http://localhost:4000/traffic/">&lt;p&gt;&lt;strong&gt;rhybudd tywydd&lt;/strong&gt; - weather warning&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cymerwch ofal&lt;/strong&gt; - take care&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;arafwch&lt;/strong&gt; - slow down&lt;/p&gt;</content><summary type="html">rhybudd tywydd - weather warning</summary></entry><entry><title type="html">Ramblers</title><link href="http://localhost:4000/ramblers/" rel="alternate" type="text/html" title="Ramblers" /><published>2020-08-19T00:00:00+01:00</published><updated>2020-08-19T00:00:00+01:00</updated><id>http://localhost:4000/ramblers</id><content type="html" xml:base="http://localhost:4000/ramblers/">&lt;p&gt;&lt;strong&gt;teithiau cerdded teuluol&lt;/strong&gt; - family walks&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;dywedwch wrthym sut a pham&lt;/strong&gt; - tell us how and why&lt;/p&gt;
 
@@ -16,4 +20,6 @@
 
 &lt;p&gt;&lt;strong&gt;gyda llaw&lt;/strong&gt; - by the way&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;newid yn yr hinsawdd&lt;/strong&gt; - climate change&lt;/p&gt;</content><summary type="html">er bod - although</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;newid yn yr hinsawdd&lt;/strong&gt; - climate change&lt;/p&gt;</content><summary type="html">er bod - although</summary></entry><entry><title type="html">Shed</title><link href="http://localhost:4000/shed/" rel="alternate" type="text/html" title="Shed" /><published>2020-08-15T00:00:00+01:00</published><updated>2020-08-15T00:00:00+01:00</updated><id>http://localhost:4000/shed</id><content type="html" xml:base="http://localhost:4000/shed/">&lt;p&gt;&lt;strong&gt;rhaid i chi&lt;/strong&gt; - you’ve got to&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;y cyfan&lt;/strong&gt; - all&lt;/p&gt;</content><summary type="html">rhaid i chi - you’ve got to</summary></entry></feed>

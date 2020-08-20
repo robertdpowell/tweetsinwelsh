@@ -69,11 +69,6 @@ Until next time!
 <br>
 <br>
 
-Click here for all Tweets translated so far [TWEETS](https://tweetsinwelsh.com/)
-
-
-Click here for the vocabulary list [VOCAB](https://tweetsinwelsh.com/words/)
-
 <br>
 
 If this website helps you with your learning journey or if you have any feedback, please email me at **tweetsinwelsh@gmail.com**

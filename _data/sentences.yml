@@ -3,6 +3,9 @@
 
 cards:
 
+- front: Rydym yn cynghori gyrrwyr i deithio’n ofalus
+  back: We advise drivers to travel carefully
+
 - front: Dywedwch wrthym sut a pham eu bod yn arbennig i chi
   back: Tell us how and why it is special to you
 
@@ -24,8 +27,8 @@ cards:
 - front: Bydd holiadur yn cau mewn 4 diwrnod
   back: The questionnaire will close in 4 days 
 
-- front: Dyma Megan gyda rhagolygon y 5 niwrnod nesa
-  back: Here's Megan with the next 5 day forecast
+- front: Dyma Tomos gyda rhagolygon y 5 niwrnod nesa
+  back: Here's Tomos with the next 5 day forecast
 
 - front: Mae'n nhw'n chwilio am deuluoedd i gymryd rhan
   back: They are looking for families to take part
@@ -45,8 +48,8 @@ cards:
 - front: Mae'r tîm wedi bod yn gweithio'n galed
   back: The team have been working hard
 
-- front: Emily yw ein hoff bobydd yn y swyddfa
-  back: Emily is our favourite baker in the office
+- front: Emma yw ein hoff bobydd yn y swyddfa
+  back: Emma is our favourite baker in the office
 
 - front: Byddent yn gofyn i chi gwneud rhai pethau'n wahanol
   back: They will ask you to do some things differently
