@@ -49,7 +49,7 @@ Tweets are a wonderful medium for learning a language.
 
 1. They are short
 2. They are very often written in 'everyday' language 
-3. There are plenty of them (and they are cheap to source!)
+3. There are plenty of them
 4. They cover a wide variety of interests so there's something for everyone (music, sport, technology, the news..) 
 
 
