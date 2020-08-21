@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-20T17:04:17+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Traffic</title><link href="http://localhost:4000/traffic/" rel="alternate" type="text/html" title="Traffic" /><published>2020-08-20T00:00:00+01:00</published><updated>2020-08-20T00:00:00+01:00</updated><id>http://localhost:4000/traffic</id><content type="html" xml:base="http://localhost:4000/traffic/">&lt;p&gt;&lt;strong&gt;rhybudd tywydd&lt;/strong&gt; - weather warning&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-21T09:41:13+01:00</updated><id>http://localhost:4000/</id><entry><title type="html">Book</title><link href="http://localhost:4000/book/" rel="alternate" type="text/html" title="Book" /><published>2020-08-21T00:00:00+01:00</published><updated>2020-08-21T00:00:00+01:00</updated><id>http://localhost:4000/book</id><content type="html" xml:base="http://localhost:4000/book/">&lt;p&gt;&lt;strong&gt;tywyll&lt;/strong&gt; - dark&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;am y siawns i ennill&lt;/strong&gt; - for the chance to win&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;y cwbl sydd angen ei wneud&lt;/strong&gt; - all you need to do&lt;/p&gt;</content><summary type="html">tywyll - dark</summary></entry><entry><title type="html">Traffic</title><link href="http://localhost:4000/traffic/" rel="alternate" type="text/html" title="Traffic" /><published>2020-08-20T00:00:00+01:00</published><updated>2020-08-20T00:00:00+01:00</updated><id>http://localhost:4000/traffic</id><content type="html" xml:base="http://localhost:4000/traffic/">&lt;p&gt;&lt;strong&gt;rhybudd tywydd&lt;/strong&gt; - weather warning&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;cymerwch ofal&lt;/strong&gt; - take care&lt;/p&gt;
 
@@ -14,12 +18,4 @@
 
 &lt;p&gt;&lt;strong&gt;tebyg&lt;/strong&gt; - similar&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;ar y gweill&lt;/strong&gt; - in the pipeline&lt;/p&gt;</content><summary type="html">dogfen - document</summary></entry><entry><title type="html">Futuregen</title><link href="http://localhost:4000/futuregen/" rel="alternate" type="text/html" title="Futuregen" /><published>2020-08-16T00:00:00+01:00</published><updated>2020-08-16T00:00:00+01:00</updated><id>http://localhost:4000/futuregen</id><content type="html" xml:base="http://localhost:4000/futuregen/">&lt;p&gt;&lt;strong&gt;er bod&lt;/strong&gt; - although&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;felly hefyd&lt;/strong&gt; - so, too&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;gyda llaw&lt;/strong&gt; - by the way&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;newid yn yr hinsawdd&lt;/strong&gt; - climate change&lt;/p&gt;</content><summary type="html">er bod - although</summary></entry><entry><title type="html">Shed</title><link href="http://localhost:4000/shed/" rel="alternate" type="text/html" title="Shed" /><published>2020-08-15T00:00:00+01:00</published><updated>2020-08-15T00:00:00+01:00</updated><id>http://localhost:4000/shed</id><content type="html" xml:base="http://localhost:4000/shed/">&lt;p&gt;&lt;strong&gt;rhaid i chi&lt;/strong&gt; - you’ve got to&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;y cyfan&lt;/strong&gt; - all&lt;/p&gt;</content><summary type="html">rhaid i chi - you’ve got to</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;ar y gweill&lt;/strong&gt; - in the pipeline&lt;/p&gt;</content><summary type="html">dogfen - document</summary></entry></feed>
