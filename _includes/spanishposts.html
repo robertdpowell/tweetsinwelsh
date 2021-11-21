@@ -19,12 +19,12 @@
 
 <section id="posts">
    <div class="container">
-      {% for post in paginator.spanishposts %}
+      {% for post in spanishposts %}
       <div class="row post-entry">
       <div class="col-sm-12">
 
         <p class="post-date">
-          <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
+          <span class="day">{{ spost.date | | date_to_long_string | date: "%d" }}</span>
           <br class="post-divider">
           <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
         </p>
