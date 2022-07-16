@@ -18,6 +18,10 @@ twitter_username: tweetsinwelsh
 collections:
   blog:
     output: true
+  spanish:
+    output: true 
+  french:
+    output: true
 
 
 
