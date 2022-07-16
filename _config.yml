@@ -18,9 +18,9 @@ twitter_username: tweetsinwelsh
 collections:
   blog:
     output: true
-  spanish:
+  spanishposts:
     output: true 
-  french:
+  frenchposts:
     output: true
 
 
