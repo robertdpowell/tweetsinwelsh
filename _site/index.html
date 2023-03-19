@@ -31,139 +31,111 @@
 
 
 
-  <body>
-     <!-- NAV -->
-<body>
-
-            <nav class="navbar navbar-light navbar-expand-md bg-faded justify-content-center nav-padding py-0 px-0">
-
-            <!-- <a href="/"  alt="Logo link to return you to home page" class="d-flex mr-auto logo"><img src="https://robertdpowell.github.io/rp_blog//img/logo.png" alt="Blog Logo" class="logo"><span hidden>Rob Powell</span></a> -->
-
-    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a href="/" class="nav-link">TODAY'S TWEET</a>
-        </li>
-       
-          <li class="nav-item">
-          <a href="/about/" class="nav-link">ABOUT</a>
-        </li>
-          
-      </ul>
-    </div>
+  <nav class="navbar">
+  <div class="nav-container">
+    <a href="/" class="navbar-brand">Sgwrs Cymraeg</a>
+    <!-- <ul class="nav-menu">
+      <li class="nav-item">
+        <a href="/about" class="nav-link">About</a>
+      </li>
+    </ul> -->
   </div>
 </nav>
 
-
-     <section id="banner">
-    <div class="banner">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-4"></div>
-            <div class="col-sm-4 bannerimage"> <img class="img-fluid" src=/img/learnwelsh.png alt=Learn Welsh ></div>
-                <div class="col-sm-4"></div>
-            </div>
-        <div class="row">
-        <div class="col-sm-4"></div>
-            <div class="col-sm-12 bannerimage">
-                <h2 class="home-subtitle"></h2>
-            </div>
-            <div class="col-sm-4"></div>
-          
-        
-        </div>
-    </div>
-    </div>
-    </section>
-    
+  <body>
+    <body>
 
 
-
-    <script>
-  $(document).ready(function(){
-    $(".vocabbutton" ).on ("click", function(){
-      $(this).next (".vocab").toggle("slow");
-    });
-  });
-  </script>
-
-<script>
-  $(document).ready(function(){
-    $(".correctbutton" ).on ("click", function(){
-      $(this).next (".correct").toggle();
-    });
-  });
-  </script>
-
-
-
-
-<section id="posts">
-   <div class="container">
+  <!-- Dialogue Content -->
+  <div class="dialogue-container">
+    <button id="toggle-translation" class="toggle-translation"><i class="fas fa-eye"></i></button>
+    <div class="dialogue-box">
       
-      <div class="row post-entry">
-      <div class="col-sm-12">
-
-        <p class="post-date">
-          <span class="day">07</span>
-          <br class="post-divider">
-          <span class="month-year">Mar 2021</span>
-        </p>
-
-      </div>
+        
+          <div class="message jac">
+            <strong class="name">Jac</strong>
+            <p>Helo Sali, sut wyt ti heddiw</p>
+            <span class="translation">Hello Sali, how are you today</span>
+          </div>
+        
+        
+          <div class="message sali">
+            <strong class="name">Sali</strong>
+            <p>Helo Jac! Dw i'n iawn diolch, a ti?</p>
+            <span class="translation">Hello Jac! I'm fine, thank you, and you?</span>
+          </div>
+        
+      
+        
+          <div class="message jac">
+            <strong class="name">Jac</strong>
+            <p>Dw i'n iawn hefyd, diolch. O, mae gen i newyddion gwych! Rydyn ni'n trefnu parti yn y tŷ penwythnos nesaf. Rydyn ni angen paratoi'r tŷ.</p>
+            <span class="translation">I'm fine too, thank you. Oh, I have great news! We're organizing a party at the house next weekend. We need to prepare the house.</span>
+          </div>
+        
+        
+          <div class="message sali">
+            <strong class="name">Sali</strong>
+            <p>Waw, mae hynny'n swnio'n hwyl! Felly, beth mae angen i ni wneud i baratoi'r tŷ?</p>
+            <span class="translation">Wow, that sounds fun! So, what do we need to do to prepare the house?</span>
+          </div>
+        
+      
+        
+          <div class="message jac">
+            <strong class="name">Jac</strong>
+            <p>Wel, mae angen i ni glirio'r ystafell fyw, addurno, trefnu bwyd a diod, a gwahodd pobl.</p>
+            <span class="translation">Well, we need to clear the living room, decorate, arrange food and drinks, and invite people.</span>
+          </div>
+        
+        
+          <div class="message sali">
+            <strong class="name">Sali</strong>
+            <p>Iawn, gallaf i helpu gyda'r addurniadau a gwahodd rhai o'm ffrindiau. Beth am y bwyd a'r diod?</p>
+            <span class="translation">Okay, I can help with the decorations and invite some of my friends. What about the food and drinks?</span>
+          </div>
+        
+      
+        
+          <div class="message jac">
+            <strong class="name">Jac</strong>
+            <p>Gallwn ni brynu bwyd a diod o'r siop leol, a gwneud rhai pwdinau cartref hefyd. A wyt ti'n fodlon helpu gyda hynny?</p>
+            <span class="translation">We can buy food and drinks from the local store, and make some homemade snacks as well. Are you willing to help with that?</span>
+          </div>
+        
+        
+          <div class="message sali">
+            <strong class="name">Sali</strong>
+            <p>Wrth gwrs, mi fyddaf yn hapus iawn i helpu. Edrychaf ymlaen at y parti!</p>
+            <span class="translation">Of course, I'd be more than happy to help. I'm looking forward to the party!</span>
+          </div>
+        
+      
     </div>
-   
-      <div class="row post-entry">
-      <div class="col-sm-6">
-        <div class="tweet-section"> 
-          <p><blockquote class="twitter-tweet"><p lang="cy" dir="ltr">Weithiau gelwir amgueddfeydd yn atgof cenedl - gwnewch amgueddfa gartref allan o bethau sy’n bwysig i chi. Pa stori maen nhw&#39;n ei hadrodd? <br>Rhowch gynnig ar y gweithgaredd &#39;Amgueddfa ar blât&#39; gan Ceri Thompson <a href="https://twitter.com/BigPitMuseum?ref_src=twsrc%5Etfw">@BigPitMuseum</a> <a href="https://t.co/XjKTX5W17k">https://t.co/XjKTX5W17k</a> <a href="https://t.co/DFPniHyLWL">pic.twitter.com/DFPniHyLWL</a></p>&mdash; Amgueddfa Learning (@Amgueddfa_Learn) <a href="https://twitter.com/Amgueddfa_Learn/status/1367792264051834882?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="translation-section"> 
-
-          <div id="translation-block-one">
-            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
-            <textarea class="form-control" rows="3" placeholder="Try and translate the Tweet"></textarea>
-        </div>
-
-
-          <div id="translation-block-three">
-            <button class="vocabbutton btn-block btn-raised btn-warning">VOCAB/GRAMMAR</button>
-            <div class="vocab">  <p class= "translation-copy"><p><strong>weithiau</strong> - sometimes</p>
-
-<p><strong>atgof</strong> - memory</p>
-
-<p><strong>gweithgaredd</strong> - activity</p>
-
-</p></div>
-            </div>
-
-            <div id="translation-block-two">
-              <button class="correctbutton btn-block btn-raised btn-success">MY TRANSLATION</button>
-              <div class ="correct"> <p class="translation-copy">Museums are sometimes called a nation's memory - make a home museum out of things that are important to you. What story do they tell? Try the 'Museum on a plate' activity with Ceri Thompson.
-</p></div>
-            </div>
-
-           
-
-        </div>
-      </div>
-      <div class="col-sm-12 post-divider"></div>
   </div>
+  
+
+
+
+  <!-- JavaScript -->
+  <script>
+    document.getElementById("toggle-translation").addEventListener("click", function() {
+      var translations = document.getElementsByClassName("translation");
+      for (var i = 0; i < translations.length; i++) {
+        if (translations[i].classList.contains("show-translation")) {
+          translations[i].classList.remove("show-translation");
+        } else {
+          translations[i].classList.add("show-translation");
+        }
+      }
+    });
+  </script>
+</body>
 
 
 
 
-</div>
-<div class="col-sm-4"></div>
-      </div>
-      </div>
-      </div>
-</section>
+
 
 
     <footer class="py-5">
@@ -196,12 +168,6 @@
       </div>
     </div>
    
-    <div class="row">
-      <div class="col">
-        <p class="author small">Tweet content displayed using Twitter's <a href="https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview"><b>Embedded Tweets</b></a> feature</p>
-      </div>
-    </div>
-
   </div>
 </footer>
 

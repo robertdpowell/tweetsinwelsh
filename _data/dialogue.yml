@@ -1,0 +1,29 @@
+# _data/dialogue.yml
+#-------------------------------
+# dialogue section
+
+dialogue:
+  - jac: 
+      text: Helo Sali, sut wyt ti heddiw
+      translation: Hello Sali, how are you today
+    sali:
+      text: Helo Jac! Dw i'n iawn diolch, a ti?
+      translation: Hello Jac! I'm fine, thank you, and you?
+  - jac:
+      text: Dw i'n iawn hefyd, diolch. O, mae gen i newyddion gwych! Rydyn ni'n trefnu parti yn y tŷ penwythnos nesaf. Rydyn ni angen paratoi'r tŷ.
+      translation: I'm fine too, thank you. Oh, I have great news! We're organizing a party at the house next weekend. We need to prepare the house.
+    sali:
+      text: Waw, mae hynny'n swnio'n hwyl! Felly, beth mae angen i ni wneud i baratoi'r tŷ?
+      translation: Wow, that sounds fun! So, what do we need to do to prepare the house?
+  - jac:
+      text: Wel, mae angen i ni glirio'r ystafell fyw, addurno, trefnu bwyd a diod, a gwahodd pobl.
+      translation: Well, we need to clear the living room, decorate, arrange food and drinks, and invite people.
+    sali:
+      text: Iawn, gallaf i helpu gyda'r addurniadau a gwahodd rhai o'm ffrindiau. Beth am y bwyd a'r diod?
+      translation: Okay, I can help with the decorations and invite some of my friends. What about the food and drinks?
+  - jac:
+      text: Gallwn ni brynu bwyd a diod o'r siop leol, a gwneud rhai pwdinau cartref hefyd. A wyt ti'n fodlon helpu gyda hynny?
+      translation: We can buy food and drinks from the local store, and make some homemade snacks as well. Are you willing to help with that?
+    sali:
+      text: Wrth gwrs, mi fyddaf yn hapus iawn i helpu. Edrychaf ymlaen at y parti!
+      translation: Of course, I'd be more than happy to help. I'm looking forward to the party!

@@ -1,0 +1,76 @@
+@keyframes fadeIn
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+.dialogue-box
+  @extend .container
+  max-width: 50%
+  background-color: #f0f0f0
+  padding: 20px
+  margin: 20px auto
+  position: relative
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.15)
+  overflow: auto
+  animation: fadeIn 2s ease-in-out
+
+.message
+  border-radius: 15px
+  padding: 10px
+  margin-bottom: 25px
+  display: inline-block
+  max-width: 70%
+
+.jac
+  background-color: #DCF8C6
+  color: #000
+  text-align: left
+  float: left
+  clear: both
+
+.sali
+  background-color: #34B7F1
+  color: #fff
+  text-align: left
+  float: right
+  clear: both
+
+.translation
+  font-style: italic
+  opacity: 0
+  margin-top: 12px
+  padding: 6px
+  line-height: 1.4
+  max-height: 0
+  overflow: hidden
+  transition: opacity 0.5s, max-height 0.5s
+
+
+.show-translation
+  opacity: 1
+  max-height: 100px
+
+.toggle-translation
+  background-color: #34B7F1
+  border: none
+  border-radius: 50%
+  color: #ffffff
+  cursor: pointer
+  font-size: 1.2rem
+  font-weight: bold
+  width: 40px
+  height: 40px
+  display: flex
+  align-items: center
+  justify-content: center
+  position: fixed
+  bottom: 30px
+  right: 30px
+  z-index: 1000
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.15)
+  transition: background-color 0.3s, transform 0.3s
+  &:hover
+    background-color: #1d90d5
+    transform: translateY(-2px)
+

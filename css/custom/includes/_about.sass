@@ -1,17 +1,35 @@
-.about-entry-details
-  padding: 15px 1px 15px 15px
+@keyframes fadeIn
+  0%
+    opacity: 0
+  100%
+    opacity: 1
 
-.about-title
-  text-align: center
-  color: $primary
+.about-container
+  margin-top: 100px
+  max-width: 80%
+  margin: 100px auto 20px auto
+  line-height: 1.6
+  font-size: 1.1rem
+  background-color: #f0f0f0
+  padding: 40px
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.15)
+  animation: fadeIn 2s ease-in-out
 
-.about-subtitle
-  color: $primary  
-  font-size: 15px
-  text-align: left
+  h1
+    font-size: 2.5rem
+    margin-bottom: 30px
+    color: #34B7F1
+    text-align: center
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1)
 
-.about-text
-  text-align: left
- 
-.email-text
-  text-align: center
+  p
+    margin-bottom: 1.5rem
+    text-indent: 1.5rem
+    color: #333
+
+  a
+    color: #34B7F1
+    text-decoration: none
+    &:hover
+      color: #007BCC
+      text-decoration: underline

@@ -1,0 +1,48 @@
+<body>
+
+
+  <!-- Dialogue Content -->
+  <div class="dialogue-container">
+    <button id="toggle-translation" class="toggle-translation"><i class="fas fa-eye"></i></button>
+    <div class="dialogue-box">
+      {% for entry in site.data.dialogue.dialogue %}
+        {% if entry.jac %}
+          <div class="message jac">
+            <strong class="name">Jac</strong>
+            <p>{{ entry.jac.text }}</p>
+            <span class="translation">{{ entry.jac.translation }}</span>
+          </div>
+        {% endif %}
+        {% if entry.sali %}
+          <div class="message sali">
+            <strong class="name">Sali</strong>
+            <p>{{ entry.sali.text }}</p>
+            <span class="translation">{{ entry.sali.translation }}</span>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  
+
+
+
+  <!-- JavaScript -->
+  <script>
+    document.getElementById("toggle-translation").addEventListener("click", function() {
+      var translations = document.getElementsByClassName("translation");
+      for (var i = 0; i < translations.length; i++) {
+        if (translations[i].classList.contains("show-translation")) {
+          translations[i].classList.remove("show-translation");
+        } else {
+          translations[i].classList.add("show-translation");
+        }
+      }
+    });
+  </script>
+</body>
+
+
+
+
+
