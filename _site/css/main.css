@@ -6651,8 +6651,8 @@ body {
   align-items: center;
   justify-content: center;
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  top: 100px;
+  right: 20px;
   z-index: 1000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.15);
   transition: background-color 0.3s, transform 0.3s; }
