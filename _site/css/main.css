@@ -6593,7 +6593,7 @@ body {
   100% {
     opacity: 1; } }
 .dialogue-box {
-  max-width: 80%;
+  max-width: 75%;
   background-color: #f0f0f0;
   padding: 20px;
   margin: 20px auto;
