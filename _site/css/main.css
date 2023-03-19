@@ -6593,7 +6593,7 @@ body {
   100% {
     opacity: 1; } }
 .dialogue-box {
-  max-width: 50%;
+  max-width: 80%;
   background-color: #f0f0f0;
   padding: 20px;
   margin: 20px auto;
@@ -6607,7 +6607,7 @@ body {
   padding: 10px;
   margin-bottom: 25px;
   display: inline-block;
-  max-width: 70%; }
+  max-width: 80%; }
 
 .jac {
   background-color: #DCF8C6;
