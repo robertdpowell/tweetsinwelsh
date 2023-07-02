@@ -6555,6 +6555,10 @@ body {
 .disabled a:hover {
   background-color: transparent; }
 
+.nav {
+  background: -webkit-linear-gradient(to right, #c50132, #c50132);
+  background: linear-gradient(to right, #c50132, #c50132); }
+
 .logo {
   height: 80px;
   width: 80px; }
