@@ -19,19 +19,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-<script defer>
-  document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll('button').forEach(button => {
-    button.addEventListener('click', function() {
-      const contentId = this.getAttribute('aria-controls');
-      console.log('contentId:', contentId); // new line
-      const contentDiv = document.getElementById(contentId);
-      console.log('contentDiv:', contentDiv); // new line
-      contentDiv.classList.toggle('hidden');
-    });
-  });
-});
-    </script>
+
   
 
   <title>Learning Welsh through Tweets</title>
