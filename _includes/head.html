@@ -21,14 +21,16 @@
 
 <script defer>
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll('button').forEach(button => {
-      button.addEventListener('click', function() {
-        const contentId = this.getAttribute('aria-controls');
-        const contentDiv = document.getElementById(contentId);
-        contentDiv.classList.toggle('hidden');
-      });
+  document.querySelectorAll('button').forEach(button => {
+    button.addEventListener('click', function() {
+      const contentId = this.getAttribute('aria-controls');
+      console.log('contentId:', contentId); // new line
+      const contentDiv = document.getElementById(contentId);
+      console.log('contentDiv:', contentDiv); // new line
+      contentDiv.classList.toggle('hidden');
     });
   });
+});
     </script>
   
 
