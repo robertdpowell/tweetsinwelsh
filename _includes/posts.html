@@ -1,18 +1,3 @@
-<script defer>
-document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll('button').forEach(button => {
-    button.addEventListener('click', function() {
-      const contentId = this.getAttribute('aria-controls');
-      const contentDiv = document.getElementById(contentId);
-      contentDiv.classList.toggle('hidden');
-    });
-  });
-});
-  </script>
-
-
-
-
 <section id="posts">
   <div class="container">
     {% for post in paginator.posts %}

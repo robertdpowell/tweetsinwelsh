@@ -19,6 +19,19 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+<script defer>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('button').forEach(button => {
+      button.addEventListener('click', function() {
+        const contentId = this.getAttribute('aria-controls');
+        const contentDiv = document.getElementById(contentId);
+        contentDiv.classList.toggle('hidden');
+      });
+    });
+  });
+    </script>
+  
+
   <title>Learning Welsh through Tweets</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <link rel="stylesheet" href="/css/main.css">
