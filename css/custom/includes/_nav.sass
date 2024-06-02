@@ -1,5 +1,7 @@
+$red-banner-color: #c50132
+
 .nav
-  background: #c50132
+  background: $red-banner-color
 
 .logo
   height: 80px
@@ -7,8 +9,8 @@
 
 .navbar
   box-shadow: 1px 1px 3px $primary
-  opacity: 0.6
-  background: $white
+  opacity: 1 // Set opacity to 1 to make sure the background color is fully visible
+  background: $red-banner-color // Update this to match the banner
   overflow-x: hidden
 
 .nav-item
@@ -16,11 +18,10 @@
   font-weight: 400
   text-align: center
 
-  
 .navbar-light .navbar-nav .nav-link
-  color: $rightgradient
+  color: white // Ensure the text is visible on the red background
   &:hover
-      color: $leftgradient 
+    color: $leftgradient
 
 .footer-link
   font-size: 1.1rem
