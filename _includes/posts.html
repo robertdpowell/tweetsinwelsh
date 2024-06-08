@@ -67,34 +67,27 @@
 
 
 {% if paginator.total_pages > 1 %}
-
 <div class="row paginate-belt">
-  <div class="col-sm-4"></div>
-  <div class="col-sm-4 d-flex justify-content-center text-wrap">
-    <div class= "pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; </a>
-  {% else %}
-    <span></span>
-  {% endif %}
+  <div class="col-sm-12 d-flex justify-content-between">
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom">Previous</a>
+      {% else %}
+      <span class="btn btn-custom disabled">Previous</span>
+      {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <a class= "currentpage">{{ page }}</a>
-    {% elsif page == 1 %}
-      <a href="/">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+      <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}"> &raquo;</a>
-  {% else %}
-    <span></span>
-  {% endif %}
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-custom">Next</a>
+      {% else %}
+      <span class="btn btn-custom disabled">Next</span>
+      {% endif %}
+    </div>
+  </div>
 </div>
 {% endif %}
+
 </div>
 <div class="col-sm-4"></div>
       </div>
