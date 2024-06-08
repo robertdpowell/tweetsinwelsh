@@ -73,7 +73,7 @@
       {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom"><</a>
       {% else %}
-      <span class="btn btn-custom disabled"><Previous></span>
+      <span class="btn btn-custom disabled"><></span>
       {% endif %}
 
       <span class="paginator-separator">Tweet {{ paginator.page }} of {{ paginator.total_pages }}</span>
