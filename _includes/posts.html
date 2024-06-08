@@ -71,7 +71,7 @@
   <div class="col-sm-12 d-flex justify-content-between">
     <div class="pagination">
       {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom">Previous</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom"><<</a>
       {% else %}
       <span class="btn btn-custom disabled">Previous</span>
       {% endif %}
@@ -79,7 +79,7 @@
       <span class="paginator-separator">Tweet {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
       {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-custom">Next</a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-custom">>></a>
       {% else %}
       <span class="btn btn-custom disabled">Next</span>
       {% endif %}
