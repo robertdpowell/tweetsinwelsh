@@ -1,3 +1,15 @@
 {
-  "postCreateCommand": "/bin/bash setup.sh"
+  "name": "Jekyll Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "github.vscode-github-actions",
+    "rebornix.Ruby"
+  ],
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "remoteUser": "vscode"
 }
