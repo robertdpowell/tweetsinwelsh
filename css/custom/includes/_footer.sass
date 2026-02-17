@@ -2,14 +2,29 @@
   a
     text-decoration: none
     padding-right: 10px
-    color: $primary
-
+    color: $text-muted
+    transition: color 0.2s ease
     &:hover
-      color: $info 
+      color: $primary
+
+footer
+  background: $bg-white
+  border-top: 1px solid $border-light
+  margin-top: 2rem
+
+  hr
+    display: none
 
 .footer-text
-  color: $primary
-  font-family: 'Nunito', sans-serif
-  font-weight: 400
+  color: $text-muted
+  font-family: 'Inter', 'Nunito', sans-serif
+  font-weight: 500
+  font-size: 0.85rem
   text-align: center
   padding: 10px 0
+  letter-spacing: 0.04em
+  text-transform: uppercase
+  transition: color 0.2s ease
+  &:hover
+    color: $primary
+    text-decoration: none

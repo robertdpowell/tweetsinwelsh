@@ -14,74 +14,66 @@
   });
   </script>
 
-
-
-
 <section id="posts">
    <div class="container">
       {% for post in paginator.posts %}
-      <div class="row post-entry">
-      <div class="col-sm-12">
-
-        <p class="post-date">
-          <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
-          <br class="post-divider">
-          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
-        </p>
-
-      </div>
-    </div>
-   
-      <div class="row post-entry">
-      <div class="col-sm-6">
-        <div class="tweet-section"> 
-          <p>{{ post.tweet }}</p>
-        </div>
-      </div>
-      <div class="col-sm-6">
-        <div class="translation-section"> 
-
-          <div id="translation-block-one">
-            <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">YOUR TRANSLATION</button>
-            <textarea class="form-control" rows="8" placeholder="Try to translate the post"></textarea>
+      <div class="post-card">
+        <div class="row align-items-center mb-3">
+          <div class="col-auto">
+            <p class="post-date mb-0">
+              <span class="day">{{ post.date | | date_to_long_string | date: "%d" }}</span>
+              <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
+            </p>
+          </div>
         </div>
 
-
-          <div id="translation-block-three">
-            <button class="vocabbutton btn-block btn-raised btn-warning">HINTS</button>
-            <div class="vocab">  <p class= "translation-copy">{{post.content | json}}</p></div>
+        <div class="row">
+          <div class="col-md-6 mb-3 mb-md-0">
+            <div class="tweet-section">
+              <p>{{ post.tweet }}</p>
             </div>
+          </div>
+          <div class="col-md-6">
+            <div class="translation-section">
 
-            <div id="translation-block-two">
-              <button class="correctbutton btn-block btn-raised btn-success">TRANSLATION</button>
-              <div class ="correct"> <p class="translation-copy">{{post.correcttranslation}}</p></div>
+              <div id="translation-block-one">
+                <button class="mytranslationbutton btn-block btn-raised btn-danger disabled yourtranslation">Your Translation</button>
+                <textarea class="form-control" rows="8" placeholder="Try to translate the post..."></textarea>
+              </div>
+
+              <div id="translation-block-three">
+                <button class="vocabbutton btn-block btn-raised btn-warning">Hints</button>
+                <div class="vocab"><p class="translation-copy">{{post.content | json}}</p></div>
+              </div>
+
+              <div id="translation-block-two">
+                <button class="correctbutton btn-block btn-raised btn-success">Translation</button>
+                <div class="correct"><p class="translation-copy">{{post.correcttranslation}}</p></div>
+              </div>
+
             </div>
-
-           
-
+          </div>
         </div>
       </div>
-      <div class="col-sm-12 post-divider"></div>
-  </div>
 {% endfor %}
 
 
 {% if paginator.total_pages > 1 %}
 <div class="row paginate-belt">
-  <div class="col-sm-12 d-flex justify-content-between">
+  <div class="col-sm-12">
     <div class="pagination">
       {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom"><</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-custom">&lsaquo;</a>
       {% else %}
-      <span class="btn btn-custom disabled"><</span>
+      <span class="btn btn-custom disabled">&lsaquo;</span>
       {% endif %}
 
       <span class="paginator-separator">Post {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
       {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-custom">></a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-custom">&rsaquo;</a>
       {% else %}
-      <span class="btn btn-custom disabled">></span>
+      <span class="btn btn-custom disabled">&rsaquo;</span>
       {% endif %}
     </div>
   </div>
@@ -89,8 +81,4 @@
 {% endif %}
 
 </div>
-<div class="col-sm-4"></div>
-      </div>
-      </div>
-      </div>
 </section>

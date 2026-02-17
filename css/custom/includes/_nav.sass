@@ -1,7 +1,5 @@
-$red-banner-color: #c50132
-
 .nav
-  background: $red-banner-color
+  background: $bg-white
   max-width: 100%
 
 .logo
@@ -9,37 +7,53 @@ $red-banner-color: #c50132
   width: 80px
 
 .navbar
-  box-shadow: 1px 1px 3px $primary
-  opacity: 1 // Set opacity to 1 to make sure the background color is fully visible
-  background: $red-banner-color // Update this to match the banner
+  box-shadow: $shadow-sm
+  background: $bg-white
   overflow-x: hidden
+  border-bottom: 1px solid $border-light
+  padding: 0.75rem 1.5rem
 
 .nav-item
-  font-family: 'Nunito', sans-serif
-  font-size: 1.1rem
-  font-weight: 400
+  font-family: 'Inter', 'Nunito', sans-serif
+  font-size: 0.85rem
+  font-weight: 600
   text-align: center
-  margin-right: 20px
+  margin-right: 8px
+  letter-spacing: 0.08em
+  text-transform: uppercase
 
 .navbar-light .navbar-nav .nav-link
-  color: white // Ensure the text is visible on the red background
+  color: $text-dark
+  padding: 0.5rem 1rem
+  border-radius: $radius-sm
+  transition: all 0.2s ease
   &:hover
-    color: $leftgradient
+    color: $primary
+    background-color: rgba($primary, 0.06)
+  &.active
+    color: $primary
+
+.navbar-brand-text
+  font-family: 'Inter', 'Nunito', sans-serif
+  font-weight: 700
+  font-size: 1.1rem
+  color: $primary
+  letter-spacing: -0.01em
 
 .footer-link
   font-size: 1.1rem
   padding-right: 15px
   text-align: center
-  color: $rightgradient
+  color: $primary
   &:hover
-    color: $leftgradient
+    color: $primary-dark
 
 .author
   color: $primary
 
 .new
-  background-color: yellow
+  background-color: $warning-accent
   border-radius: 50px
-
-
-  
+  color: white
+  font-size: 0.75rem
+  padding: 2px 10px

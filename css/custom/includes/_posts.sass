@@ -1,75 +1,134 @@
 #posts
+  padding-top: 2rem
+  padding-bottom: 2rem
   a
     text-decoration: none
     &:hover
-      color: $rightgradient
+      color: $primary
 
 .translation-section
-  padding-top: 15px
+  padding-top: 0
+
+.post-card
+  background: $bg-white
+  border-radius: $radius-lg
+  box-shadow: $shadow-md
+  padding: 2rem
+  margin-bottom: 2rem
+  border: 1px solid $border-light
+  transition: box-shadow 0.3s ease, transform 0.2s ease
+  &:hover
+    box-shadow: $shadow-lg
+
+.tweet-section
+  background: $bg-subtle
+  border-radius: $radius-md
+  padding: 1.25rem
+  border: 1px solid $border-light
+  margin-bottom: 1rem
 
 #translation-block-one
-  border-color: #c50132
-  padding-left: 20px
+  padding: 0
+  margin-bottom: 0.75rem
 
 #translation-block-two
-  border-color: green
-  padding-left: 20px
+  padding: 0
 
 #translation-block-three
-  border-color: orange
-  padding-left: 20px
+  padding: 0
 
 .translation-copy
-  font-family: 'Roboto', sans-serif
+  font-family: 'Inter', 'Roboto', sans-serif
+  font-size: 0.95rem
+  line-height: 1.7
+  color: $text-body
+  padding: 1rem
+  background: $bg-subtle
+  border-radius: $radius-sm
+  margin-top: 0.25rem
 
 .translation-header
-  color: $leftgradient 
-  font-weight: bold
+  color: $primary
+  font-weight: 700
 
 .translation-sub-header-first
-  color: #c50132
-  font-weight: bold
-
+  color: $primary
+  font-weight: 700
 
 .translation-sub-header-correct
-  color: #2C7744
-  font-weight: bold
+  color: $accent
+  font-weight: 700
 
 .translation-sub-header-learned
-  color: #F37335
-  font-weight: bold
+  color: $warning-accent
+  font-weight: 700
 
 .post-divider
-  border: 1px solid 
-  border-color: #B0B0B0
-  padding-top: 40px
-  border-top-style: none
-  border-left-style: none
-  border-right-style: none
+  border: none
+  border-bottom: 1px solid $border-light
+  padding-top: 1rem
+  margin-bottom: 1rem
 
 .btn-block
-  margin-bottom: 20px
-  padding-top: 10px
-  padding-bottom: 10px 
-  border-radius: 10px
+  margin-bottom: 0.75rem
+  padding: 0.625rem 1rem
+  border-radius: $radius-md
   outline: none !important
+  font-family: 'Inter', 'Nunito', sans-serif
+  font-weight: 600
+  font-size: 0.8rem
+  letter-spacing: 0.06em
+  text-transform: uppercase
+  border: none
+  transition: all 0.2s ease
+  &:focus
+    box-shadow: none
 
+.btn-danger
+  background-color: $primary
+  border-color: $primary
+  &:hover
+    background-color: $primary-dark
+
+.btn-warning
+  background-color: $warning-accent
+  color: white
+  &:hover
+    background-color: darken($warning-accent, 8%)
+    color: white
+
+.btn-success
+  background-color: $accent
+  border-color: $accent
+  &:hover
+    background-color: darken($accent, 8%)
 
 .vocab
   display: none
 
 .yourtranslation
-  margin-bottom: 20px
-  padding-top: 5px
-  padding-bottom: 5px !important
-  border-radius: 10px !important
+  margin-bottom: 0.75rem
+  padding: 0.5rem 1rem
+  border-radius: $radius-md !important
   outline: none !important
+  cursor: default
 
 .correct
   display: none
 
 .form-control
-  margin-bottom: 20px
-  padding-bottom: 10px 
-
-
+  margin-bottom: 0.75rem
+  padding: 0.75rem 1rem
+  border: 1px solid $border-light
+  border-radius: $radius-md
+  font-family: 'Inter', 'Roboto', sans-serif
+  font-size: 0.95rem
+  background-color: $bg-white
+  color: $text-body
+  transition: border-color 0.2s ease, box-shadow 0.2s ease
+  &:focus
+    border-color: $primary
+    box-shadow: 0 0 0 3px rgba($primary, 0.1)
+    outline: none
+  &::placeholder
+    color: $text-light
